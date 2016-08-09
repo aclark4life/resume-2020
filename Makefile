@@ -22,7 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-.DEFAULT_GOAL=git-commit-auto-push
+.DEFAULT_GOAL=resume
 
 APP=app
 MESSAGE="Update"
@@ -232,3 +232,8 @@ vagrant-init:
 	vagrant up --provider virtualbox
 vagrant-up:
 	vagrant up --provision
+
+# Resume
+resume: resume-build git-commit-auto-push
+resume-build:
+	rst2html.py resume.rst > index.html
