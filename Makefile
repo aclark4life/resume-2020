@@ -237,6 +237,6 @@ vagrant-up:
 resume: resume-build git-commit-auto-push
 resume-build: resume-html resume-pdf
 resume-html:
-	rst2html.py resume.rst > index.html
+	rst2html.py README.rst > index.html
 resume-pdf:
-	rst2pdf resume.rst -o alex-clark-python-web-developer.pdf
+	rst2pdf README.rst -o alex-clark-python-web-developer.pdf
