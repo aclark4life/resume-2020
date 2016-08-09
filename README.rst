@@ -1,7 +1,6 @@
-Alex Clark's Résumé
-===================
+Alex Clark
+==========
+
+Python Web Developer
 
 .. image:: aclark-jobs.jpg
-
-Alex Clark — Python Web Developer
----------------------------------
