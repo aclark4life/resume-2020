@@ -22,7 +22,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-.DEFAULT_GOAL=resume
+.DEFAULT_GOAL=resume-build
 
 APP=app
 MESSAGE="Update"
@@ -237,6 +237,6 @@ vagrant-up:
 resume: resume-build git-commit-auto-push
 resume-build: resume-html resume-pdf
 resume-html:
-	rst2html.py README.rst > index.html
+	rst2html5 --bootstrap-css README.rst > index.html
 resume-pdf:
 	rst2pdf README.rst -o alex-clark-python-web-developer.pdf
