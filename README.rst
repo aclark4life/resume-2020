@@ -9,6 +9,10 @@ Alex Clark
 Python Web Developer
 --------------------
 
+.. class:: alert alert-warning
+
+Work in progress, August 2016
+
 About
 ~~~~~
 
