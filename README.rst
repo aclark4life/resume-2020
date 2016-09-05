@@ -1,15 +1,9 @@
 .. class:: container
 
-Alex Clark
-==========
-
-.. class:: center-block img-thumbnail
 .. image:: aclark-jobs.jpg
 
-Python Web Developer
---------------------
-
-.. class:: alert alert-warning
+Alex Clark
+==========
 
 Work in progress, August 2016
 
