@@ -239,4 +239,4 @@ resume-build: resume-html resume-pdf
 resume-html:
 	rst2html.py --stylesheet=bootstrap.min.css,resume.css README.rst > index.html
 resume-pdf:
-	rst2pdf README.rst -o alex-clark-python-web-developer-resume.pdf
+	rst2pdf README.rst -o alex-clark-resume.pdf
