@@ -32,7 +32,7 @@ endobj
 << /Outlines 11 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog >>
 endobj
 10 0 obj
-<< /Author () /CreationDate (D:20160905075926+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160905075926+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160905080945+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160905080945+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 11 0 obj
@@ -55,7 +55,7 @@ endobj
 << /Count 1 /Kids [ 8 0 R ] /Type /Pages >>
 endobj
 17 0 obj
-<< /Length 2815 >>
+<< /Length 2810 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -95,7 +95,7 @@ q
 1 0 0 1 62.69291 548.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .734692 Tw (Alex Clark is a Python Web Developer. He has a Bachelor of Science in Computer Science from Loyola) Tj T* 0 Tw .064597 Tw (University in Maryland and has worked as a Systems Administrator, Network Engineer, Software Engineer) Tj T* 0 Tw 2.68936 Tw (and Technical Team Leader since May 1998. He is also the President of DC Python, a non-profit) Tj T* 0 Tw (organization he co-founded to promote and support the use of Python software in DC.) Tj T* ET
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .734692 Tw (Alex Clark is a Python Web Developer. He has a Bachelor of Science in Computer Science from Loyola) Tj T* 0 Tw .064597 Tw (University in Maryland and has worked as a Systems Administrator, Network Engineer, Software Engineer) Tj T* 0 Tw .012927 Tw (and Technical Leader since May 1998. He is also the President of DC Python, a non-profit organization he) Tj T* 0 Tw (co-founded to promote and support the use of Python software in DC.) Tj T* ET
 Q
 Q
 q
@@ -224,13 +224,13 @@ xref
 0000007766 00000 n
 0000007886 00000 n
 0000007949 00000 n
-0000010821 00000 n
-0000010865 00000 n
+0000010816 00000 n
+0000010860 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\243\255\345\371p\225~v\322\345\265\376\034\361^\353) (\243\255\345\371p\225~v\322\345\265\376\034\361^\353)]
+ [(q\234\030\273\006\014\034\220\301\275\274\011\236\247O\257) (q\234\030\273\006\014\034\220\301\275\274\011\236\247O\257)]
  /Info 10 0 R /Root 9 0 R /Size 20 >>
 startxref
-10902
+10897
 %%EOF
