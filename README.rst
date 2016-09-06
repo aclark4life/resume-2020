@@ -5,6 +5,9 @@ Alex Clark
 
 .. image:: aclark-jobs.jpg
 
+Python Web Developer
+--------------------
+
 About
 ~~~~~
 
