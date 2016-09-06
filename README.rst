@@ -84,15 +84,15 @@ Genuity
 Charm Net
 ~~~~~~~~~
 
-**Systems Administrator**
+    **Systems Administrator**
 
-January, 1998 – August, 1998
+    January, 1998 – August, 1998
 
-- Administrated 4 BSDI Servers for 2000+ users
-- Installed and congured DNS, NFS, Sendmail, Apache, INND, and Dump/Restore
-- Installed hardware and software for real-time broadcasting of FM-Radio over the internet
-- Installed and congured BSDI servers and Windows NT 4.0 workstations
-- Provided operations and applications support 
+    - Administrated 4 BSDI Servers for 2000+ users
+    - Installed and congured DNS, NFS, Sendmail, Apache, INND, and Dump/Restore
+    - Installed hardware and software for real-time broadcasting of FM-Radio over the internet
+    - Installed and congured BSDI servers and Windows NT 4.0 workstations
+    - Provided operations and applications support 
 
 |
 
