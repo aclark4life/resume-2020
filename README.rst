@@ -70,7 +70,7 @@ Genuity
 
     **Network Engineer**
 
-    October, 1998 – November, 2001
+    October, 1998 — November, 2001
 
     `https://en.wikipedia.org/wiki/BBN_Technologies <https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers>`_
 
@@ -86,7 +86,7 @@ Charm Net
 
     **Systems Administrator**
 
-    January, 1998 – August, 1998
+    January, 1998 — August, 1998
 
     - Administrated 4 BSDI Servers for 2000+ users
     - Installed and congured DNS, NFS, Sendmail, Apache, INND, and Dump/Restore
@@ -101,7 +101,7 @@ Loyola University Maryland
 
     **Help Desk Consultant, Student Technician**
 
-    August, 1996 – November, 1997
+    August, 1996 — November, 1997
 
     http://www.loyola.edu/department/technology-services
 
