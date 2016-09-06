@@ -11,24 +11,25 @@ Python Web Developer
 About
 ~~~~~
 
-Alex Clark is a Python Web Developer from Baltimore, Maryland, USA currently living in Bethesda, Maryland, USA. He has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked as a Systems Administrator, Network Engineer, Software Engineer and Team Leader since May 1998. He is also the President of DC Python, a non-profit organization he co-founded to promote and support the use of Python software in DC.
+Alex Clark is a Python Web Developer from Baltimore, Maryland, USA currently living in Bethesda, Maryland. He has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked as a Network Engineer, Software Engineer, Systems Administrator and Technical Team Leader since May 1998. He is also the President of DC Python, a non-profit organization he co-founded to promote and support the use of Python software in DC.
 
 Work Experience
 ~~~~~~~~~~~~~~~
 
-    **ACLARK.NET, LLC**
+**ACLARK.NET, LLC**
 
-    http://aclark.net
+http://aclark.net
 
-    May 2004 — Present
+May 2004 — Present
 
 Partner, Python Web Developer
-+++++++++++++++++++++++++++++
 
 |
 
-    **Neurophysiology Imaging Facility (NIF) Division of Intramural Research Programs (DIRP) National Institute of Mental Health (NIMH) National Institutes of Health (NIH)**
+**Neurophysiology Imaging Facility (NIF) Division of Intramural Research Programs (DIRP) National Institute of Mental Health (NIMH) National Institutes of Health (NIH)**
 
-    http://www.nimh.nih.gov
+http://www.nimh.nih.gov
 
-    March 2013 — Present
+March 2013 — Present
+
+Systems Administrator
