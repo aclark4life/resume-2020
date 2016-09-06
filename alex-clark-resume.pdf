@@ -32,7 +32,7 @@ endobj
 << /Outlines 11 0 R /PageLabels 18 0 R /PageMode /UseNone /Pages 16 0 R /Type /Catalog >>
 endobj
 10 0 obj
-<< /Author () /CreationDate (D:20160906050439+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906050439+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160906050533+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906050533+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 11 0 obj
@@ -55,7 +55,7 @@ endobj
 << /Count 1 /Kids [ 8 0 R ] /Type /Pages >>
 endobj
 17 0 obj
-<< /Length 2781 >>
+<< /Length 2777 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -88,7 +88,7 @@ q
 1 0 0 1 62.69291 554.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.482126 Tw (Alex Clark is a Python Web Developer from Baltimore, Maryland, USA currently living in Bethesda,) Tj T* 0 Tw .907984 Tw (Maryland, USA. He has a Bachelor of Science in Computer Science from Loyola University in Maryland) Tj T* 0 Tw .233059 Tw (and has worked as a Systems Administrator, Network Engineer, Software Engineer and Technical Leader) Tj T* 0 Tw 2.20186 Tw (since May 1998. He is also the President of DC Python, a non-profit organization he co-founded to) Tj T* 0 Tw (promote and support the use of Python software in DC.) Tj T* ET
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 2.482126 Tw (Alex Clark is a Python Web Developer from Baltimore, Maryland, USA currently living in Bethesda,) Tj T* 0 Tw .907984 Tw (Maryland, USA. He has a Bachelor of Science in Computer Science from Loyola University in Maryland) Tj T* 0 Tw 1.558443 Tw (and has worked as a Systems Administrator, Network Engineer, Software Engineer and Team Leader) Tj T* 0 Tw 2.20186 Tw (since May 1998. He is also the President of DC Python, a non-profit organization he co-founded to) Tj T* 0 Tw (promote and support the use of Python software in DC.) Tj T* ET
 Q
 Q
 q
@@ -217,13 +217,13 @@ xref
 0000007766 00000 n
 0000007886 00000 n
 0000007949 00000 n
-0000010787 00000 n
-0000010831 00000 n
+0000010783 00000 n
+0000010827 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\273\203\026\203@\314\031AG\271\314\242\237\032_\331) (\273\203\026\203@\314\031AG\271\314\242\237\032_\331)]
+ [(\007\226S\206\330U\210\336\337\276\233\371B\242\263}) (\007\226S\206\330U\210\336\337\276\233\371B\242\263})]
  /Info 10 0 R /Root 9 0 R /Size 20 >>
 startxref
-10868
+10864
 %%EOF
