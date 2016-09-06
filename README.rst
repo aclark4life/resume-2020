@@ -82,11 +82,13 @@ Genuity
 |
 
 Loyola University Maryland
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     **Student Technician / Help Desk Consultant**
 
     August, 1996 – November, 1997
+
+    http://www.loyola.edu/department/technology-services
 
     - Provided telephone and in-person technical support to students, faculty, and administrators.
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
