@@ -78,3 +78,6 @@ Genuity
     - Installed and configured Debian/GNU Linux, Redhat Linux, Solaris 2.6, and Windows 98/ME/NT/2000/XP servers. Configured NICs under Linux. Provided operations and applications support
     - Performed maintenance on Genuity AOLNet and DialLinx dial-up networks. Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches
     - Verified the successful negotiation of TCP, PPP, and L2TP protocols through dial-up connections between client programs and remote access servers. Diagnosed and resolved problems end to end
+
+|
+
