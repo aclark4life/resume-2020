@@ -29,12 +29,11 @@ ACLARK.NET, LLC
 Neurophysiology Imaging Facility (NIF) Division of Intramural Research Programs (DIRP) National Institute of Mental Health (NIMH) National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+    March 2013 — Present
 
-http://www.nimh.nih.gov
+    **Systems Administrator**
 
-March 2013 — Present
-
-Systems Administrator
+    http://www.nimh.nih.gov
 
 - Evaluate and recommend hardware and software for purchase by NIF
 - Install, configure and maintain hardware and software. Troubleshoot and resolve hardware and software problems
