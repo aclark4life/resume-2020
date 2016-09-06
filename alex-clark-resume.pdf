@@ -22,7 +22,7 @@ endobj
 << /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 7 0 obj
-<< /Annots [ 5 0 R ] /Contents 25 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.af65f086383858bbff5fb29f85ecd453 4 0 R >> >> /Rotate 0 
+<< /Annots [ 5 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.af65f086383858bbff5fb29f85ecd453 4 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
@@ -35,31 +35,31 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers) >> /Border [ 0 0 0 ] /Rect [ 82.69291 135.0236 292.7729 147.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /Annots [ 8 0 R 9 0 R 10 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 8 0 R 9 0 R 10 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 551.6161 322.2329 563.6161 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 377.6161 322.2329 389.6161 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /Annots [ 12 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 24 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 12 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 14 0 obj
-<< /Outlines 16 0 R /PageLabels 28 0 R /PageMode /UseNone /Pages 24 0 R /Type /Catalog >>
+<< /Outlines 16 0 R /PageLabels 29 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160906192303+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906192303+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160906192449+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906192449+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
-<< /Count 8 /First 17 0 R /Last 18 0 R /Type /Outlines >>
+<< /Count 9 /First 17 0 R /Last 18 0 R /Type /Outlines >>
 endobj
 17 0 obj
 << /Dest [ 7 0 R /XYZ 62.69291 671.0236 0 ] /Next 18 0 R /Parent 16 0 R /Title (About) >>
 endobj
 18 0 obj
-<< /Count 5 /Dest [ 7 0 R /XYZ 62.69291 572.0236 0 ] /First 19 0 R /Last 23 0 R /Parent 16 0 R /Prev 17 0 R 
+<< /Count 6 /Dest [ 7 0 R /XYZ 62.69291 572.0236 0 ] /First 19 0 R /Last 24 0 R /Parent 16 0 R /Prev 17 0 R 
   /Title (Work Experience) >>
 endobj
 19 0 obj
@@ -75,12 +75,15 @@ endobj
 << /Dest [ 11 0 R /XYZ 62.69291 213.0236 0 ] /Next 23 0 R /Parent 18 0 R /Prev 21 0 R /Title (Genuity) >>
 endobj
 23 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 628.8661 0 ] /Parent 18 0 R /Prev 22 0 R /Title (Loyola University Maryland) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 628.8661 0 ] /Next 24 0 R /Parent 18 0 R /Prev 22 0 R /Title (Charm Net) >>
 endobj
 24 0 obj
-<< /Count 3 /Kids [ 7 0 R 11 0 R 13 0 R ] /Type /Pages >>
+<< /Dest [ 13 0 R /XYZ 62.69291 454.8661 0 ] /Parent 18 0 R /Prev 23 0 R /Title (Loyola University Maryland) >>
 endobj
 25 0 obj
+<< /Count 3 /Kids [ 7 0 R 11 0 R 13 0 R ] /Type /Pages >>
+endobj
+26 0 obj
 << /Length 4203 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -261,7 +264,7 @@ Q
  
 endstream
 endobj
-26 0 obj
+27 0 obj
 << /Length 8634 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -753,8 +756,8 @@ Q
  
 endstream
 endobj
-27 0 obj
-<< /Length 4196 >>
+28 0 obj
+<< /Length 6658 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -859,14 +862,173 @@ Q
 q
 1 0 0 1 62.69291 610.8661 cm
 q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Charm Net) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 592.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Systems Administrator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 574.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (January, 1998 \226 August, 1998) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 568.8661 cm
+Q
+q
+1 0 0 1 62.69291 568.8661 cm
+Q
+q
+1 0 0 1 62.69291 556.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Administrated 4 BSDI Servers for 2000+ users) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 550.8661 cm
+Q
+q
+1 0 0 1 62.69291 538.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and congured DNS, NFS, Sendmail, Apache, INND, and Dump/Restore) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 532.8661 cm
+Q
+q
+1 0 0 1 62.69291 520.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed hardware and software for real-time broadcasting of FM-Radio over the internet) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 514.8661 cm
+Q
+q
+1 0 0 1 62.69291 502.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and congured BSDI servers and Windows NT 4.0 workstations) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 496.8661 cm
+Q
+q
+1 0 0 1 62.69291 484.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided operations and applications support) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 484.8661 cm
+Q
+q
+1 0 0 1 62.69291 478.8661 cm
+Q
+q
+1 0 0 1 62.69291 466.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 466.8661 cm
+Q
+q
+1 0 0 1 62.69291 436.8661 cm
+q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Loyola University Maryland) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 598.8661 cm
+1 0 0 1 62.69291 424.8661 cm
 Q
 q
-1 0 0 1 62.69291 454.8661 cm
+1 0 0 1 62.69291 280.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -998,25 +1160,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 454.8661 cm
+1 0 0 1 62.69291 280.8661 cm
 Q
  
 endstream
 endobj
-28 0 obj
-<< /Nums [ 0 29 0 R 1 30 0 R 2 31 0 R ] >>
-endobj
 29 0 obj
-<< /S /D /St 1 >>
+<< /Nums [ 0 30 0 R 1 31 0 R 2 32 0 R ] >>
 endobj
 30 0 obj
-<< /S /D /St 2 >>
+<< /S /D /St 1 >>
 endobj
 31 0 obj
+<< /S /D /St 2 >>
+endobj
+32 0 obj
 << /S /D /St 3 >>
 endobj
 xref
-0 32
+0 33
 0000000000 65535 f
 0000000075 00000 n
 0000000129 00000 n
@@ -1041,19 +1203,20 @@ xref
 0000009969 00000 n
 0000011008 00000 n
 0000011133 00000 n
-0000011264 00000 n
-0000011341 00000 n
-0000015601 00000 n
-0000024292 00000 n
-0000028545 00000 n
-0000028607 00000 n
-0000028644 00000 n
-0000028681 00000 n
+0000011260 00000 n
+0000011391 00000 n
+0000011468 00000 n
+0000015728 00000 n
+0000024419 00000 n
+0000031134 00000 n
+0000031196 00000 n
+0000031233 00000 n
+0000031270 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\010\335,iQ\016\011\321\216\361\270\2117rw\246) (\010\335,iQ\016\011\321\216\361\270\2117rw\246)]
- /Info 15 0 R /Root 14 0 R /Size 32 >>
+ [(\342\326\011u\2178`\360?\365\221\356\327\000K\316) (\342\326\011u\2178`\360?\365\221\356\327\000K\316)]
+ /Info 15 0 R /Root 14 0 R /Size 33 >>
 startxref
-28718
+31307
 %%EOF
