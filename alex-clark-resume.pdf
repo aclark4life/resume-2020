@@ -39,7 +39,7 @@ endobj
 << /Outlines 13 0 R /PageLabels 22 0 R /PageMode /UseNone /Pages 19 0 R /Type /Catalog >>
 endobj
 12 0 obj
-<< /Author () /CreationDate (D:20160906053443+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906053443+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160906053522+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906053522+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 13 0 obj
@@ -65,7 +65,7 @@ endobj
 << /Count 2 /Kids [ 8 0 R 10 0 R ] /Type /Pages >>
 endobj
 20 0 obj
-<< /Length 5925 >>
+<< /Length 5876 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -110,26 +110,26 @@ q
 1 0 0 1 62.69291 509.0236 cm
 Q
 q
-1 0 0 1 62.69291 461.0236 cm
+1 0 0 1 62.69291 431.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 36 cm
+1 0 0 1 20 66 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (May 2004 \227 Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 18 cm
+1 0 0 1 20 48 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Partner, Python Web Developer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 0 cm
+1 0 0 1 20 30 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -137,19 +137,13 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://aclark.net) Tj T* ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 461.0236 cm
+1 0 0 1 20 24 cm
 Q
 q
-1 0 0 1 62.69291 455.0236 cm
+1 0 0 1 20 24 cm
 Q
 q
-1 0 0 1 62.69291 455.0236 cm
-Q
-q
-1 0 0 1 62.69291 431.0236 cm
+1 0 0 1 20 0 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -163,8 +157,14 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.483314 Tw (Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and) Tj T* 0 Tw (Zope.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.569069 Tw (Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid) Tj T* 0 Tw (and Zope.) Tj T* ET
 Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
 Q
 q
 Q
@@ -644,15 +644,15 @@ xref
 0000009287 00000 n
 0000010313 00000 n
 0000010383 00000 n
-0000016365 00000 n
-0000020678 00000 n
-0000020731 00000 n
-0000020768 00000 n
+0000016316 00000 n
+0000020629 00000 n
+0000020682 00000 n
+0000020719 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(U\257\322\360\267\315\020\011\275\204T\305\206\177W\016) (U\257\322\360\267\315\020\011\275\204T\305\206\177W\016)]
+ [(b\034\001\372\335\362\343S=\033qC\305\3006\026) (b\034\001\372\335\362\343S=\033qC\305\3006\026)]
  /Info 12 0 R /Root 11 0 R /Size 25 >>
 startxref
-20805
+20756
 %%EOF

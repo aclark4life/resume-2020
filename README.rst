@@ -22,7 +22,7 @@ ACLARK.NET, LLC
 
     http://aclark.net
 
-- Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and Zope.
+    - Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and Zope.
 
 |
 
