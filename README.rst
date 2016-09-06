@@ -70,7 +70,7 @@ Genuity
 
     **Network Engineer**
 
-    October 1998 - November 2001
+    October 1998 – November 2001
 
     https://en.wikipedia.org/wiki/BBN_Technologies
 
