@@ -5,8 +5,6 @@ Alex Clark
 
 .. image:: aclark-jobs.jpg
 
-Work in progress, August 2016
-
 About
 ~~~~~
 
