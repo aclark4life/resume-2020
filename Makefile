@@ -188,7 +188,7 @@ python-package-lint:
 	check-manifest
 	pyroma .
 python-package-readme-test:
-	rst2html.py README.rst > readme.html; open readme.html
+	rst2html.py --no-doctype README.rst > readme.html; open readme.html
 python-package-release:
 	python setup.py sdist --format=gztar,zip upload
 python-package-release-test:
