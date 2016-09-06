@@ -18,7 +18,7 @@ ACLARK.NET, LLC (ACLARKNET)
 
     **Partner, Python Web Developer**
 
-    May 2004 — Present
+    May, 2004 — Present
 
     http://aclark.net
 
@@ -48,7 +48,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    May 2002 — October 2005
+    May, 2002 — October, 2005
 
     **Systems Administrator**
 
@@ -70,7 +70,7 @@ Genuity
 
     **Network Engineer**
 
-    October 1998 – November 2001
+    October, 1998 – November, 2001
 
     https://en.wikipedia.org/wiki/BBN_Technologies
 
