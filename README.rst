@@ -16,9 +16,9 @@ Work Experience
 ACLARK.NET, LLC (ACLARKNET)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    May 2004 — Present
-
     **Partner, Python Web Developer**
+
+    May 2004 — Present
 
     http://aclark.net
 
@@ -29,9 +29,9 @@ ACLARK.NET, LLC (ACLARKNET)
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    March 2013 — Present
-
     **Systems Administrator**
+
+    March 2013 — Present
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
