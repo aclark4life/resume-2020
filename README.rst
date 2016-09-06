@@ -26,7 +26,9 @@ ACLARK.NET, LLC
 
 |
 
-**Neurophysiology Imaging Facility (NIF) Division of Intramural Research Programs (DIRP) National Institute of Mental Health (NIMH) National Institutes of Health (NIH)**
+Neurophysiology Imaging Facility (NIF) Division of Intramural Research Programs (DIRP) National Institute of Mental Health (NIMH) National Institutes of Health (NIH)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 http://www.nimh.nih.gov
 
