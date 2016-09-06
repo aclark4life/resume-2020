@@ -35,11 +35,11 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
-- Evaluate and recommend hardware and software for purchase by NIF
-- Install, configure and maintain hardware and software. Troubleshoot and resolve hardware and software problems
-- Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups Manage network and system security. Analyze network performance and access to public resources
-- Provide desktop support to NIF staff, resolve productivity issues
-- Provide liaison to NIH CIT on infrastructure and security related issues
+    - Evaluate and recommend hardware and software for purchase by NIF
+    - Install, configure and maintain hardware and software. Troubleshoot and resolve hardware and software problems
+    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups Manage network and system security. Analyze network performance and access to public resources
+    - Provide desktop support to NIF staff, resolve productivity issues
+    - Provide liaison to NIH CIT on infrastructure and security related issues
 
 |
 
