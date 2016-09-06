@@ -109,3 +109,5 @@ Loyola University Maryland
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
     - Installed and congured Solaris 2.51, Slackware Linux, Redhat Linux, and Windows 3.1/95 /98/NT servers.
     - Provided operations and applications support.
+
+|
