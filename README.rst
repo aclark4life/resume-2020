@@ -13,13 +13,16 @@ Alex Clark is a **Python Web Developer** from Baltimore, Maryland, USA currently
 Work Experience
 ---------------
 
-**ACLARK.NET, LLC**
+ACLARK.NET, LLC
+~~~~~~~~~~~~~~~
 
-http://aclark.net
+    May 2004 — Present
 
-May 2004 — Present
+    **Partner, Python Web Developer**
 
-Partner, Python Web Developer
+    http://aclark.net
+
+- Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and Zope.
 
 |
 
