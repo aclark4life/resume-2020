@@ -19,40 +19,50 @@ endobj
 << /A << /S /URI /Type /Action /URI (http://aclark.net) >> /Border [ 0 0 0 ] /Rect [ 82.69291 461.7736 151.0629 473.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.nimh.nih.gov) >> /Border [ 0 0 0 ] /Rect [ 82.69291 287.7736 188.8429 299.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner) >> /Border [ 0 0 0 ] /Rect [ 82.69291 287.0236 435.0129 299.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /Annots [ 5 0 R 6 0 R ] /Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 15 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.db61d103afc6e6cceabfae7d07a07681 4 0 R >> >> /Rotate 0 
+<< /Annots [ 5 0 R 6 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.db61d103afc6e6cceabfae7d07a07681 4 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
-<< /Outlines 10 0 R /PageLabels 17 0 R /PageMode /UseNone /Pages 15 0 R /Type /Catalog >>
+<< /A << /S /URI /Type /Action /URI (http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner) >> /Border [ 0 0 0 ] /Rect [ 82.69291 711.0236 435.0129 723.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 9 0 obj
-<< /Author () /CreationDate (D:20160906052308+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906052308+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
+<< /Annots [ 8 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 18 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
 endobj
 10 0 obj
-<< /Count 5 /First 11 0 R /Last 12 0 R /Type /Outlines >>
+<< /Outlines 12 0 R /PageLabels 21 0 R /PageMode /UseNone /Pages 18 0 R /Type /Catalog >>
 endobj
 11 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 671.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (About) >>
+<< /Author () /CreationDate (D:20160906052929+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160906052929+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 12 0 obj
-<< /Count 2 /Dest [ 7 0 R /XYZ 62.69291 572.0236 0 ] /First 13 0 R /Last 14 0 R /Parent 10 0 R /Prev 11 0 R 
-  /Title (Work Experience) >>
+<< /Count 6 /First 13 0 R /Last 14 0 R /Type /Outlines >>
 endobj
 13 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 539.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (ACLARK.NET, LLC) >>
+<< /Dest [ 7 0 R /XYZ 62.69291 671.0236 0 ] /Next 14 0 R /Parent 12 0 R /Title (About) >>
 endobj
 14 0 obj
-<< /Dest [ 7 0 R /XYZ 62.69291 401.0236 0 ] /Parent 12 0 R /Prev 13 0 R /Title (Neurophysiology Imaging Facility \(NIF\) Division of Intramural Research Programs \(DIRP\) National Institute of Mental Health \(NIMH\) National Institutes of Health \(NIH\)) >>
+<< /Count 3 /Dest [ 7 0 R /XYZ 62.69291 572.0236 0 ] /First 15 0 R /Last 17 0 R /Parent 12 0 R /Prev 13 0 R 
+  /Title (Work Experience) >>
 endobj
 15 0 obj
-<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+<< /Dest [ 7 0 R /XYZ 62.69291 539.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (ACLARK.NET, LLC) >>
 endobj
 16 0 obj
-<< /Length 6162 >>
+<< /Dest [ 7 0 R /XYZ 62.69291 401.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Neurophysiology Imaging Facility \(NIF\) Division of Intramural Research Programs \(DIRP\) National Institute of Mental Health \(NIMH\) National Institutes of Health \(NIH\)) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /XYZ 62.69291 131.0236 0 ] /Parent 14 0 R /Prev 16 0 R /Title (Scientific and Statistical Computing Core \(SSCC\) Division of Intramural Research Programs \(DIRP\) National Institute of Mental Health \(NIMH\) National Institutes of Health \(NIH\)) >>
+endobj
+18 0 obj
+<< /Count 2 /Kids [ 7 0 R 9 0 R ] /Type /Pages >>
+endobj
+19 0 obj
+<< /Length 6191 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -203,9 +213,7 @@ Q
 q
 1 0 0 1 20 0 cm
 q
-0 0 .501961 rg
-0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://www.nimh.nih.gov) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services) Tj  T* ET
 Q
 Q
 q
@@ -354,23 +362,264 @@ q
 1 0 0 1 62.69291 143.0236 cm
 Q
 q
-1 0 0 1 62.69291 113.0236 cm
+1 0 0 1 62.69291 77.02362 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.75816 Tw (Scientific and Statistical Computing Core \(SSCC\) Division of Intramural Research Programs \(DIRP\)) Tj T* 0 Tw (National Institute of Mental Health \(NIMH\) National Institutes of Health \(NIH\)) Tj T* ET
+BT 1 0 0 1 0 39 Tm 18 TL /F2 15 Tf 0 0 0 rg (Scientific and Statistical Computing Core \(SSCC\) Division of) Tj T* (Intramural Research Programs \(DIRP\) National Institute of Mental) Tj T* (Health \(NIMH\) National Institutes of Health \(NIH\)) Tj T* ET
 Q
 Q
  
 endstream
 endobj
-17 0 obj
-<< /Nums [ 0 18 0 R ] >>
+20 0 obj
+<< /Length 3811 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 759.0236 cm
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 228 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (May 2002 \227 October 2005) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 210 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Systems Administrator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 192 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 20 186 cm
+Q
+q
+1 0 0 1 20 186 cm
+Q
+q
+1 0 0 1 20 174 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Evaluate and recommend hardware for purchase by SSCC) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 168 cm
+Q
+q
+1 0 0 1 20 156 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Install, configure and maintain hardware. Troubleshoot and resolve hardware problems) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 150 cm
+Q
+q
+1 0 0 1 20 102 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.893976 Tw (Install, configure and maintain operating systems, web server, content management system,) Tj T* 0 Tw .748314 Tw (FTP server, directory services, file sharing services, revision control system, and tape backups) Tj T* 0 Tw 2.783615 Tw (Manage network and system security. Analyze network performance and access to public) Tj T* 0 Tw (resources) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 96 cm
+Q
+q
+1 0 0 1 20 84 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide desktop support to SSCC members, resolved productivity issues) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 78 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide liaison to NIH CIT on infrastructure and security related issues) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .130751 Tw (Manage content management system, provide instruction to SSCC members on how to add and) Tj T* 0 Tw (edit content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Design and implement new site technology) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Respond to and resolve web site issues for the SSCC and AFNI community) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+Q
+ 
+endstream
 endobj
-18 0 obj
+21 0 obj
+<< /Nums [ 0 22 0 R 1 23 0 R ] >>
+endobj
+22 0 obj
 << /S /D /St 1 >>
 endobj
+23 0 obj
+<< /S /D /St 2 >>
+endobj
 xref
-0 19
+0 24
 0000000000 65535 f
 0000000075 00000 n
 0000000119 00000 n
@@ -378,23 +627,28 @@ xref
 0000000344 00000 n
 0000006116 00000 n
 0000006288 00000 n
-0000006466 00000 n
-0000006762 00000 n
-0000006870 00000 n
-0000007141 00000 n
-0000007218 00000 n
-0000007327 00000 n
-0000007486 00000 n
-0000007605 00000 n
-0000007882 00000 n
-0000007945 00000 n
-0000014164 00000 n
-0000014208 00000 n
+0000006551 00000 n
+0000006847 00000 n
+0000007110 00000 n
+0000007337 00000 n
+0000007446 00000 n
+0000007718 00000 n
+0000007795 00000 n
+0000007904 00000 n
+0000008063 00000 n
+0000008182 00000 n
+0000008472 00000 n
+0000008759 00000 n
+0000008828 00000 n
+0000015076 00000 n
+0000018944 00000 n
+0000018997 00000 n
+0000019034 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\210\1779\200\356\375\320@\001i\343\033\365^\230\375) (\210\1779\200\356\375\320@\001i\343\033\365^\230\375)]
- /Info 9 0 R /Root 8 0 R /Size 19 >>
+ [(\214R\221\312v\010\262$Z \273\232S\246\325\344) (\214R\221\312v\010\262$Z \273\232S\246\325\344)]
+ /Info 11 0 R /Root 10 0 R /Size 24 >>
 startxref
-14245
+19071
 %%EOF
