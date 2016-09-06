@@ -23,6 +23,8 @@ ACLARK.NET, LLC (ACLARKNET)
     http://aclark.net
 
     - Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and Zope.
+    - Dramatically transform cross-platform platforms after stand-alone "outside the box" thinking. Quickly repurpose open-source resources vis-a-vis functionalized partnerships. Enthusiastically revolutionize wireless testing procedures for diverse relationships. 
+    - Intrinsicly unleash virtual e-markets after distinctive initiatives. Globally recaptiualize interoperable bandwidth for empowered web-readiness. Progressively administrate next-generation catalysts for change rather than ubiquitous content.
 
 |
 
