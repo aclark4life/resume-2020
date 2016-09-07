@@ -121,6 +121,6 @@ Education
 Loyola University Maryland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    **Bachelor of Science Computer Science**
+    **Bachelor of Science in Computer Science**
 
     January, 1999
