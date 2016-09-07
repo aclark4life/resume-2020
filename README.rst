@@ -8,10 +8,10 @@ Alex Clark
 About
 -----
 
-Python Web Developer
-~~~~~~~~~~~~~~~~~~~~
+Python Web Developer, Systems Administrator
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    Alex Clark is a **Python Web Developer** from Baltimore, Maryland, USA living in Bethesda, Maryland. He has a **Bachelor of Science in Computer Science** from Loyola University in Maryland and has worked as a **Network Engineer, Software Engineer, Systems Administrator and Technical Team Leader** since May 1998. He is also the **President of DC Python**, a non-profit organization he co-founded to promote and support the use of Python software in DC.
+    Alex Clark is a **Python Web Developer** from Baltimore, Maryland, USA living in Bethesda, Maryland. He has a **Bachelor of Science in Computer Science** from Loyola University in Maryland and has been employed as a **Network Engineer, Software Engineer, Systems Administrator or Technical Team Leader** since May, 1998. He is also the **President of DC Python**, a non-profit organization he co-founded to promote and support the use of Python software in DC.
 
 Work Experience
 ---------------
