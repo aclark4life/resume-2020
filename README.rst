@@ -114,3 +114,13 @@ Loyola University Maryland
     - Provided operations and applications support.
 
 |
+
+Education
+---------
+
+Loyola University Maryland
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    **Bachelor of Science Computer Science**
+
+    January, 1999
