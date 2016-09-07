@@ -118,9 +118,9 @@ Loyola University Maryland
 Education
 ---------
 
-Loyola University Maryland
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bachelor of Science in Computer Science
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    **Bachelor of Science in Computer Science**
+    **Loyola University Maryland**
 
     January, 1999
