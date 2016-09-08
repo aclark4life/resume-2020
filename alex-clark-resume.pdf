@@ -46,13 +46,13 @@ endobj
   /Trans <<  >> /Type /Page >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.packtpub.com/web-development/plone-33-site-administration) >> /Border [ 0 0 0 ] /Rect [ 82.69291 717.7736 407.2529 729.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.packtpub.com/web-development/plone-33-site-administration) >> /Border [ 0 0 0 ] /Rect [ 82.69291 672.7736 407.2529 684.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 16 0 obj
-<< /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 576.7736 183.2929 588.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 531.7736 183.2929 543.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
 << /Annots [ 14 0 R 16 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 40 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908082800+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908082800+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908082855+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908082855+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -104,14 +104,14 @@ endobj
 << /Dest [ 13 0 R /XYZ 62.69291 186.0236 0 ] /Parent 30 0 R /Title (Bachelor of Science in Computer Science) >>
 endobj
 32 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 114.0236 0 ] /Next 33 0 R /Parent 20 0 R /Prev 30 0 R /Title (Publications) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 765.0236 0 ] /Next 33 0 R /Parent 20 0 R /Prev 30 0 R /Title (Publications) >>
 endobj
 33 0 obj
-<< /Count 1 /Dest [ 17 0 R /XYZ 62.69291 687.0236 0 ] /First 34 0 R /Last 34 0 R /Parent 20 0 R /Prev 32 0 R 
+<< /Count 1 /Dest [ 17 0 R /XYZ 62.69291 642.0236 0 ] /First 34 0 R /Last 34 0 R /Parent 20 0 R /Prev 32 0 R 
   /Title (Volunteer) >>
 endobj
 34 0 obj
-<< /Dest [ 17 0 R /XYZ 62.69291 654.0236 0 ] /Parent 33 0 R /Title (Pillow) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 609.0236 0 ] /Parent 33 0 R /Title (Pillow) >>
 endobj
 35 0 obj
 << /Count 4 /Kids [ 7 0 R 11 0 R 13 0 R 17 0 R ] /Type /Pages >>
@@ -1214,7 +1214,7 @@ Q
 endstream
 endobj
 38 0 obj
-<< /Length 8179 >>
+<< /Length 8029 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1731,24 +1731,31 @@ Q
 q
 1 0 0 1 62.69291 126.0236 cm
 Q
+ 
+endstream
+endobj
+39 0 obj
+<< /Length 2194 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 93.02362 cm
+1 0 0 1 62.69291 744.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 81.02362 cm
-Q
- 
-endstream
-endobj
-39 0 obj
-<< /Length 1947 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+1 0 0 1 62.69291 726.0236 cm
 q
-1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Plone 3.3 Site Administration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1756,7 +1763,7 @@ q
 1 0 0 1 20 54 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Plone 3.3 Site Administration, PACKT Publishing Limited) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (PACKT Publishing Limited) Tj T* ET
 Q
 Q
 q
@@ -1785,25 +1792,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 699.0236 cm
+1 0 0 1 62.69291 654.0236 cm
 Q
 q
-1 0 0 1 62.69291 666.0236 cm
+1 0 0 1 62.69291 621.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Volunteer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Pillow) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 579.0236 cm
 Q
 q
-1 0 0 1 62.69291 546.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1862,7 +1869,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 546.0236 cm
+1 0 0 1 62.69291 501.0236 cm
 Q
  
 endstream
@@ -1923,17 +1930,17 @@ xref
 0000013049 00000 n
 0000022835 00000 n
 0000031440 00000 n
-0000039676 00000 n
-0000041680 00000 n
-0000041751 00000 n
-0000041788 00000 n
-0000041825 00000 n
-0000041862 00000 n
+0000039526 00000 n
+0000041777 00000 n
+0000041848 00000 n
+0000041885 00000 n
+0000041922 00000 n
+0000041959 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\371\236\315p\320\233\377\365\3174y}n\376+\036) (\371\236\315p\320\233\377\365\3174y}n\376+\036)]
+ [(\033\373\303\230\3768l}\031\372_\021\264_\217\347) (\033\373\303\230\3768l}\031\372_\021\264_\217\347)]
  /Info 19 0 R /Root 18 0 R /Size 45 >>
 startxref
-41899
+41996
 %%EOF
