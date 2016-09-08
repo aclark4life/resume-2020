@@ -14,6 +14,14 @@ About
 
     <a href="https://twitter.com/aclark4life" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @aclark4life</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Skills
+------
+
+    Web Development
+    - HTML
+    - Skills
+    - JavaScript
+
 Work Experience
 ---------------
 
