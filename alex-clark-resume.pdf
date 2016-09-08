@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 41 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908085638+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085638+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908085734+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085734+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -1739,7 +1739,7 @@ Q
 endstream
 endobj
 40 0 obj
-<< /Length 3338 >>
+<< /Length 3417 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1813,25 +1813,25 @@ q
 1 0 0 1 62.69291 561.0236 cm
 Q
 q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 405.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 132 cm
+1 0 0 1 20 144 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Fork Author & Project Leader) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 20 126 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (July, 2010 \227 Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 96 cm
+1 0 0 1 20 108 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1839,13 +1839,13 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://python-pillow.org) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 90 cm
+1 0 0 1 20 102 cm
 Q
 q
-1 0 0 1 20 90 cm
+1 0 0 1 20 102 cm
 Q
 q
-1 0 0 1 20 66 cm
+1 0 0 1 20 78 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1866,10 +1866,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 60 cm
+1 0 0 1 20 72 cm
 Q
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 60 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1890,10 +1890,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 42 cm
+1 0 0 1 20 54 cm
 Q
 q
-1 0 0 1 20 18 cm
+1 0 0 1 20 30 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1914,14 +1914,14 @@ q
 Q
 Q
 q
-1 0 0 1 20 12 cm
+1 0 0 1 20 24 cm
 Q
 q
 1 0 0 1 20 0 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1931,7 +1931,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Grow core development team from 1 to 5 over 5 years.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .521412 Tw (Foster growth of core development team from single member to five member team over course) Tj T* 0 Tw (of five years.) Tj T* ET
 Q
 Q
 q
@@ -1944,7 +1944,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 417.0236 cm
+1 0 0 1 62.69291 405.0236 cm
 Q
  
 endstream
@@ -2007,16 +2007,16 @@ xref
 0000022996 00000 n
 0000031601 00000 n
 0000039703 00000 n
-0000043098 00000 n
-0000043169 00000 n
-0000043206 00000 n
-0000043243 00000 n
-0000043280 00000 n
+0000043177 00000 n
+0000043248 00000 n
+0000043285 00000 n
+0000043322 00000 n
+0000043359 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\361\352}\004\027\321\2149\345Y\233\275\311#"\305) (\361\352}\004\027\321\2149\345Y\233\275\311#"\305)]
+ [(in#\246\322\257\256\255\340'\336\006g\016\303\224) (in#\246\322\257\256\255\340'\336\006g\016\303\224)]
  /Info 19 0 R /Root 18 0 R /Size 46 >>
 startxref
-43317
+43396
 %%EOF
