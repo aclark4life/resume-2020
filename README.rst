@@ -17,7 +17,7 @@ About
 Skills
 ------
 
-    Web Development
+Web Development
 
     - HTML
     - Skills
