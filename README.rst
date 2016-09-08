@@ -147,7 +147,7 @@ Bachelor of Science in Computer Science
 Publications
 ------------
 
-    **Plone 3.3 Site Administration, PACKT Publishing**
+    **Plone 3.3 Site Administration, PACKT Publishing Limited**
 
     July, 2010
 
