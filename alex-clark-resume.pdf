@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 41 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908085751+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085751+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908085907+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085907+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -1869,11 +1869,11 @@ q
 1 0 0 1 20 72 cm
 Q
 q
-1 0 0 1 20 60 cm
+1 0 0 1 20 48 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1883,17 +1883,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implement and manage quarterly release schedule.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.156412 Tw (Foster growth of core development team from single member to five members over course of) Tj T* 0 Tw (five years.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 54 cm
+1 0 0 1 20 42 cm
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 18 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1914,14 +1914,14 @@ q
 Q
 Q
 q
-1 0 0 1 20 24 cm
+1 0 0 1 20 12 cm
 Q
 q
 1 0 0 1 20 0 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 9 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1931,7 +1931,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.156412 Tw (Foster growth of core development team from single member to five members over course of) Tj T* 0 Tw (five years.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implement and manage quarterly release schedule.) Tj T* ET
 Q
 Q
 q
@@ -2015,7 +2015,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\344\204\233\317\310\2739\273\315\023j\027\030\233'*) (\344\204\233\317\310\2739\273\315\023j\027\030\233'*)]
+ [(\177@\333\2567s\036\332\315\007\346\304\005"\225~) (\177@\333\2567s\036\332\315\007\346\304\005"\225~)]
  /Info 19 0 R /Root 18 0 R /Size 46 >>
 startxref
 43393

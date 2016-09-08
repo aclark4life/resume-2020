@@ -171,6 +171,6 @@ Pillow
     http://python-pillow.org
 
     - Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.
-    - Implement and manage quarterly release schedule.
-    - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
     - Foster growth of core development team from single member to five members over course of five years.
+    - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
+    - Implement and manage quarterly release schedule.
