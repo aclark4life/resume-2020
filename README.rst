@@ -79,7 +79,7 @@ Genuity
     `https://en.wikipedia.org/wiki/BBN_Technologies <https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers>`_
 
     - Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches Developed Perl/SNMP/CGI software to support configuration of TELCO settings on "Big Box" access servers (more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800)
-    - Installed and configured Debian Linux, Redhat Linux, Solaris Unix and Windows workstations and servers. Configured NICs under Linux. Provided operations and applications support
+    - Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and Microsoft Windows workstations and servers. Configured NICs under Linux. Provided operations and applications support
     - Performed maintenance on Genuity AOLNet and DialLinx dial-up networks. Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches
     - Verified the successful negotiation of TCP, PPP, and L2TP protocols through dial-up connections between client programs and remote access servers. Diagnosed and resolved problems end to end
 
@@ -111,7 +111,7 @@ Loyola University Maryland
 
     - Provided telephone and in-person technical support to students, faculty, and administrators.
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
-    - Installed and congured Solaris Unix, Slackware Linux, Redhat Linux, and Windows workstations and servers.
+    - Installed and congured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
     - Provided operations and applications support.
 
 |
