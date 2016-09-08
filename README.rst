@@ -18,7 +18,7 @@ Skills
 ------
 
 +---------------------+---------------------+----------------------+---------------------+
-| **Web Development** | **Python Software** | **Systems**          | **Networking**      |
+| **Web Development** | **Python**          | **Systems**          | **Networking**      |
 +---------------------+---------------------+----------------------+---------------------+
 |   - HTML            | - Django            |                      | - TCP/IP            |
 |   - CSS             | - Pyramid           |                      | - CIFS              |
