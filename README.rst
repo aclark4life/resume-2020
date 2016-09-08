@@ -144,10 +144,16 @@ Bachelor of Science in Computer Science
     January, 1999
 
 
-Volunteer Work
---------------
+Volunteer
+---------
 
 Pillow
 ~~~~~~
 
-    - Fork author
+    **Fork author & Project leader**
+
+    August, 2010 — Present
+
+    http://python-pillow.org
+
+    - Forked development of popular Python Imaging Library software to create frequently updated and well-maintained version.
