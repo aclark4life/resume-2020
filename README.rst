@@ -95,9 +95,9 @@ Charm Net
     January, 1998 — August, 1998
 
     - Administrated 4 BSDI Servers for 2000+ users.
-    - Installed and congured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
+    - Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
     - Installed hardware and software for real-time broadcasting of FM-Radio over the internet.
-    - Installed and congured BSDI servers and Windows workstations and servers.
+    - Installed and configured BSDI servers and Windows workstations and servers.
     - Provided production operation support.
 
 |
@@ -113,7 +113,7 @@ Loyola University Maryland
 
     - Provided telephone and in-person technical support to students, faculty, and administrators.
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
-    - Installed and congured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
+    - Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
     - Provided production operation support.
 
 |

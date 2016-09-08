@@ -49,7 +49,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160908073533+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908073533+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908073613+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908073613+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
@@ -778,7 +778,7 @@ Q
 endstream
 endobj
 30 0 obj
-<< /Length 8055 >>
+<< /Length 8061 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1001,7 +1001,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and congured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.) Tj T* ET
 Q
 Q
 q
@@ -1049,7 +1049,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and congured BSDI servers and Windows workstations and servers.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and configured BSDI servers and Windows workstations and servers.) Tj T* ET
 Q
 Q
 q
@@ -1206,7 +1206,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.076342 Tw (Installed and congured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and) Tj T* 0 Tw (Microsoft Windows workstations and servers.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.621797 Tw (Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and) Tj T* 0 Tw (Microsoft Windows workstations and servers.) Tj T* ET
 Q
 Q
 q
@@ -1346,15 +1346,15 @@ xref
 0000011753 00000 n
 0000016184 00000 n
 0000024875 00000 n
-0000032987 00000 n
-0000033049 00000 n
-0000033086 00000 n
-0000033123 00000 n
+0000032993 00000 n
+0000033055 00000 n
+0000033092 00000 n
+0000033129 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\312[\334\034\261+Z$Rr\211\347\256Z\376Q) (\312[\334\034\261+Z$Rr\211\347\256Z\376Q)]
+ [(\322\324m:$I]\350\305}e\324'\024\361\311) (\322\324m:$I]\350\305}e\324'\024\361\311)]
  /Info 15 0 R /Root 14 0 R /Size 35 >>
 startxref
-33160
+33166
 %%EOF
