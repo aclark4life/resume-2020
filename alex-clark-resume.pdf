@@ -22,7 +22,7 @@ endobj
 << /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 7 0 obj
-<< /Annots [ 5 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.db61d103afc6e6cceabfae7d07a07681 4 0 R >> >> /Rotate 0 
+<< /Annots [ 5 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject << /FormXob.db61d103afc6e6cceabfae7d07a07681 4 0 R >> >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 8 0 obj
@@ -35,32 +35,32 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers) >> /Border [ 0 0 0 ] /Rect [ 82.69291 153.0236 292.7729 165.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 11 0 obj
-<< /Annots [ 8 0 R 9 0 R 10 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 8 0 R 9 0 R 10 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 12 0 obj
 << /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 345.7736 322.2329 357.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
-<< /Annots [ 12 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 12 0 R ] /Contents 38 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 654.7736 183.2929 666.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 561.7736 183.2929 573.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
-<< /Annots [ 14 0 R ] /Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 32 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+<< /Annots [ 14 0 R ] /Contents 39 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 35 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
   /Trans <<  >> /Type /Page >>
 endobj
 16 0 obj
-<< /Outlines 18 0 R /PageLabels 37 0 R /PageMode /UseNone /Pages 32 0 R /Type /Catalog >>
+<< /Outlines 18 0 R /PageLabels 40 0 R /PageMode /UseNone /Pages 35 0 R /Type /Catalog >>
 endobj
 17 0 obj
-<< /Author () /CreationDate (D:20160908082138+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908082138+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908082236+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908082236+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 18 0 obj
-<< /Count 16 /First 19 0 R /Last 30 0 R /Type /Outlines >>
+<< /Count 20 /First 19 0 R /Last 33 0 R /Type /Outlines >>
 endobj
 19 0 obj
 << /Dest [ 7 0 R /XYZ 62.69291 671.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (About) >>
@@ -98,16 +98,26 @@ endobj
 << /Dest [ 13 0 R /XYZ 62.69291 186.0236 0 ] /Parent 28 0 R /Title (Bachelor of Science in Computer Science) >>
 endobj
 30 0 obj
-<< /Count 1 /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /First 31 0 R /Last 31 0 R /Parent 18 0 R /Prev 28 0 R 
-  /Title (Volunteer) >>
+<< /Count 2 /Dest [ 15 0 R /XYZ 62.69291 765.0236 0 ] /First 31 0 R /Last 32 0 R /Next 33 0 R /Parent 18 0 R 
+  /Prev 28 0 R /Title (Publications) >>
 endobj
 31 0 obj
-<< /Dest [ 15 0 R /XYZ 62.69291 732.0236 0 ] /Parent 30 0 R /Title (Pillow) >>
+<< /Dest [ 15 0 R /XYZ 62.69291 732.0236 0 ] /Next 32 0 R /Parent 30 0 R /Title (Plone 3.3 Site Administration) >>
 endobj
 32 0 obj
-<< /Count 4 /Kids [ 7 0 R 11 0 R 13 0 R 15 0 R ] /Type /Pages >>
+<< /Dest [ 15 0 R /XYZ 62.69291 702.0236 0 ] /Parent 30 0 R /Prev 31 0 R /Title (Practical Plone 3) >>
 endobj
 33 0 obj
+<< /Count 1 /Dest [ 15 0 R /XYZ 62.69291 672.0236 0 ] /First 34 0 R /Last 34 0 R /Parent 18 0 R /Prev 30 0 R 
+  /Title (Volunteer) >>
+endobj
+34 0 obj
+<< /Dest [ 15 0 R /XYZ 62.69291 639.0236 0 ] /Parent 33 0 R /Title (Pillow) >>
+endobj
+35 0 obj
+<< /Count 4 /Kids [ 7 0 R 11 0 R 13 0 R 15 0 R ] /Type /Pages >>
+endobj
+36 0 obj
 << /Length 9729 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -716,7 +726,7 @@ Q
  
 endstream
 endobj
-34 0 obj
+37 0 obj
 << /Length 8548 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1204,7 +1214,7 @@ Q
  
 endstream
 endobj
-35 0 obj
+38 0 obj
 << /Length 8029 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -1725,27 +1735,45 @@ Q
  
 endstream
 endobj
-36 0 obj
-<< /Length 1264 >>
+39 0 obj
+<< /Length 1620 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 744.0236 cm
 q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Volunteer) Tj T* ET
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 714.0236 cm
 q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Plone 3.3 Site Administration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Practical Plone 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Volunteer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Pillow) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1804,28 +1832,28 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 531.0236 cm
 Q
  
 endstream
 endobj
-37 0 obj
-<< /Nums [ 0 38 0 R 1 39 0 R 2 40 0 R 3 41 0 R ] >>
-endobj
-38 0 obj
-<< /S /D /St 1 >>
-endobj
-39 0 obj
-<< /S /D /St 2 >>
-endobj
 40 0 obj
-<< /S /D /St 3 >>
+<< /Nums [ 0 41 0 R 1 42 0 R 2 43 0 R 3 44 0 R ] >>
 endobj
 41 0 obj
+<< /S /D /St 1 >>
+endobj
+42 0 obj
+<< /S /D /St 2 >>
+endobj
+43 0 obj
+<< /S /D /St 3 >>
+endobj
+44 0 obj
 << /S /D /St 4 >>
 endobj
 xref
-0 42
+0 45
 0000000000 65535 f
 0000000075 00000 n
 0000000129 00000 n
@@ -1857,22 +1885,25 @@ xref
 0000011923 00000 n
 0000012090 00000 n
 0000012221 00000 n
-0000012375 00000 n
-0000012473 00000 n
-0000012557 00000 n
-0000022343 00000 n
-0000030948 00000 n
-0000039034 00000 n
-0000040355 00000 n
-0000040426 00000 n
-0000040463 00000 n
-0000040500 00000 n
-0000040537 00000 n
+0000012391 00000 n
+0000012525 00000 n
+0000012647 00000 n
+0000012801 00000 n
+0000012899 00000 n
+0000012983 00000 n
+0000022769 00000 n
+0000031374 00000 n
+0000039460 00000 n
+0000041137 00000 n
+0000041208 00000 n
+0000041245 00000 n
+0000041282 00000 n
+0000041319 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(Sc\201\371\031\320\345\001\354z\\h\253\331]\323) (Sc\201\371\031\320\345\001\354z\\h\253\331]\323)]
- /Info 17 0 R /Root 16 0 R /Size 42 >>
+ [(\233.\013cgV\240\017W\377\022\224\311\275~\244) (\233.\013cgV\240\017W\377\022\224\311\275~\244)]
+ /Info 17 0 R /Root 16 0 R /Size 45 >>
 startxref
-40574
+41356
 %%EOF

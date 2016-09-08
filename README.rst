@@ -144,6 +144,15 @@ Bachelor of Science in Computer Science
     January, 1999
 
 
+Publications
+------------
+
+Plone 3.3 Site Administration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Practical Plone 3
+~~~~~~~~~~~~~~~~~
+
 Volunteer
 ---------
 
