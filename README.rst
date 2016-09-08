@@ -79,7 +79,7 @@ Genuity
     `https://en.wikipedia.org/wiki/BBN_Technologies <https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers>`_
 
     - Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches Developed Perl/SNMP/CGI software to support configuration of TELCO settings on "Big Box" access servers (more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800)
-    - Installed and configured Debian/GNU Linux, Redhat Linux, Solaris 2.6, and Windows 98/ME/NT/2000/XP servers. Configured NICs under Linux. Provided operations and applications support
+    - Installed and configured Debian Linux, Redhat Linux, Solaris Unix and Windows workstations and servers. Configured NICs under Linux. Provided operations and applications support
     - Performed maintenance on Genuity AOLNet and DialLinx dial-up networks. Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches
     - Verified the successful negotiation of TCP, PPP, and L2TP protocols through dial-up connections between client programs and remote access servers. Diagnosed and resolved problems end to end
 
@@ -95,7 +95,7 @@ Charm Net
     - Administrated 4 BSDI Servers for 2000+ users
     - Installed and congured DNS, NFS, Sendmail, Apache, INND, and Dump/Restore
     - Installed hardware and software for real-time broadcasting of FM-Radio over the internet
-    - Installed and congured BSDI servers and Windows NT 4.0 workstations
+    - Installed and congured BSDI servers and Windows workstations and servers.
     - Provided operations and applications support 
 
 |
@@ -111,7 +111,7 @@ Loyola University Maryland
 
     - Provided telephone and in-person technical support to students, faculty, and administrators.
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
-    - Installed and congured Solaris 2.51, Slackware Linux, Redhat Linux, and Windows 3.1/95 /98/NT servers.
+    - Installed and congured Solaris Unix, Slackware Linux, Redhat Linux, and Windows workstations and servers.
     - Provided operations and applications support.
 
 |

@@ -39,7 +39,7 @@ endobj
   /Trans <<  >> /Type /Page >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 371.6161 322.2329 383.6161 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 383.6161 322.2329 395.6161 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
 << /Annots [ 12 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -49,7 +49,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160908072117+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908072117+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908072909+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908072909+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
@@ -75,17 +75,17 @@ endobj
 << /Dest [ 11 0 R /XYZ 62.69291 213.0236 0 ] /Next 23 0 R /Parent 18 0 R /Prev 21 0 R /Title (Genuity) >>
 endobj
 23 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 628.8661 0 ] /Next 24 0 R /Parent 18 0 R /Prev 22 0 R /Title (Charm Net) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 640.8661 0 ] /Next 24 0 R /Parent 18 0 R /Prev 22 0 R /Title (Charm Net) >>
 endobj
 24 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 448.8661 0 ] /Parent 18 0 R /Prev 23 0 R /Title (Loyola University Maryland) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 460.8661 0 ] /Parent 18 0 R /Prev 23 0 R /Title (Loyola University Maryland) >>
 endobj
 25 0 obj
-<< /Count 1 /Dest [ 13 0 R /XYZ 62.69291 244.8661 0 ] /First 26 0 R /Last 26 0 R /Parent 16 0 R /Prev 18 0 R 
+<< /Count 1 /Dest [ 13 0 R /XYZ 62.69291 256.8661 0 ] /First 26 0 R /Last 26 0 R /Parent 16 0 R /Prev 18 0 R 
   /Title (Education) >>
 endobj
 26 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 211.8661 0 ] /Parent 25 0 R /Title (Bachelor of Science in Computer Science) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 223.8661 0 ] /Parent 25 0 R /Title (Bachelor of Science in Computer Science) >>
 endobj
 27 0 obj
 << /Count 3 /Kids [ 7 0 R 11 0 R 13 0 R ] /Type /Pages >>
@@ -778,23 +778,23 @@ Q
 endstream
 endobj
 30 0 obj
-<< /Length 7467 >>
+<< /Length 7444 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 658.8661 cm
+1 0 0 1 62.69291 670.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 108 cm
+1 0 0 1 20 96 cm
 Q
 q
 1 0 0 1 20 72 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 21 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -804,7 +804,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 5.171976 Tw (Installed and configured Debian/GNU Linux, Redhat Linux, Solaris 2.6, and Windows) Tj T* 0 Tw .127752 Tw (98/ME/NT/2000/XP servers. Configured NICs under Linux. Provided operations and applications) Tj T* 0 Tw (support) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.36816 Tw (Installed and configured Debian Linux, Redhat Linux, Solaris Unix and Windows workstations) Tj T* 0 Tw (and servers. Configured NICs under Linux. Provided operations and applications support) Tj T* ET
 Q
 Q
 q
@@ -865,32 +865,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 658.8661 cm
+1 0 0 1 62.69291 670.8661 cm
+Q
+q
+1 0 0 1 62.69291 664.8661 cm
 Q
 q
 1 0 0 1 62.69291 652.8661 cm
-Q
-q
-1 0 0 1 62.69291 640.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 640.8661 cm
+1 0 0 1 62.69291 652.8661 cm
 Q
 q
-1 0 0 1 62.69291 610.8661 cm
+1 0 0 1 62.69291 622.8661 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Charm Net) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 598.8661 cm
+1 0 0 1 62.69291 610.8661 cm
 Q
 q
-1 0 0 1 62.69291 478.8661 cm
+1 0 0 1 62.69291 490.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1001,7 +1001,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and congured BSDI servers and Windows NT 4.0 workstations) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and congured BSDI servers and Windows workstations and servers.) Tj T* ET
 Q
 Q
 q
@@ -1038,32 +1038,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 478.8661 cm
+1 0 0 1 62.69291 490.8661 cm
+Q
+q
+1 0 0 1 62.69291 484.8661 cm
 Q
 q
 1 0 0 1 62.69291 472.8661 cm
-Q
-q
-1 0 0 1 62.69291 460.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 460.8661 cm
+1 0 0 1 62.69291 472.8661 cm
 Q
 q
-1 0 0 1 62.69291 430.8661 cm
+1 0 0 1 62.69291 442.8661 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Loyola University Maryland) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 418.8661 cm
+1 0 0 1 62.69291 430.8661 cm
 Q
 q
-1 0 0 1 62.69291 274.8661 cm
+1 0 0 1 62.69291 286.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1158,7 +1158,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.830888 Tw (Installed and congured Solaris 2.51, Slackware Linux, Redhat Linux, and Windows 3.1/95) Tj T* 0 Tw (/98/NT servers.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .257251 Tw (Installed and congured Solaris Unix, Slackware Linux, Redhat Linux, and Windows workstations) Tj T* 0 Tw (and servers.) Tj T* ET
 Q
 Q
 q
@@ -1195,38 +1195,38 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 274.8661 cm
+1 0 0 1 62.69291 286.8661 cm
+Q
+q
+1 0 0 1 62.69291 280.8661 cm
 Q
 q
 1 0 0 1 62.69291 268.8661 cm
-Q
-q
-1 0 0 1 62.69291 256.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 256.8661 cm
+1 0 0 1 62.69291 268.8661 cm
 Q
 q
-1 0 0 1 62.69291 223.8661 cm
+1 0 0 1 62.69291 235.8661 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 193.8661 cm
+1 0 0 1 62.69291 205.8661 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Bachelor of Science in Computer Science) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 181.8661 cm
+1 0 0 1 62.69291 193.8661 cm
 Q
 q
-1 0 0 1 62.69291 151.8661 cm
+1 0 0 1 62.69291 163.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1248,7 +1248,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 151.8661 cm
+1 0 0 1 62.69291 163.8661 cm
 Q
  
 endstream
@@ -1298,15 +1298,15 @@ xref
 0000011753 00000 n
 0000016184 00000 n
 0000024875 00000 n
-0000032399 00000 n
-0000032461 00000 n
-0000032498 00000 n
-0000032535 00000 n
+0000032376 00000 n
+0000032438 00000 n
+0000032475 00000 n
+0000032512 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\262Vj,\332\335\343\000\205\253\023\\\346\030\363\347) (\262Vj,\332\335\343\000\205\253\023\\\346\030\363\347)]
+ [(\304\357&\246\231r\033\314\275rQ\021.\336\366\333) (\304\357&\246\231r\033\314\275rQ\021.\336\366\333)]
  /Info 15 0 R /Root 14 0 R /Size 35 >>
 startxref
-32572
+32549
 %%EOF
