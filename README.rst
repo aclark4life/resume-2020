@@ -94,10 +94,10 @@ Charm Net
 
     January, 1998 — August, 1998
 
-    - Administrated 4 BSDI Servers for 2000+ users.
+    - Managed four BSDI Unix servers for over 2,000 users.
     - Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
     - Installed and configured hardware and software for streaming FM radio.
-    - Installed and configured BSDI servers and Windows workstations and servers.
+    - Installed and configured BSDI Unix servers and Windows workstations and servers.
     - Provided production operations support.
 
 |
