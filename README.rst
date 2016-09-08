@@ -161,6 +161,17 @@ Plone 3.3 Site Administration
 Volunteer
 ---------
 
+DC Python
+~~~~~~~~~
+
+    **Co-founder & President**
+
+    2008 — Present
+
+    http://dcpython.org
+
+    - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
+
 Pillow
 ~~~~~~
 
