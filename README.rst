@@ -26,6 +26,7 @@ Skills
 |                    |            | - Ubuntu Linux       |                     |
 |                    |            | - CentOS Linux       |                     |
 |                    |            | - Microsoft Windows  |                     |
+|                    |            |                      |                     |
 +--------------------+------------+----------------------+---------------------+
 
 Work Experience
