@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 41 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908085907+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085907+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908090017+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908090017+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -1739,7 +1739,7 @@ Q
 endstream
 endobj
 40 0 obj
-<< /Length 3414 >>
+<< /Length 3753 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1813,25 +1813,25 @@ q
 1 0 0 1 62.69291 561.0236 cm
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 144 cm
+1 0 0 1 20 150 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Fork Author & Project Leader) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 126 cm
+1 0 0 1 20 132 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (July, 2010 \227 Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 108 cm
+1 0 0 1 20 114 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1839,13 +1839,13 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://python-pillow.org) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 102 cm
+1 0 0 1 20 108 cm
 Q
 q
-1 0 0 1 20 102 cm
+1 0 0 1 20 108 cm
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 84 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1866,14 +1866,14 @@ q
 Q
 Q
 q
-1 0 0 1 20 72 cm
+1 0 0 1 20 78 cm
 Q
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 66 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 9 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1883,17 +1883,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.156412 Tw (Foster growth of core development team from single member to five members over course of) Tj T* 0 Tw (five years.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Foster growth of core development team from single member to five members over five years.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 42 cm
+1 0 0 1 20 60 cm
 Q
 q
-1 0 0 1 20 18 cm
+1 0 0 1 20 36 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1908,6 +1908,30 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .927984 Tw (Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python) Tj T* 0 Tw (Software Foundation February 28, 2013; passed unanimously on March 4, 2013.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implement and manage quarterly release schedule.) Tj T* ET
 Q
 Q
 q
@@ -1931,7 +1955,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implement and manage quarterly release schedule.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Continuously but quietly oversee development to ensure best possible quality of releases.) Tj T* ET
 Q
 Q
 q
@@ -1944,7 +1968,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 Q
  
 endstream
@@ -2007,16 +2031,16 @@ xref
 0000022996 00000 n
 0000031601 00000 n
 0000039703 00000 n
-0000043174 00000 n
-0000043245 00000 n
-0000043282 00000 n
-0000043319 00000 n
-0000043356 00000 n
+0000043513 00000 n
+0000043584 00000 n
+0000043621 00000 n
+0000043658 00000 n
+0000043695 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\177@\333\2567s\036\332\315\007\346\304\005"\225~) (\177@\333\2567s\036\332\315\007\346\304\005"\225~)]
+ [(\300\026\3002E\262\373\344\323,,\257\274\274\376#) (\300\026\3002E\262\373\344\323,,\257\274\274\376#)]
  /Info 19 0 R /Root 18 0 R /Size 46 >>
 startxref
-43393
+43732
 %%EOF
