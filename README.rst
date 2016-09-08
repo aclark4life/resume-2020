@@ -156,7 +156,7 @@ Plone 3.3 Site Administration
 
     https://www.packtpub.com/web-development/plone-33-site-administration
 
-    *Manage your site like a Plone professional.*
+    *"Manage your site like a Plone professional."*
 
 Volunteer
 ---------
