@@ -17,8 +17,8 @@ About
 Work Experience
 ---------------
 
-ACLARK.NET, LLC (ACLARKNET)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ACLARK.NET, LLC
+~~~~~~~~~~~~~~~
 
     **Partner, Python Web Developer**
 
