@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 41 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908083038+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908083038+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908083334+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908083334+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -121,7 +121,7 @@ endobj
 << /Count 4 /Kids [ 7 0 R 11 0 R 13 0 R 17 0 R ] /Type /Pages >>
 endobj
 37 0 obj
-<< /Length 9729 >>
+<< /Length 9738 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -189,21 +189,21 @@ BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Web Development) Tj T* ET
 Q
 Q
 q
-1 0 0 1 131.3039 81 cm
+1 0 0 1 122.0904 81 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Python) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Python Software) Tj T* ET
 Q
 Q
 q
-1 0 0 1 206.4863 81 cm
+1 0 0 1 238.1808 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Systems) Tj T* ET
 Q
 Q
 q
-1 0 0 1 344.3206 81 cm
+1 0 0 1 359.7994 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Networking) Tj T* ET
@@ -288,13 +288,13 @@ q
 1 0 0 1 6 21 cm
 Q
 q
-1 0 0 1 131.3039 69 cm
+1 0 0 1 122.0904 69 cm
 Q
 q
-1 0 0 1 131.3039 69 cm
+1 0 0 1 122.0904 69 cm
 Q
 q
-1 0 0 1 131.3039 57 cm
+1 0 0 1 122.0904 57 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -315,10 +315,10 @@ q
 Q
 Q
 q
-1 0 0 1 131.3039 51 cm
+1 0 0 1 122.0904 51 cm
 Q
 q
-1 0 0 1 131.3039 39 cm
+1 0 0 1 122.0904 39 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -339,10 +339,10 @@ q
 Q
 Q
 q
-1 0 0 1 131.3039 33 cm
+1 0 0 1 122.0904 33 cm
 Q
 q
-1 0 0 1 131.3039 21 cm
+1 0 0 1 122.0904 21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -363,16 +363,16 @@ q
 Q
 Q
 q
-1 0 0 1 131.3039 21 cm
+1 0 0 1 122.0904 21 cm
 Q
 q
-1 0 0 1 206.4863 69 cm
+1 0 0 1 238.1808 69 cm
 Q
 q
-1 0 0 1 206.4863 69 cm
+1 0 0 1 238.1808 69 cm
 Q
 q
-1 0 0 1 206.4863 57 cm
+1 0 0 1 238.1808 57 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -393,10 +393,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.4863 51 cm
+1 0 0 1 238.1808 51 cm
 Q
 q
-1 0 0 1 206.4863 39 cm
+1 0 0 1 238.1808 39 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -417,10 +417,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.4863 33 cm
+1 0 0 1 238.1808 33 cm
 Q
 q
-1 0 0 1 206.4863 21 cm
+1 0 0 1 238.1808 21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -441,10 +441,10 @@ q
 Q
 Q
 q
-1 0 0 1 206.4863 15 cm
+1 0 0 1 238.1808 15 cm
 Q
 q
-1 0 0 1 206.4863 3 cm
+1 0 0 1 238.1808 3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -465,16 +465,16 @@ q
 Q
 Q
 q
-1 0 0 1 206.4863 3 cm
+1 0 0 1 238.1808 3 cm
 Q
 q
-1 0 0 1 344.3206 69 cm
+1 0 0 1 359.7994 69 cm
 Q
 q
-1 0 0 1 344.3206 69 cm
+1 0 0 1 359.7994 69 cm
 Q
 q
-1 0 0 1 344.3206 57 cm
+1 0 0 1 359.7994 57 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -495,10 +495,10 @@ q
 Q
 Q
 q
-1 0 0 1 344.3206 51 cm
+1 0 0 1 359.7994 51 cm
 Q
 q
-1 0 0 1 344.3206 39 cm
+1 0 0 1 359.7994 39 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -519,10 +519,10 @@ q
 Q
 Q
 q
-1 0 0 1 344.3206 33 cm
+1 0 0 1 359.7994 33 cm
 Q
 q
-1 0 0 1 344.3206 21 cm
+1 0 0 1 359.7994 21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -543,7 +543,7 @@ q
 Q
 Q
 q
-1 0 0 1 344.3206 21 cm
+1 0 0 1 359.7994 21 cm
 Q
 q
 1 J
@@ -551,9 +551,9 @@ q
 0 0 0 RG
 .25 w
 n 0 78 m 469.8898 78 l S
-n 125.3039 0 m 125.3039 96 l S
-n 200.4863 0 m 200.4863 96 l S
-n 338.3206 0 m 338.3206 96 l S
+n 116.0904 0 m 116.0904 96 l S
+n 232.1808 0 m 232.1808 96 l S
+n 353.7994 0 m 353.7994 96 l S
 n 0 96 m 469.8898 96 l S
 n 0 0 m 469.8898 0 l S
 n 0 0 m 0 96 l S
@@ -1932,19 +1932,19 @@ xref
 0000013028 00000 n
 0000013126 00000 n
 0000013210 00000 n
-0000022996 00000 n
-0000031601 00000 n
-0000039703 00000 n
-0000041955 00000 n
-0000042026 00000 n
-0000042063 00000 n
-0000042100 00000 n
-0000042137 00000 n
+0000023005 00000 n
+0000031610 00000 n
+0000039712 00000 n
+0000041964 00000 n
+0000042035 00000 n
+0000042072 00000 n
+0000042109 00000 n
+0000042146 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\257\230\341z\020\004\240}\260\333n\341\313\351\311J) (\257\230\341z\020\004\240}\260\333n\341\313\351\311J)]
+ [(9ND\234\215\374{DX\331\030\334\255\267\005\245) (9ND\234\215\374{DX\331\030\334\255\267\005\245)]
  /Info 19 0 R /Root 18 0 R /Size 46 >>
 startxref
-42174
+42183
 %%EOF

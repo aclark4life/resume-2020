@@ -17,17 +17,17 @@ About
 Skills
 ------
 
-+--------------------+------------+----------------------+---------------------+
-| **Web Development**| **Python** | **Systems**          | **Networking**      |
-+--------------------+------------+----------------------+---------------------+
-|   - HTML           | - Django   |                      | - TCP/IP            |
-|   - CSS            | - Pyramid  |                      | - CIFS              |
-|   - JavaScript     | - Plone    | - Apple macOS Unix   | - NFS               |
-|                    |            | - Ubuntu Linux       |                     |
-|                    |            | - CentOS Linux       |                     |
-|                    |            | - Microsoft Windows  |                     |
-|                    |            |                      |                     |
-+--------------------+------------+----------------------+---------------------+
++---------------------+---------------------+----------------------+---------------------+
+| **Web Development** | **Python Software** | **Systems**          | **Networking**      |
++---------------------+---------------------+----------------------+---------------------+
+|   - HTML            | - Django            |                      | - TCP/IP            |
+|   - CSS             | - Pyramid           |                      | - CIFS              |
+|   - JavaScript      | - Plone             | - Apple macOS Unix   | - NFS               |
+|                     |                     | - Ubuntu Linux       |                     |
+|                     |                     | - CentOS Linux       |                     |
+|                     |                     | - Microsoft Windows  |                     |
+|                     |                     |                      |                     |
++---------------------+---------------------+----------------------+---------------------+
 
 Work Experience
 ---------------
