@@ -152,7 +152,7 @@ Pillow
 
     **Fork author & Project leader**
 
-    August, 2010 — Present
+    July, 2010 — Present
 
     http://python-pillow.org
 
