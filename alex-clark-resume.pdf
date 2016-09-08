@@ -49,7 +49,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160908074741+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908074741+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908074842+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908074842+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
@@ -778,7 +778,7 @@ Q
 endstream
 endobj
 30 0 obj
-<< /Length 8064 >>
+<< /Length 8045 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1025,7 +1025,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed hardware and software for real-time broadcasting of FM-Radio over the internet.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Installed and configured hardware and software for streaming FM radio.) Tj T* ET
 Q
 Q
 q
@@ -1346,15 +1346,15 @@ xref
 0000011753 00000 n
 0000016184 00000 n
 0000024875 00000 n
-0000032996 00000 n
-0000033058 00000 n
-0000033095 00000 n
-0000033132 00000 n
+0000032977 00000 n
+0000033039 00000 n
+0000033076 00000 n
+0000033113 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\312\303xL\364\265\230M\260\236\214\335\227\263\325\312) (\312\303xL\364\265\230M\260\236\214\335\227\263\325\312)]
+ [(U\217\374y\315\315pM\267\210%F\234\204\205\037) (U\217\374y\315\315pM\267\210%F\234\204\205\037)]
  /Info 15 0 R /Root 14 0 R /Size 35 >>
 startxref
-33169
+33150
 %%EOF

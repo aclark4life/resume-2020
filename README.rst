@@ -96,7 +96,7 @@ Charm Net
 
     - Administrated 4 BSDI Servers for 2000+ users.
     - Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
-    - Installed hardware and software for real-time broadcasting of FM-Radio over the internet.
+    - Installed and configured hardware and software for streaming FM radio.
     - Installed and configured BSDI servers and Windows workstations and servers.
     - Provided production operations support.
 
