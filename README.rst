@@ -150,7 +150,7 @@ Volunteer
 Pillow
 ~~~~~~
 
-    **Fork author & Project leader**
+    **Fork Author & Project Leader**
 
     July, 2010 — Present
 
