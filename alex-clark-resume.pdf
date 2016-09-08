@@ -49,7 +49,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 32 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160908080007+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908080007+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908080100+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908080100+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
@@ -94,7 +94,7 @@ endobj
 << /Count 3 /Kids [ 7 0 R 11 0 R 13 0 R ] /Type /Pages >>
 endobj
 29 0 obj
-<< /Length 6207 >>
+<< /Length 6437 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -159,6 +159,13 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Web Development) Tj T* ET
+Q
+Q
+q
+1 0 0 1 128.0493 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python) Tj T* ET
 Q
 Q
 q
@@ -240,11 +247,19 @@ q
 1 0 0 1 6 3 cm
 Q
 q
+1 0 0 1 128.0493 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Django) Tj T* ET
+Q
+Q
+q
 1 J
 1 j
 0 0 0 RG
 .25 w
 n 0 60 m 469.8898 60 l S
+n 122.0493 0 m 122.0493 78 l S
 n 0 78 m 469.8898 78 l S
 n 0 0 m 469.8898 0 l S
 n 0 0 m 0 78 l S
@@ -1473,17 +1488,17 @@ xref
 0000011668 00000 n
 0000011799 00000 n
 0000011876 00000 n
-0000018140 00000 n
-0000027075 00000 n
-0000034719 00000 n
-0000034781 00000 n
-0000034818 00000 n
-0000034855 00000 n
+0000018370 00000 n
+0000027305 00000 n
+0000034949 00000 n
+0000035011 00000 n
+0000035048 00000 n
+0000035085 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\252\313s\360;\230V\350\207H\323.\)\234\330$) (\252\313s\360;\230V\350\207H\323.\)\234\330$)]
+ [(X{\316\374\354*\251w\266\346\370\010&\332\220\034) (X{\316\374\354*\251w\266\346\370\010&\332\220\034)]
  /Info 15 0 R /Root 14 0 R /Size 36 >>
 startxref
-34892
+35122
 %%EOF
