@@ -164,7 +164,7 @@ Volunteer
 DC Python
 ~~~~~~~~~
 
-    **Co-founder & President**
+    **Co-Founder & President**
 
     2008 — Present
 
