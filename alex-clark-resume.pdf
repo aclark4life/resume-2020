@@ -49,7 +49,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 31 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160908073353+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908073353+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908073450+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908073450+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
@@ -778,7 +778,7 @@ Q
 endstream
 endobj
 30 0 obj
-<< /Length 8091 >>
+<< /Length 8058 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -852,7 +852,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided real-time, production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1073,7 +1073,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided real-time, production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1230,7 +1230,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided real-time, production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1346,15 +1346,15 @@ xref
 0000011753 00000 n
 0000016184 00000 n
 0000024875 00000 n
-0000033023 00000 n
-0000033085 00000 n
-0000033122 00000 n
-0000033159 00000 n
+0000032990 00000 n
+0000033052 00000 n
+0000033089 00000 n
+0000033126 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(L\306\200U/\030J\336\346C\023\035IH\324z) (L\306\200U/\030J\336\346C\023\035IH\324z)]
+ [(\02547\353\357\276\366\300\310\311\013\205B\270\254%) (\02547\353\357\276\366\300\310\311\013\205B\270\254%)]
  /Info 15 0 R /Root 14 0 R /Size 35 >>
 startxref
-33196
+33163
 %%EOF
