@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 41 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908090017+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908090017+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908090350+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908090350+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -1739,7 +1739,7 @@ Q
 endstream
 endobj
 40 0 obj
-<< /Length 3753 >>
+<< /Length 3757 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1955,7 +1955,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Continuously but quietly oversee development to ensure best possible quality of releases.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Continuously \(but quietly\) oversee development to ensure best possible quality of releases.) Tj T* ET
 Q
 Q
 q
@@ -2031,16 +2031,16 @@ xref
 0000022996 00000 n
 0000031601 00000 n
 0000039703 00000 n
-0000043513 00000 n
-0000043584 00000 n
-0000043621 00000 n
-0000043658 00000 n
-0000043695 00000 n
+0000043517 00000 n
+0000043588 00000 n
+0000043625 00000 n
+0000043662 00000 n
+0000043699 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\300\026\3002E\262\373\344\323,,\257\274\274\376#) (\300\026\3002E\262\373\344\323,,\257\274\274\376#)]
+ [(\374#\244\310m\256\346\350\263I\235\312x\236;s) (\374#\244\310m\256\346\350\263I\235\312x\236;s)]
  /Info 19 0 R /Root 18 0 R /Size 46 >>
 startxref
-43732
+43736
 %%EOF
