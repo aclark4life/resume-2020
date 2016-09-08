@@ -151,6 +151,8 @@ Publications
 
     July, 2010
 
+    https://www.packtpub.com/web-development/plone-33-site-administration
+
     *Manage your site like a Plone professional.*
 
 Volunteer
