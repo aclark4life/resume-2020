@@ -81,7 +81,7 @@ Genuity
     - Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches Developed Perl/SNMP/CGI software to support configuration of TELCO settings on "Big Box" access servers (more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800)
     - Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and Microsoft Windows workstations and servers.
     - Configured NICs under Linux.
-    - Provided operations support.
+    - Provided real-time, production operations support.
     - Performed maintenance on Genuity AOLNet and DialLinx dial-up networks. Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.
     - Verified the successful negotiation of TCP, PPP, and L2TP protocols through dial-up connections between client programs and remote access servers. Diagnosed and resolved problems end to end.
 
@@ -98,7 +98,7 @@ Charm Net
     - Installed and congured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
     - Installed hardware and software for real-time broadcasting of FM-Radio over the internet.
     - Installed and congured BSDI servers and Windows workstations and servers.
-    - Provided operations support.
+    - Provided real-time, production operations support.
 
 |
 
@@ -114,7 +114,7 @@ Loyola University Maryland
     - Provided telephone and in-person technical support to students, faculty, and administrators.
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
     - Installed and congured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
-    - Provided operations support.
+    - Provided real-time, production operations support.
 
 |
 
