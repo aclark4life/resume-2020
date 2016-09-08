@@ -20,9 +20,11 @@ Skills
 +--------------------+------------+----------------------+---------------------+
 | **Web Development**| **Python** | **Systems**          | **Networking**      |
 +--------------------+------------+----------------------+---------------------+
-|   - HTML           | - Django   | - Ubuntu Linux       | - TCP/IP            |
-|   - CSS            | - Pyramid  | - CentOS Linux       | - CIFS              |
+|   - HTML           | - Django   |                      | - TCP/IP            |
+|   - CSS            | - Pyramid  |                      | - CIFS              |
 |   - JavaScript     | - Plone    | - Apple macOS Unix   | - NFS               |
+|                    |            | - Ubuntu Linux       |                     |
+|                    |            | - CentOS Linux       |                     |
 |                    |            | - Microsoft Windows  |                     |
 +--------------------+------------+----------------------+---------------------+
 

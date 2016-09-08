@@ -49,7 +49,7 @@ endobj
 << /Outlines 16 0 R /PageLabels 32 0 R /PageMode /UseNone /Pages 28 0 R /Type /Catalog >>
 endobj
 15 0 obj
-<< /Author () /CreationDate (D:20160908080701+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908080701+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908080827+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908080827+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 16 0 obj
@@ -359,7 +359,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ubuntu Linux) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apple macOS Unix) Tj T* ET
 Q
 Q
 q
@@ -383,7 +383,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CentOS Linux) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ubuntu Linux) Tj T* ET
 Q
 Q
 q
@@ -407,7 +407,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Apple macOS Unix) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (CentOS Linux) Tj T* ET
 Q
 Q
 q
@@ -1764,7 +1764,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(@\012\271:\3226\252b\337\225"\036\331J\263I) (@\012\271:\3226\252b\337\225"\036\331J\263I)]
+ [(|\002k\0222\310:\331\215\240\355Y/r\241\036) (|\002k\0222\310:\331\215\240\355Y/r\241\036)]
  /Info 15 0 R /Root 14 0 R /Size 36 >>
 startxref
 38526
