@@ -147,11 +147,11 @@ Bachelor of Science in Computer Science
 Publications
 ------------
 
-Plone 3.3 Site Administration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    **Plone 3.3 Site Administration, PACKT Publishing**
 
-Practical Plone 3
-~~~~~~~~~~~~~~~~~
+    July, 2010
+
+    *Manage your site like a Plone professional.*
 
 Volunteer
 ---------
