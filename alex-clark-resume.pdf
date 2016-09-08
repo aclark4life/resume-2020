@@ -62,7 +62,7 @@ endobj
 << /Outlines 20 0 R /PageLabels 41 0 R /PageMode /UseNone /Pages 36 0 R /Type /Catalog >>
 endobj
 19 0 obj
-<< /Author () /CreationDate (D:20160908085257+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085257+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908085444+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908085444+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 20 0 obj
@@ -1739,7 +1739,7 @@ Q
 endstream
 endobj
 40 0 obj
-<< /Length 3007 >>
+<< /Length 3000 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1859,7 +1859,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.365433 Tw (Forked development of popular Python Imaging Library software to create frequently updated) Tj T* 0 Tw (and well-maintained version.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.170976 Tw (Forked popular Python Imaging Library \(PIL\) software to create frequently-updated and) Tj T* 0 Tw (well-maintained version.) Tj T* ET
 Q
 Q
 q
@@ -1983,16 +1983,16 @@ xref
 0000022996 00000 n
 0000031601 00000 n
 0000039703 00000 n
-0000042767 00000 n
-0000042838 00000 n
-0000042875 00000 n
-0000042912 00000 n
-0000042949 00000 n
+0000042760 00000 n
+0000042831 00000 n
+0000042868 00000 n
+0000042905 00000 n
+0000042942 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\025q\334q\210L\256\224\313k=\253\313A\227\316) (\025q\334q\210L\256\224\313k=\253\313A\227\316)]
+ [(%y\324k\321[\0260\245\001\275\217\273\012\244V) (%y\324k\321[\0260\245\001\275\217\273\012\244V)]
  /Info 19 0 R /Root 18 0 R /Size 46 >>
 startxref
-42986
+42979
 %%EOF
