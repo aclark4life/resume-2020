@@ -162,6 +162,15 @@ DC Python
 
     - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
 
+Parkwood Residents Association
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    **Webmaster & Executive Committee Member**
+
+    2014 — Present
+
+    http://parkwoodresidents.org
+
 Pillow
 ~~~~~~
 
