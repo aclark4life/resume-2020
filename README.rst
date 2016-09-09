@@ -23,7 +23,7 @@ Skills
 |   - HTML            | - Django            |                      | - TCP/IP            |
 |   - CSS             | - Pyramid           |                      | - CIFS              |
 |   - JavaScript      | - Plone             | - Apple macOS Unix   | - NFS               |
-|                     |                     | - Ubuntu Linux       |                     |
+|                     |                     | - Ubuntu Linux       | - DNS               |
 |                     |                     | - CentOS Linux       |                     |
 |                     |                     | - Microsoft Windows  |                     |
 |                     |                     |                      |                     |
