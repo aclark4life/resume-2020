@@ -188,4 +188,4 @@ Pillow
     - Foster growth of core development team from single member to five members over five years.
     - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
     - Implement and manage quarterly release schedule.
-    - Continuously (but quietly) oversee development to ensure best possible quality of releases.
+    - Continuously oversee development to ensure best possible quality of releases.
