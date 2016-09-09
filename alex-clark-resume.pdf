@@ -39,7 +39,7 @@ endobj
   /Trans <<  >> /Type /Page >>
 endobj
 12 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 345.7736 322.2329 357.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.loyola.edu/department/technology-services) >> /Border [ 0 0 0 ] /Rect [ 82.69291 321.7736 322.2329 333.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 13 0 obj
 << /Annots [ 12 0 R ] /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 38 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -65,7 +65,7 @@ endobj
 << /Outlines 21 0 R /PageLabels 43 0 R /PageMode /UseNone /Pages 38 0 R /Type /Catalog >>
 endobj
 20 0 obj
-<< /Author () /CreationDate (D:20160908205050+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908205050+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908205605+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908205605+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 21 0 obj
@@ -94,17 +94,17 @@ endobj
 << /Dest [ 11 0 R /XYZ 62.69291 231.0236 0 ] /Next 29 0 R /Parent 24 0 R /Prev 27 0 R /Title (Genuity) >>
 endobj
 29 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 603.0236 0 ] /Next 30 0 R /Parent 24 0 R /Prev 28 0 R /Title (Charm Net) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 579.0236 0 ] /Next 30 0 R /Parent 24 0 R /Prev 28 0 R /Title (Charm Net) >>
 endobj
 30 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 423.0236 0 ] /Parent 24 0 R /Prev 29 0 R /Title (Loyola University Maryland) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 399.0236 0 ] /Parent 24 0 R /Prev 29 0 R /Title (Loyola University Maryland) >>
 endobj
 31 0 obj
-<< /Count 1 /Dest [ 13 0 R /XYZ 62.69291 219.0236 0 ] /First 32 0 R /Last 32 0 R /Next 33 0 R /Parent 21 0 R 
+<< /Count 1 /Dest [ 13 0 R /XYZ 62.69291 195.0236 0 ] /First 32 0 R /Last 32 0 R /Next 33 0 R /Parent 21 0 R 
   /Prev 24 0 R /Title (Education) >>
 endobj
 32 0 obj
-<< /Dest [ 13 0 R /XYZ 62.69291 186.0236 0 ] /Parent 31 0 R /Title (Bachelor of Science in Computer Science) >>
+<< /Dest [ 13 0 R /XYZ 62.69291 162.0236 0 ] /Parent 31 0 R /Title (Bachelor of Science in Computer Science) >>
 endobj
 33 0 obj
 << /Count 1 /Dest [ 18 0 R /XYZ 62.69291 765.0236 0 ] /First 34 0 R /Last 34 0 R /Next 35 0 R /Parent 21 0 R 
@@ -760,7 +760,7 @@ Q
 endstream
 endobj
 40 0 obj
-<< /Length 8548 >>
+<< /Length 8809 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1187,42 +1187,42 @@ q
 1 0 0 1 62.69291 201.0236 cm
 Q
 q
-1 0 0 1 62.69291 93.02362 cm
+1 0 0 1 62.69291 87.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 96 cm
+1 0 0 1 20 102 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Network Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 84 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (October, 1998 \227 November, 2001) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 60 cm
+1 0 0 1 20 66 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (https://en.wikipedia.org/wiki/BBN_Technologies) Tj  T* ET
 Q
 Q
 q
-1 0 0 1 20 54 cm
+1 0 0 1 20 60 cm
 Q
 q
-1 0 0 1 20 54 cm
+1 0 0 1 20 60 cm
 Q
 q
-1 0 0 1 20 6 cm
+1 0 0 1 20 36 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 33 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1232,7 +1232,31 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 2.140976 Tw (Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511) Tj T* 0 Tw 1.450976 Tw (Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches) Tj T* 0 Tw 1.429979 Tw (Developed Perl/SNMP/CGI software to support configuration of TELCO settings on "Big Box") Tj T* 0 Tw (access servers \(more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800\)) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.140976 Tw (Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511) Tj T* 0 Tw (Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.429979 Tw (Developed Perl/SNMP/CGI software to support configuration of TELCO settings on "Big Box") Tj T* 0 Tw (access servers \(more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800\).) Tj T* ET
 Q
 Q
 q
@@ -1248,40 +1272,16 @@ Q
 endstream
 endobj
 41 0 obj
-<< /Length 8055 >>
+<< /Length 8593 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 108 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.934524 Tw (Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and) Tj T* 0 Tw (Microsoft Windows workstations and servers.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 102 cm
-Q
-q
-1 0 0 1 20 90 cm
+1 0 0 1 20 144 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1302,10 +1302,130 @@ q
 Q
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 20 138 cm
 Q
 q
-1 0 0 1 20 72 cm
+1 0 0 1 20 126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Performed maintenance on Genuity AOLNet and DialLinx dial-up networks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.036976 Tw (Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst) Tj T* 0 Tw (Ethernet Switches.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.56816 Tw (Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections) Tj T* 0 Tw (between client programs and remote access servers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 48 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Diagnosed and resolved problems end to end.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 42 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.934524 Tw (Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and) Tj T* 0 Tw (Microsoft Windows workstations and servers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1326,86 +1446,38 @@ q
 Q
 Q
 q
-1 0 0 1 20 66 cm
-Q
-q
-1 0 0 1 20 42 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.197976 Tw (Performed maintenance on Genuity AOLNet and DialLinx dial-up networks. Configured 2000+) Tj T* 0 Tw (Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 36 cm
-Q
-q
-1 0 0 1 20 0 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.902706 Tw (Verified the successful negotiation of TCP, PPP, and L2TP protocols through dial-up) Tj T* 0 Tw 2.560976 Tw (connections between client programs and remote access servers. Diagnosed and resolved) Tj T* 0 Tw (problems end to end.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
 1 0 0 1 20 0 cm
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 633.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 Q
 q
-1 0 0 1 62.69291 627.0236 cm
+1 0 0 1 62.69291 603.0236 cm
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 591.0236 cm
 Q
 q
-1 0 0 1 62.69291 585.0236 cm
+1 0 0 1 62.69291 561.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Charm Net) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 573.0236 cm
+1 0 0 1 62.69291 549.0236 cm
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1553,32 +1625,32 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 453.0236 cm
+1 0 0 1 62.69291 429.0236 cm
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 423.0236 cm
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 381.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Loyola University Maryland) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 369.0236 cm
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1710,38 +1782,38 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 249.0236 cm
+1 0 0 1 62.69291 225.0236 cm
 Q
 q
-1 0 0 1 62.69291 243.0236 cm
+1 0 0 1 62.69291 219.0236 cm
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 62.69291 207.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 231.0236 cm
+1 0 0 1 62.69291 207.0236 cm
 Q
 q
-1 0 0 1 62.69291 198.0236 cm
+1 0 0 1 62.69291 174.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 168.0236 cm
+1 0 0 1 62.69291 144.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Bachelor of Science in Computer Science) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 156.0236 cm
+1 0 0 1 62.69291 132.0236 cm
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 102.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1763,7 +1835,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 126.0236 cm
+1 0 0 1 62.69291 102.0236 cm
 Q
  
 endstream
@@ -2131,18 +2203,18 @@ xref
 0000013435 00000 n
 0000013519 00000 n
 0000023604 00000 n
-0000032209 00000 n
-0000040321 00000 n
-0000045177 00000 n
-0000045248 00000 n
-0000045285 00000 n
-0000045322 00000 n
-0000045359 00000 n
+0000032470 00000 n
+0000041120 00000 n
+0000045976 00000 n
+0000046047 00000 n
+0000046084 00000 n
+0000046121 00000 n
+0000046158 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(h\303.m\250\346\317!-p\337\326\002\005M\205) (h\303.m\250\346\317!-p\337\326\002\005M\205)]
+ [(\301\333\373K\206\360\333C\213\214s\311\334;\324\007) (\301\333\373K\206\360\333C\213\214s\311\334;\324\007)]
  /Info 20 0 R /Root 19 0 R /Size 48 >>
 startxref
-45396
+46195
 %%EOF
