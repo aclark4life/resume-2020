@@ -20,12 +20,12 @@ Skills
 +---------------------+---------------------+----------------------+---------------------+
 | **Web Development** | **Python**          | **Systems**          | **Networking**      |
 +---------------------+---------------------+----------------------+---------------------+
-|   - HTML            | - Django            |                      | - TCP/IP            |
-|   - CSS             | - Pyramid           |                      | - CIFS              |
-|   - JavaScript      | - Plone             | - Apple macOS Unix   | - NFS               |
-|                     |                     | - Ubuntu Linux       | - DNS               |
-|                     |                     | - CentOS Linux       |                     |
-|                     |                     | - Microsoft Windows  |                     |
+|   - HTML            | - Django            | - Apple macOS Unix   | - TCP/IP            |
+|   - CSS             | - Pyramid           | - Ubuntu Linux       | - CIFS              |
+|   - JavaScript      | - Plone             | - CentOS Linux       | - NFS               |
+|                     |                     | - Microsoft Windows  | - DNS               |
+|                     |                     |                      |                     |
+|                     |                     |                      |                     |
 |                     |                     |                      |                     |
 +---------------------+---------------------+----------------------+---------------------+
 
@@ -41,9 +41,7 @@ ACLARK.NET, LLC
 
     http://aclark.net
 
-    - Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and Zope.
-    - Dramatically transform cross-platform platforms after stand-alone "outside the box" thinking. Quickly repurpose open-source resources vis-a-vis functionalized partnerships. Enthusiastically revolutionize wireless testing procedures for diverse relationships. 
-    - Intrinsicly unleash virtual e-markets after distinctive initiatives. Globally recaptiualize interoperable bandwidth for empowered web-readiness. Progressively administrate next-generation catalysts for change rather than ubiquitous content.
+    - Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid and Zope and related technologies e.g. HTML/CSS/JavaScript.
 
 |
 
