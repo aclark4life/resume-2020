@@ -59,6 +59,7 @@ ACLARK.NET, LLC
 
     - Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid & Zope and related technologies e.g. HTML/CSS/JavaScript.
     - Develop and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
+    - Serve government, non-profit and private sector clients e.g. NASA, National Geographic Society and Socialcode (a Washington Post company.)
     - Provide production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
@@ -72,7 +73,9 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     - Evaluate and recommend hardware and software for purchase by NIF
     - Install, configure and maintain hardware and software. Troubleshoot and resolve hardware and software problems
-    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups Manage network and system security. Analyze network performance and access to public resources
+    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups
+    - Manage network and system security.
+    - Analyze network performance and access to public resources
     - Provide desktop support to NIF staff, resolve productivity issues
     - Provide liaison to NIH CIT on infrastructure and security related issues
 
