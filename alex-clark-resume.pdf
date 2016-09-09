@@ -58,13 +58,13 @@ endobj
   /Trans <<  >> /Type /Page >>
 endobj
 18 0 obj
-<< /A << /S /URI /Type /Action /URI (http://dcpython.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 654.7736 165.5229 666.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 654.7736 183.2929 666.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 19 0 obj
-<< /A << /S /URI /Type /Action /URI (http://parkwoodresidents.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 546.7736 208.8629 558.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://dcpython.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 450.7736 165.5229 462.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 20 0 obj
-<< /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 456.7736 183.2929 468.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://parkwoodresidents.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 342.7736 208.8629 354.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 21 0 obj
 << /A << /S /URI /Type /Action /URI (https://www.packtpub.com/web-development/plone-33-site-administration) >> /Border [ 0 0 0 ] /Rect [ 82.69291 201.7736 407.2529 213.7736 ] /Subtype /Link /Type /Annot >>
@@ -80,7 +80,7 @@ endobj
 << /Outlines 26 0 R /PageLabels 51 0 R /PageMode /UseNone /Pages 46 0 R /Type /Catalog >>
 endobj
 25 0 obj
-<< /Author () /CreationDate (D:20160909074311+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909074311+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160909074402+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909074402+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 26 0 obj
@@ -133,13 +133,13 @@ endobj
   /Prev 38 0 R /Title (Volunteer) >>
 endobj
 41 0 obj
-<< /Dest [ 23 0 R /XYZ 62.69291 732.0236 0 ] /Next 42 0 R /Parent 40 0 R /Title (DC Python) >>
+<< /Dest [ 23 0 R /XYZ 62.69291 732.0236 0 ] /Next 42 0 R /Parent 40 0 R /Title (Pillow) >>
 endobj
 42 0 obj
-<< /Dest [ 23 0 R /XYZ 62.69291 624.0236 0 ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (Parkwood Residents Association) >>
+<< /Dest [ 23 0 R /XYZ 62.69291 528.0236 0 ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (DC Python) >>
 endobj
 43 0 obj
-<< /Dest [ 23 0 R /XYZ 62.69291 534.0236 0 ] /Parent 40 0 R /Prev 42 0 R /Title (Pillow) >>
+<< /Dest [ 23 0 R /XYZ 62.69291 420.0236 0 ] /Parent 40 0 R /Prev 42 0 R /Title (Parkwood Residents Association) >>
 endobj
 44 0 obj
 << /Count 1 /Dest [ 23 0 R /XYZ 62.69291 312.0236 0 ] /First 45 0 R /Last 45 0 R /Parent 26 0 R /Prev 40 0 R 
@@ -1859,125 +1859,14 @@ Q
 q
 1 0 0 1 62.69291 714.0236 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (DC Python) Tj T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Pillow) Tj T* ET
 Q
 Q
 q
 1 0 0 1 62.69291 702.0236 cm
 Q
 q
-1 0 0 1 62.69291 636.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 54 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Co-Founder & President) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 36 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2008 \227 Present) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 18 cm
-q
-0 0 .501961 rg
-0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://dcpython.org) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 12 cm
-Q
-q
-1 0 0 1 20 12 cm
-Q
-q
-1 0 0 1 20 0 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Co-founded 501\(c\)\(3\) non-profit organization to promote & support Python software in DC.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 20 0 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 636.0236 cm
-Q
-q
-1 0 0 1 62.69291 606.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Parkwood Residents Association) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 594.0236 cm
-Q
-q
-1 0 0 1 62.69291 546.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 36 cm
-q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Webmaster & Executive Committee Member) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 18 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2014 \227 Present) Tj T* ET
-Q
-Q
-q
-1 0 0 1 20 0 cm
-q
-0 0 .501961 rg
-0 0 .501961 RG
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://parkwoodresidents.org) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 546.0236 cm
-Q
-q
-1 0 0 1 62.69291 516.0236 cm
-q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Pillow) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 504.0236 cm
-Q
-q
-1 0 0 1 62.69291 342.0236 cm
+1 0 0 1 62.69291 540.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2132,6 +2021,117 @@ q
 Q
 Q
 q
+1 0 0 1 62.69291 540.0236 cm
+Q
+q
+1 0 0 1 62.69291 510.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (DC Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 54 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Co-Founder & President) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2008 \227 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://dcpython.org) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Co-founded 501\(c\)\(3\) non-profit organization to promote & support Python software in DC.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+Q
+q
+1 0 0 1 62.69291 402.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Parkwood Residents Association) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 390.0236 cm
+Q
+q
+1 0 0 1 62.69291 342.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Webmaster & Executive Committee Member) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2014 \227 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://parkwoodresidents.org) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
 1 0 0 1 62.69291 342.0236 cm
 Q
 q
@@ -2261,8 +2261,8 @@ xref
 0000008544 00000 n
 0000008748 00000 n
 0000008991 00000 n
-0000009166 00000 n
-0000009350 00000 n
+0000009171 00000 n
+0000009346 00000 n
 0000009530 00000 n
 0000009755 00000 n
 0000009874 00000 n
@@ -2284,8 +2284,8 @@ xref
 0000013955 00000 n
 0000014086 00000 n
 0000014253 00000 n
-0000014367 00000 n
-0000014515 00000 n
+0000014364 00000 n
+0000014491 00000 n
 0000014626 00000 n
 0000014783 00000 n
 0000014904 00000 n
@@ -2301,7 +2301,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(I\275\017*`\370\221-\177\301C\347M\337\331\)) (I\275\017*`\370\221-\177\301C\347M\337\331\))]
+ [(\261\364\350\033\013c\216\311\301\207=;\364`\031\353) (\261\364\350\033\013c\216\311\301\207=;\364`\031\353)]
  /Info 25 0 R /Root 24 0 R /Size 56 >>
 startxref
 48342

@@ -151,6 +151,21 @@ Bachelor of Science in Computer Science
 Volunteer
 ---------
 
+Pillow
+~~~~~~
+
+    **Fork Author & Project Leader**
+
+    July, 2010 — Present
+
+    http://python-pillow.org
+
+    - Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.
+    - Foster growth of core development team from single member to five members over five years.
+    - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
+    - Implement and manage quarterly release schedule.
+    - Continuously oversee development to ensure best possible quality of releases.
+
 DC Python
 ~~~~~~~~~
 
@@ -170,21 +185,6 @@ Parkwood Residents Association
     2014 — Present
 
     http://parkwoodresidents.org
-
-Pillow
-~~~~~~
-
-    **Fork Author & Project Leader**
-
-    July, 2010 — Present
-
-    http://python-pillow.org
-
-    - Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.
-    - Foster growth of core development team from single member to five members over five years.
-    - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
-    - Implement and manage quarterly release schedule.
-    - Continuously oversee development to ensure best possible quality of releases.
 
 |
 
