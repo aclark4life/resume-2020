@@ -6,20 +6,67 @@
 <blockquote>
 <p>Alex Clark is a <strong>Python Web Developer</strong> from Baltimore, Maryland, USA living in Bethesda, Maryland. He has a <strong>Bachelor of Science in Computer Science</strong> from Loyola University in Maryland and has worked as a <strong>Network Engineer, Software Engineer, Systems Administrator</strong> and <strong>Technical Team Leader</strong> since May, 1998. He is also the <strong>President of DC Python</strong>, a non-profit organization he co-founded to promote and support the use of Python software in DC.</p>
 </blockquote>
-<a href="https://twitter.com/aclark4life" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @aclark4life</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p>|</p>
+<h2 id="skills">Skills</h2>
+<table>
+<colgroup>
+<col width="24%" />
+<col width="24%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Web Development</strong></td>
+<td><strong>Python</strong></td>
+<td><strong>Systems</strong></td>
+<td><strong>Networking</strong></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+</blockquote></td>
+<td><ul>
+<li>Django</li>
+<li>Pyramid</li>
+<li>Plone</li>
+<li>Zope</li>
+</ul></td>
+<td><ul>
+<li>Apple macOS Unix</li>
+<li>Ubuntu Linux</li>
+<li>CentOS Linux</li>
+<li>Microsoft Windows</li>
+</ul></td>
+<td><ul>
+<li>TCP/IP</li>
+<li>CIFS</li>
+<li>NFS</li>
+<li>DNS</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p>|</p>
+<h2 id="profiles">Profiles</h2>
+<h3 id="github-linkedin-twitter"><a href="https://github.com/aclark4life">GitHub</a> | <a href="https://www.linkedin.com/in/aclark4life">LinkedIn</a> | <a href="https://twitter.com/aclark4life">Twitter</a></h3>
+<p>|</p>
 <h2 id="work-experience">Work Experience</h2>
 <h3 id="aclark.net-llc">ACLARK.NET, LLC</h3>
 <blockquote>
-<p><strong>Partner, Python Web Developer</strong></p>
-<p>May, 2004 — Present</p>
+<p><strong>Partner &amp; Python Web Developer</strong></p>
+<p>2004 — Present</p>
 <p><a href="http://aclark.net" class="uri">http://aclark.net</a></p>
 <ul>
-<li>Develop, deploy, maintain and support Python web applications with Django, Plone, Pyramid and Zope.</li>
-<li>Dramatically transform cross-platform platforms after stand-alone &quot;outside the box&quot; thinking. Quickly repurpose open-source resources vis-a-vis functionalized partnerships. Enthusiastically revolutionize wireless testing procedures for diverse relationships.</li>
-<li>Intrinsicly unleash virtual e-markets after distinctive initiatives. Globally recaptiualize interoperable bandwidth for empowered web-readiness. Progressively administrate next-generation catalysts for change rather than ubiquitous content.</li>
+<li>Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid and Zope and related technologies e.g. HTML/CSS/JavaScript.</li>
+<li>Develop and maintain deployment infrastructures with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.</li>
+<li>Provide production operations support.</li>
 </ul>
 </blockquote>
-<p>|</p>
 <h3 id="neurophysiology-imaging-facility-nif-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h3>
 <blockquote>
 <p><strong>Systems Administrator</strong></p>
@@ -33,7 +80,6 @@
 <li>Provide liaison to NIH CIT on infrastructure and security related issues</li>
 </ul>
 </blockquote>
-<p>|</p>
 <h3 id="scientific-and-statistical-computing-core-sscc-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h3>
 <blockquote>
 <p>May, 2002 — October, 2005</p>
@@ -50,43 +96,46 @@
 <li>Respond to and resolve web site issues for the SSCC and AFNI community</li>
 </ul>
 </blockquote>
-<p>|</p>
 <h3 id="genuity">Genuity</h3>
 <blockquote>
 <p><strong>Network Engineer</strong></p>
 <p>October, 1998 — November, 2001</p>
 <p><a href="https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers"><a href="https://en.wikipedia.org/wiki/BBN_Technologies" class="uri">https://en.wikipedia.org/wiki/BBN_Technologies</a></a></p>
 <ul>
-<li>Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches Developed Perl/SNMP/CGI software to support configuration of TELCO settings on &quot;Big Box&quot; access servers (more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800)</li>
-<li>Installed and configured Debian/GNU Linux, Redhat Linux, Solaris 2.6, and Windows 98/ME/NT/2000/XP servers. Configured NICs under Linux. Provided operations and applications support</li>
-<li>Performed maintenance on Genuity AOLNet and DialLinx dial-up networks. Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches</li>
-<li>Verified the successful negotiation of TCP, PPP, and L2TP protocols through dial-up connections between client programs and remote access servers. Diagnosed and resolved problems end to end</li>
+<li>Developed Perl and Expect software to support remote configuration of over 2,000 Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches.</li>
+<li>Developed Perl CGI software to support remote configuration of access servers with over 4 ingress T1 data lines via SNMP e.g. Cisco 5400, Lucent APX 8000, Nortel CVX 1800.</li>
+<li>Configured over 2,000 Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.</li>
+<li>Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and Microsoft Windows workstations and servers.</li>
+<li>Configured Linux kernel to support myriad network interface cards.</li>
+<li>Researched and resolved complex network connectivity issues.</li>
+<li>Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.</li>
+<li>Performed maintenance on AOLNet and DialLinx dial-up networks.</li>
+<li>Provided production operations support.</li>
 </ul>
 </blockquote>
-<p>|</p>
 <h3 id="charm-net">Charm Net</h3>
 <blockquote>
 <p><strong>Systems Administrator</strong></p>
 <p>January, 1998 — August, 1998</p>
+<p><a href="http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net" class="uri">http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net</a></p>
 <ul>
-<li>Administrated 4 BSDI Servers for 2000+ users</li>
-<li>Installed and congured DNS, NFS, Sendmail, Apache, INND, and Dump/Restore</li>
-<li>Installed hardware and software for real-time broadcasting of FM-Radio over the internet</li>
-<li>Installed and congured BSDI servers and Windows NT 4.0 workstations</li>
-<li>Provided operations and applications support</li>
+<li>Managed 4 BSDI Unix servers for over 2,000 users.</li>
+<li>Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.</li>
+<li>Installed and configured hardware and software for streaming FM radio to the internet.</li>
+<li>Installed and configured BSDI Unix servers and Microsoft Windows workstations and servers.</li>
+<li>Provided production operations support.</li>
 </ul>
 </blockquote>
-<p>|</p>
 <h3 id="loyola-university-maryland">Loyola University Maryland</h3>
 <blockquote>
-<p><strong>Help Desk Consultant, Student Technician</strong></p>
+<p><strong>Help Desk Consultant &amp; Student Technician</strong></p>
 <p>August, 1996 — November, 1997</p>
 <p><a href="http://www.loyola.edu/department/technology-services" class="uri">http://www.loyola.edu/department/technology-services</a></p>
 <ul>
 <li>Provided telephone and in-person technical support to students, faculty, and administrators.</li>
 <li>Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.</li>
-<li>Installed and congured Solaris 2.51, Slackware Linux, Redhat Linux, and Windows 3.1/95 /98/NT servers.</li>
-<li>Provided operations and applications support.</li>
+<li>Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.</li>
+<li>Provided production operations support.</li>
 </ul>
 </blockquote>
 <p>|</p>
@@ -95,4 +144,45 @@
 <blockquote>
 <p><strong>Loyola University Maryland</strong></p>
 <p>January, 1999</p>
+<p><a href="http://www.loyola.edu/academics/computer-science" class="uri">http://www.loyola.edu/academics/computer-science</a></p>
 </blockquote>
+<p>|</p>
+<h2 id="volunteer">Volunteer</h2>
+<h3 id="pillow">Pillow</h3>
+<blockquote>
+<p><strong>Fork Author &amp; Project Leader</strong></p>
+<p>July, 2010 — Present</p>
+<p><a href="http://python-pillow.org" class="uri">http://python-pillow.org</a></p>
+<ul>
+<li>Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.</li>
+<li>Foster growth of core development team from single member to five members over five years.</li>
+<li>Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.</li>
+<li>Implement and manage quarterly release schedule.</li>
+<li>Continuously oversee development to ensure best possible quality of releases.</li>
+</ul>
+</blockquote>
+<h3 id="dc-python">DC Python</h3>
+<blockquote>
+<p><strong>Co-Founder &amp; President</strong></p>
+<p>2008 — Present</p>
+<p><a href="http://dcpython.org" class="uri">http://dcpython.org</a></p>
+<ul>
+<li>Co-founded 501(c)(3) non-profit organization to promote &amp; support Python software in DC.</li>
+</ul>
+</blockquote>
+<h3 id="parkwood-residents-association-pra">Parkwood Residents Association (PRA)</h3>
+<blockquote>
+<p><strong>Webmaster &amp; Executive Committee Member</strong></p>
+<p>2014 — Present</p>
+<p><a href="http://parkwoodresidents.org" class="uri">http://parkwoodresidents.org</a></p>
+</blockquote>
+<p>|</p>
+<h2 id="publications">Publications</h2>
+<h3 id="plone-3.3-site-administration">Plone 3.3 Site Administration</h3>
+<blockquote>
+<p><strong>PACKT Publishing Limited</strong></p>
+<p>July, 2010</p>
+<p><a href="https://www.packtpub.com/web-development/plone-33-site-administration" class="uri">https://www.packtpub.com/web-development/plone-33-site-administration</a></p>
+<p><em>&quot;Manage your site like a Plone professional.&quot;</em></p>
+</blockquote>
+<h4 id="section">|</h4>
