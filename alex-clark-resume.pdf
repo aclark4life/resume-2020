@@ -87,7 +87,7 @@ endobj
 << /Outlines 28 0 R /PageLabels 54 0 R /PageMode /UseNone /Pages 48 0 R /Type /Catalog >>
 endobj
 27 0 obj
-<< /Author () /CreationDate (D:20160909075455+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909075455+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160909075738+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909075738+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 28 0 obj
@@ -159,7 +159,7 @@ endobj
 << /Count 5 /Kids [ 9 0 R 14 0 R 17 0 R 24 0 R 25 0 R ] /Type /Pages >>
 endobj
 49 0 obj
-<< /Length 9851 >>
+<< /Length 9913 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -716,25 +716,25 @@ q
 1 0 0 1 62.69291 239.0236 cm
 Q
 q
-1 0 0 1 62.69291 125.0236 cm
+1 0 0 1 62.69291 113.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 102 cm
+1 0 0 1 20 114 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Partner & Python Web Developer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 20 96 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2004 \227 Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 66 cm
+1 0 0 1 20 78 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -742,13 +742,13 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://aclark.net) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 60 cm
+1 0 0 1 20 72 cm
 Q
 q
-1 0 0 1 20 60 cm
+1 0 0 1 20 72 cm
 Q
 q
-1 0 0 1 20 36 cm
+1 0 0 1 20 48 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -769,14 +769,14 @@ q
 Q
 Q
 q
-1 0 0 1 20 30 cm
+1 0 0 1 20 42 cm
 Q
 q
 1 0 0 1 20 18 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -786,7 +786,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Manage client infrastructures with Amazon Web Services \(AWS\).) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .563615 Tw (Manage web and IT infrastructures with Amazon Web Services \(AWS\), CloudFlare, Rackspace) Tj T* 0 Tw (Cloud, etc.) Tj T* ET
 Q
 Q
 q
@@ -823,7 +823,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 125.0236 cm
+1 0 0 1 62.69291 113.0236 cm
 Q
  
 endstream
@@ -2357,21 +2357,21 @@ xref
 0000015215 00000 n
 0000015336 00000 n
 0000015427 00000 n
-0000025335 00000 n
-0000033460 00000 n
-0000042650 00000 n
-0000049149 00000 n
-0000049385 00000 n
-0000049465 00000 n
-0000049502 00000 n
-0000049539 00000 n
-0000049576 00000 n
-0000049613 00000 n
+0000025397 00000 n
+0000033522 00000 n
+0000042712 00000 n
+0000049211 00000 n
+0000049447 00000 n
+0000049527 00000 n
+0000049564 00000 n
+0000049601 00000 n
+0000049638 00000 n
+0000049675 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\235\275\322/\273Af\320\200\253\212\200\372p\356r) (\235\275\322/\273Af\320\200\253\212\200\372p\356r)]
+ [(b/\251\365\3735\241\300F\324\027.r\026\362\036) (b/\251\365\3735\241\300F\324\027.r\026\362\036)]
  /Info 27 0 R /Root 26 0 R /Size 60 >>
 startxref
-49650
+49712
 %%EOF
