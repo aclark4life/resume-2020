@@ -47,8 +47,6 @@ ACLARK.NET, LLC
 
     - Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid and Zope and related technologies e.g. HTML/CSS/JavaScript.
 
-|
-
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -63,8 +61,6 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups Manage network and system security. Analyze network performance and access to public resources
     - Provide desktop support to NIF staff, resolve productivity issues
     - Provide liaison to NIH CIT on infrastructure and security related issues
-
-|
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,8 +79,6 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Manage content management system, provide instruction to SSCC members on how to add and edit content
     - Design and implement new site technology
     - Respond to and resolve web site issues for the SSCC and AFNI community
-
-|
 
 Genuity
 ~~~~~~~
@@ -105,8 +99,6 @@ Genuity
     - Performed maintenance on AOLNet and DialLinx dial-up networks.
     - Provided production operations support.
 
-|
-
 Charm Net
 ~~~~~~~~~
 
@@ -121,8 +113,6 @@ Charm Net
     - Installed and configured hardware and software for streaming FM radio to the internet.
     - Installed and configured BSDI Unix servers and Microsoft Windows workstations and servers.
     - Provided production operations support.
-
-|
 
 Loyola University Maryland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
