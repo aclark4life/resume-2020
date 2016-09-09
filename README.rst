@@ -91,14 +91,14 @@ Genuity
 
     `https://en.wikipedia.org/wiki/BBN_Technologies <https://en.wikipedia.org/wiki/BBN_Technologies#Spin-offs_and_mergers>`_
 
-    - Developed Perl/Expect software to support configuration management of 2000+ Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches.
-    - Developed Perl/SNMP/CGI software to support configuration of TELCO settings on "Big Box" access servers (more than 4 ingress T1s --Cisco 5400, Lucent APX 8000, Nortel CVX 1800).
-    - Configured NICs under Linux.
-    - Performed maintenance on Genuity AOLNet and DialLinx dial-up networks.
-    - Configured 2000+ Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.
-    - Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.
-    - Diagnosed and resolved problems end to end.
+    - Developed software with Perl and Expect to support remote configuration of over 2,000 Cisco 2511 Access Servers, Equinox Terminal Servers, and Cisco Catalyst 1900/2820 Ethernet Switches.
+    - Developed software with Perl, SNMP and CGI to support remote configuration of access servers with over 4 ingress T1 data lines e.g. Cisco 5400, Lucent APX 8000, Nortel CVX 1800.
     - Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and Microsoft Windows workstations and servers.
+    - Configured Linux kernel to support network interface cards (NICs).
+    - Configured over 2,000 Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.
+    - Performed maintenance on AOLNet and DialLinx dial-up networks.
+    - Researched and resolved complex network connectivity issues.
+    - Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.
     - Provided production operations support.
 
 |
