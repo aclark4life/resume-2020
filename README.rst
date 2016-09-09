@@ -3,7 +3,8 @@
 Alex Clark
 ==========
 
-`aclark@aclark.net <mailto://aclark@aclark.net>`_
+Bethesda, MD, USA | `aclark@aclark.net <mailto://aclark@aclark.net>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: aclark-jobs.jpg
 
