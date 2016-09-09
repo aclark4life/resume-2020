@@ -5,7 +5,7 @@ Alex Clark
 
 |
 
-Website: http://aclark.net | Email: `<aclark@aclark.net> <mailto://aclark@aclark.net>`_
+Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Website: http://aclark.net
 
 |
 
