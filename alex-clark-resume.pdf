@@ -87,7 +87,7 @@ endobj
 << /Outlines 28 0 R /PageLabels 54 0 R /PageMode /UseNone /Pages 48 0 R /Type /Catalog >>
 endobj
 27 0 obj
-<< /Author () /CreationDate (D:20160909075738+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909075738+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160909075859+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909075859+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 28 0 obj
@@ -159,7 +159,7 @@ endobj
 << /Count 5 /Kids [ 9 0 R 14 0 R 17 0 R 24 0 R 25 0 R ] /Type /Pages >>
 endobj
 49 0 obj
-<< /Length 9913 >>
+<< /Length 9927 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -786,7 +786,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .563615 Tw (Manage web and IT infrastructures with Amazon Web Services \(AWS\), CloudFlare, Rackspace) Tj T* 0 Tw (Cloud, etc.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.56664 Tw (Develop and maintain deployment infrastructures with Amazon Web Services \(AWS\),) Tj T* 0 Tw (CloudFlare, Rackspace Cloud, etc.) Tj T* ET
 Q
 Q
 q
@@ -2357,21 +2357,21 @@ xref
 0000015215 00000 n
 0000015336 00000 n
 0000015427 00000 n
-0000025397 00000 n
-0000033522 00000 n
-0000042712 00000 n
-0000049211 00000 n
-0000049447 00000 n
-0000049527 00000 n
-0000049564 00000 n
-0000049601 00000 n
-0000049638 00000 n
-0000049675 00000 n
+0000025411 00000 n
+0000033536 00000 n
+0000042726 00000 n
+0000049225 00000 n
+0000049461 00000 n
+0000049541 00000 n
+0000049578 00000 n
+0000049615 00000 n
+0000049652 00000 n
+0000049689 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(b/\251\365\3735\241\300F\324\027.r\026\362\036) (b/\251\365\3735\241\300F\324\027.r\026\362\036)]
+ [(\257\370\264\017\226^pc*\177\206\265H;\314=) (\257\370\264\017\226^pc*\177\206\265H;\314=)]
  /Info 27 0 R /Root 26 0 R /Size 60 >>
 startxref
-49712
+49726
 %%EOF
