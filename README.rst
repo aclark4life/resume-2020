@@ -146,6 +146,7 @@ Bachelor of Science in Computer Science
 
     January, 1999
 
+    http://www.loyola.edu/academics/computer-science
 
 Publications
 ------------
