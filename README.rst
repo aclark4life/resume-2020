@@ -123,7 +123,7 @@ Charm Net
 Loyola University Maryland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    **Help Desk Consultant, Student Technician**
+    **Help Desk Consultant & Student Technician**
 
     August, 1996 — November, 1997
 

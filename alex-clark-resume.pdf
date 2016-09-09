@@ -65,7 +65,7 @@ endobj
 << /Outlines 21 0 R /PageLabels 43 0 R /PageMode /UseNone /Pages 38 0 R /Type /Catalog >>
 endobj
 20 0 obj
-<< /Author () /CreationDate (D:20160908205605+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908205605+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160908205719+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160908205719+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 21 0 obj
@@ -1657,8 +1657,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 132 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Help Desk Consultant, Student Technician) Tj T* ET
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Help Desk Consultant & Student Technician) Tj T* ET
 Q
 Q
 q
@@ -2213,7 +2212,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\301\333\373K\206\360\333C\213\214s\311\334;\324\007) (\301\333\373K\206\360\333C\213\214s\311\334;\324\007)]
+ [(Lk\353\273\363{\006\(\361\335\2103\217@F\236) (Lk\353\273\363{\006\(\361\335\2103\217@F\236)]
  /Info 20 0 R /Root 19 0 R /Size 48 >>
 startxref
 46195
