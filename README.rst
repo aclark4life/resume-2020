@@ -50,7 +50,7 @@ ACLARK.NET, LLC
     http://aclark.net
 
     - Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid and Zope and related technologies e.g. HTML/CSS/JavaScript.
-    - Develop and maintain deployment infrastructures with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
+    - Develop and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Provide production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
