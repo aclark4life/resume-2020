@@ -19,10 +19,10 @@ endobj
 << /A << /S /URI /Type /Action /URI (https://github.com/aclark4life) >> /Border [ 0 0 0 ] /Rect [ 62.69291 338.0236 116.8579 356.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 6 0 obj
-<< /A << /S /URI /Type /Action /URI (https://twitter.com/aclark4life) >> /Border [ 0 0 0 ] /Rect [ 125.2279 338.0236 178.5679 356.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.linkedin.com/in/aclark4life) >> /Border [ 0 0 0 ] /Rect [ 125.2279 338.0236 191.0779 356.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 7 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.linkedin.com/in/aclark4life) >> /Border [ 0 0 0 ] /Rect [ 186.9379 338.0236 248.6179 356.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://twitter.com/aclark4life) >> /Border [ 0 0 0 ] /Rect [ 199.4479 338.0236 248.6179 356.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 8 0 obj
 << /A << /S /URI /Type /Action /URI (http://aclark.net) >> /Border [ 0 0 0 ] /Rect [ 82.69291 191.7736 151.0629 203.7736 ] /Subtype /Link /Type /Annot >>
@@ -83,7 +83,7 @@ endobj
 << /Outlines 27 0 R /PageLabels 52 0 R /PageMode /UseNone /Pages 47 0 R /Type /Catalog >>
 endobj
 26 0 obj
-<< /Author () /CreationDate (D:20160909074634+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909074634+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160909074713+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160909074713+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 27 0 obj
@@ -100,7 +100,7 @@ endobj
   /Prev 29 0 R /Title (Profiles) >>
 endobj
 31 0 obj
-<< /Dest [ 10 0 R /XYZ 62.69291 356.0236 0 ] /Parent 30 0 R /Title (GitHub | Twitter | LinkedIn) >>
+<< /Dest [ 10 0 R /XYZ 62.69291 356.0236 0 ] /Parent 30 0 R /Title (GitHub | LinkedIn | Twitter) >>
 endobj
 32 0 obj
 << /Count 6 /Dest [ 10 0 R /XYZ 62.69291 302.0236 0 ] /First 33 0 R /Last 38 0 R /Next 39 0 R /Parent 27 0 R 
@@ -680,7 +680,7 @@ Q
 q
 1 0 0 1 62.69291 338.0236 cm
 q
-BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (GitHub ) Tj 0 0 0 rg (| ) Tj 0 0 .501961 rg (Twitter ) Tj 0 0 0 rg (| ) Tj 0 0 .501961 rg (LinkedIn) Tj  T* ET
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (GitHub ) Tj 0 0 0 rg (| ) Tj 0 0 .501961 rg (LinkedIn ) Tj 0 0 0 rg (| ) Tj 0 0 .501961 rg (Twitter) Tj  T* ET
 Q
 Q
 q
@@ -2252,7 +2252,7 @@ xref
 0000000365 00000 n
 0000006137 00000 n
 0000006322 00000 n
-0000006508 00000 n
+0000006516 00000 n
 0000006702 00000 n
 0000006874 00000 n
 0000006980 00000 n
@@ -2305,7 +2305,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\243\264C4\256\272S]\251\037\373\241 \216\212\324) (\243\264C4\256\272S]\251\037\373\241 \216\212\324)]
+ [(\320&\240\367\276\212\225'\216=v\234&O\024\227) (\320&\240\367\276\212\225'\216=v\234&O\024\227)]
  /Info 26 0 R /Root 25 0 R /Size 57 >>
 startxref
 48609
