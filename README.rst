@@ -45,11 +45,12 @@ ACLARK.NET, LLC
 
     **Partner & Python Web Developer**
 
-    May, 2004 — Present
+    2004 — Present
 
     http://aclark.net
 
     - Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid and Zope and related technologies e.g. HTML/CSS/JavaScript.
+    - Provide production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
