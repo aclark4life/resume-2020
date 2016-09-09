@@ -50,6 +50,7 @@ ACLARK.NET, LLC
     http://aclark.net
 
     - Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid and Zope and related technologies e.g. HTML/CSS/JavaScript.
+    - Manage client infrastructures with Amazon Web Services (AWS).
     - Provide production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
@@ -178,8 +179,8 @@ DC Python
 
     - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
 
-Parkwood Residents Association
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Parkwood Residents Association (PRA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     **Webmaster & Executive Committee Member**
 
