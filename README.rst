@@ -3,13 +3,13 @@
 Alex Clark
 ==========
 
+.. image:: aclark-jobs.jpg
+
 |
 
 Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Website: http://aclark.net
 
 |
-
-.. image:: aclark-jobs.jpg
 
 About
 -----
