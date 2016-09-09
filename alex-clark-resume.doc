@@ -8,12 +8,12 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 // -->
 </script><noscript>&#60;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#32;&#116;&#x79;&#112;&#x65;&#x3d;&#34;&#116;&#x65;&#120;&#116;&#x2f;&#106;&#x61;&#118;&#x61;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#34;&#62;&#10;&#60;&#x21;&#x2d;&#x2d;&#10;&#104;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#46;&#110;&#x65;&#116;&#x27;&#x3b;&#x61;&#x3d;&#x27;&#64;&#x27;&#x3b;&#110;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#x27;&#x3b;&#x65;&#x3d;&#110;&#x2b;&#x61;&#x2b;&#104;&#x3b;&#10;&#100;&#x6f;&#x63;&#x75;&#x6d;&#x65;&#110;&#116;&#46;&#x77;&#114;&#x69;&#116;&#x65;&#40;&#x27;&#60;&#x61;&#32;&#104;&#x27;&#x2b;&#x27;&#114;&#x65;&#102;&#x27;&#x2b;&#x27;&#x3d;&#34;&#x6d;&#x61;&#x27;&#x2b;&#x27;&#x69;&#108;&#116;&#x6f;&#x27;&#x2b;&#x27;&#58;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#34;&#32;&#x63;&#108;&#x61;&#x73;&#x27;&#x2b;&#x27;&#x73;&#x3d;&#34;&#x65;&#x6d;&#x27;&#32;&#x2b;&#32;&#x27;&#x61;&#x69;&#108;&#34;&#62;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#60;&#92;&#x2f;&#x27;&#x2b;&#x27;&#x61;&#x27;&#x2b;&#x27;&#62;&#x27;&#x29;&#x3b;&#10;&#x2f;&#x2f;&#32;&#x2d;&#x2d;&#62;&#10;&#60;&#x2f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#60;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#60;&#x2f;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#32;&#40;&#x2f;&#x2f;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#x29;</noscript></h2>
 <p><img src="aclark-jobs.jpg" alt="image" /></p>
-<h3 id="about">About</h3>
+<h2 id="about">About</h2>
 <blockquote>
 <p>Alex Clark is a <strong>Python Web Developer</strong> from Baltimore, Maryland, USA living in Bethesda, Maryland. He has a <strong>Bachelor of Science in Computer Science</strong> from Loyola University in Maryland and has worked as a <strong>Network Engineer, Software Engineer, Systems Administrator</strong> and <strong>Technical Team Leader</strong> since May, 1998. He is also the <strong>President of DC Python</strong>, a non-profit organization he co-founded to promote and support the use of Python software in DC.</p>
 </blockquote>
 <p>|</p>
-<h3 id="skills">Skills</h3>
+<h2 id="skills">Skills</h2>
 <table>
 <colgroup>
 <col width="24%" />
@@ -58,11 +58,11 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 </tbody>
 </table>
 <p>|</p>
-<h3 id="profiles">Profiles</h3>
-<h2 id="github-linkedin-twitter"><a href="https://github.com/aclark4life">GitHub</a> | <a href="https://www.linkedin.com/in/aclark4life">LinkedIn</a> | <a href="https://twitter.com/aclark4life">Twitter</a></h2>
+<h2 id="profiles">Profiles</h2>
+<h3 id="github-linkedin-twitter"><a href="https://github.com/aclark4life">GitHub</a> | <a href="https://www.linkedin.com/in/aclark4life">LinkedIn</a> | <a href="https://twitter.com/aclark4life">Twitter</a></h3>
 <p>|</p>
-<h3 id="work-experience">Work Experience</h3>
-<h2 id="aclark.net-llc">ACLARK.NET, LLC</h2>
+<h2 id="work-experience">Work Experience</h2>
+<h3 id="aclark.net-llc">ACLARK.NET, LLC</h3>
 <blockquote>
 <p><strong>Partner &amp; Python Web Developer</strong></p>
 <p>2004 — Present</p>
@@ -73,7 +73,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Provide production operations support.</li>
 </ul>
 </blockquote>
-<h2 id="neurophysiology-imaging-facility-nif-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h2>
+<h3 id="neurophysiology-imaging-facility-nif-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h3>
 <blockquote>
 <p><strong>Systems Administrator</strong></p>
 <p>March, 2013 — Present</p>
@@ -86,7 +86,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Provide liaison to NIH CIT on infrastructure and security related issues</li>
 </ul>
 </blockquote>
-<h2 id="scientific-and-statistical-computing-core-sscc-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h2>
+<h3 id="scientific-and-statistical-computing-core-sscc-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h3>
 <blockquote>
 <p>May, 2002 — October, 2005</p>
 <p><strong>Systems Administrator</strong></p>
@@ -102,7 +102,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Respond to and resolve web site issues for the SSCC and AFNI community</li>
 </ul>
 </blockquote>
-<h2 id="genuity">Genuity</h2>
+<h3 id="genuity">Genuity</h3>
 <blockquote>
 <p><strong>Network Engineer</strong></p>
 <p>October, 1998 — November, 2001</p>
@@ -119,7 +119,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Provided production operations support.</li>
 </ul>
 </blockquote>
-<h2 id="charm-net">Charm Net</h2>
+<h3 id="charm-net">Charm Net</h3>
 <blockquote>
 <p><strong>Systems Administrator</strong></p>
 <p>January, 1998 — August, 1998</p>
@@ -132,7 +132,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Provided production operations support.</li>
 </ul>
 </blockquote>
-<h2 id="loyola-university-maryland">Loyola University Maryland</h2>
+<h3 id="loyola-university-maryland">Loyola University Maryland</h3>
 <blockquote>
 <p><strong>Help Desk Consultant &amp; Student Technician</strong></p>
 <p>August, 1996 — November, 1997</p>
@@ -145,16 +145,16 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 </ul>
 </blockquote>
 <p>|</p>
-<h3 id="education">Education</h3>
-<h2 id="bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</h2>
+<h2 id="education">Education</h2>
+<h3 id="bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</h3>
 <blockquote>
 <p><strong>Loyola University Maryland</strong></p>
 <p>January, 1999</p>
 <p><a href="http://www.loyola.edu/academics/computer-science" class="uri">http://www.loyola.edu/academics/computer-science</a></p>
 </blockquote>
 <p>|</p>
-<h3 id="volunteer">Volunteer</h3>
-<h2 id="pillow">Pillow</h2>
+<h2 id="volunteer">Volunteer</h2>
+<h3 id="pillow">Pillow</h3>
 <blockquote>
 <p><strong>Fork Author &amp; Project Leader</strong></p>
 <p>July, 2010 — Present</p>
@@ -167,7 +167,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Continuously oversee development to ensure best possible quality of releases.</li>
 </ul>
 </blockquote>
-<h2 id="dc-python">DC Python</h2>
+<h3 id="dc-python">DC Python</h3>
 <blockquote>
 <p><strong>Co-Founder &amp; President</strong></p>
 <p>2008 — Present</p>
@@ -176,15 +176,15 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Co-founded 501(c)(3) non-profit organization to promote &amp; support Python software in DC.</li>
 </ul>
 </blockquote>
-<h2 id="parkwood-residents-association-pra">Parkwood Residents Association (PRA)</h2>
+<h3 id="parkwood-residents-association-pra">Parkwood Residents Association (PRA)</h3>
 <blockquote>
 <p><strong>Webmaster &amp; Executive Committee Member</strong></p>
 <p>2014 — Present</p>
 <p><a href="http://parkwoodresidents.org" class="uri">http://parkwoodresidents.org</a></p>
 </blockquote>
 <p>|</p>
-<h3 id="publications">Publications</h3>
-<h2 id="plone-3.3-site-administration">Plone 3.3 Site Administration</h2>
+<h2 id="publications">Publications</h2>
+<h3 id="plone-3.3-site-administration">Plone 3.3 Site Administration</h3>
 <blockquote>
 <p><strong>PACKT Publishing Limited</strong></p>
 <p>July, 2010</p>
