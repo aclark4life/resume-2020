@@ -3,6 +3,8 @@
 Alex Clark
 ==========
 
+`aclark@aclark.net <mailto://aclark@aclark.net>`_
+
 .. image:: aclark-jobs.jpg
 
 About
