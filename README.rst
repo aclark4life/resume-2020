@@ -190,3 +190,5 @@ Pillow
     - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
     - Implement and manage quarterly release schedule.
     - Continuously oversee development to ensure best possible quality of releases.
+
+|
