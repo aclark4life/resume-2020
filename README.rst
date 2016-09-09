@@ -110,6 +110,8 @@ Charm Net
 
     January, 1998 — August, 1998
 
+    http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net
+
     - Managed 4 BSDI Unix servers for over 2,000 users.
     - Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
     - Installed and configured hardware and software for streaming FM radio to the internet.
