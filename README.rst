@@ -32,8 +32,8 @@ Skills
 Profiles
 --------
 
-`GitHub <https://github.com/aclark4life>`_ | `Twitter <https://twitter.com/aclark4life>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`GitHub <https://github.com/aclark4life>`_ | `Twitter <https://twitter.com/aclark4life>`_ | `LinkedIn <https://www.linkedin.com/in/aclark4life>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |
 
