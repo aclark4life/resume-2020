@@ -148,20 +148,6 @@ Bachelor of Science in Computer Science
 
     http://www.loyola.edu/academics/computer-science
 
-Publications
-------------
-
-Plone 3.3 Site Administration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    **PACKT Publishing Limited**
-
-    July, 2010
-
-    https://www.packtpub.com/web-development/plone-33-site-administration
-
-    *"Manage your site like a Plone professional."*
-
 Volunteer
 ---------
 
@@ -191,4 +177,20 @@ Pillow
     - Implement and manage quarterly release schedule.
     - Continuously oversee development to ensure best possible quality of releases.
 
+
+Publications
+------------
+
+Plone 3.3 Site Administration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    **PACKT Publishing Limited**
+
+    July, 2010
+
+    https://www.packtpub.com/web-development/plone-33-site-administration
+
+    *"Manage your site like a Plone professional."*
+
+|
 |
