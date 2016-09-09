@@ -35,7 +35,7 @@ Work Experience
 ACLARK.NET, LLC
 ~~~~~~~~~~~~~~~
 
-    **Partner, Python Web Developer**
+    **Partner & Python Web Developer**
 
     May, 2004 — Present
 
