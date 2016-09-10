@@ -79,7 +79,7 @@ ACLARK.NET, LLC
     - Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.
     - Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.
     - Provide desktop support. 
-    - Provide production operations support.
+    - Provide mission-critical production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,7 +94,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related equipment through complex government purchasing system.
     - Provide desktop support. 
-    - Provide production operations support.
+    - Provide mission-critical production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -113,7 +113,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Analyzed network performance with MRTG software.
     - Provided Plone content management system instruction to content editors.
     - Provided desktop support. 
-    - Provided production operations support.
+    - Provide mission-critical production operations support.
 
 Genuity
 ~~~~~~~
@@ -132,7 +132,7 @@ Genuity
     - Researched and resolved complex network connectivity issues.
     - Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.
     - Performed maintenance on AOLnet and BBN Dialinx dial-up networks.
-    - Provided production operations support.
+    - Provided mission-critical production operations support.
 
 Charm Net
 ~~~~~~~~~
@@ -147,7 +147,7 @@ Charm Net
     - Installed, configured and maintained DNS, NFS, Sendmail, Apache, INND and Dump/Restore software. 
     - Installed and configured computers and software for streaming FM radio to the internet.
     - Installed and configured BSDI Unix servers and Microsoft Windows workstations and servers.
-    - Provided production operations support.
+    - Provided mission-critical production operations support.
 
 Loyola University Maryland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

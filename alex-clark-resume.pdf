@@ -102,7 +102,7 @@ endobj
 << /Outlines 33 0 R /PageLabels 61 0 R /PageMode /UseNone /Pages 55 0 R /Type /Catalog >>
 endobj
 32 0 obj
-<< /Author () /CreationDate (D:20160910083223+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910083223+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910083732+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910083732+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 33 0 obj
@@ -832,7 +832,7 @@ Q
 endstream
 endobj
 57 0 obj
-<< /Length 8118 >>
+<< /Length 8152 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1087,7 +1087,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide mission-critical production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1253,7 +1253,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide mission-critical production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1296,7 +1296,7 @@ Q
 endstream
 endobj
 58 0 obj
-<< /Length 9117 >>
+<< /Length 9150 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1529,7 +1529,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provide mission-critical production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1791,7 +1791,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided mission-critical production operations support.) Tj T* ET
 Q
 Q
 q
@@ -1855,7 +1855,7 @@ Q
 endstream
 endobj
 59 0 obj
-<< /Length 8830 >>
+<< /Length 8847 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1974,7 +1974,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided production operations support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided mission-critical production operations support.) Tj T* ET
 Q
 Q
 q
@@ -2823,20 +2823,20 @@ xref
 0000016630 00000 n
 0000016722 00000 n
 0000026505 00000 n
-0000034680 00000 n
-0000043854 00000 n
-0000052741 00000 n
-0000058204 00000 n
-0000058284 00000 n
-0000058321 00000 n
-0000058358 00000 n
-0000058395 00000 n
-0000058432 00000 n
+0000034714 00000 n
+0000043921 00000 n
+0000052825 00000 n
+0000058288 00000 n
+0000058368 00000 n
+0000058405 00000 n
+0000058442 00000 n
+0000058479 00000 n
+0000058516 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(2\334\2440\3643K\257;\340\2666\356Z\277\220) (2\334\2440\3643K\257;\340\2666\356Z\277\220)]
+ [(\200\301\205\320\022N^\376\211BB-\257\004\265\273) (\200\301\205\320\022N^\376\211BB-\257\004\265\273)]
  /Info 32 0 R /Root 31 0 R /Size 67 >>
 startxref
-58469
+58553
 %%EOF
