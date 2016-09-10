@@ -96,6 +96,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Manage and maintain Dell VMWare server with 11 virtual machines, each with 32G RAM & 8G disk, primarily used by researchers to perform data analyses with MATLAB software.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related items through complex government purchasing system.
+    - Produce professional documentation with Sphinx software containing facility usage instructions and systems documentation.
     - Provide desktop and mission-critical production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
