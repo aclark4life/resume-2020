@@ -74,11 +74,12 @@ ACLARK.NET, LLC
     - Develop and deploy Python web applications with Django, Plone, Pyramid & Zope and related technologies e.g. HTML/CSS/JavaScript.
     - Manage and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Serve government, non-profit and private sector clients e.g. NASA, National Geographic Society and Socialcode (a Washington Post company.)
-    - Provide production operations support.
     - Write articles on technical subjects, publish to professional blog: http://blog.aclark.net.
     - Foster growth of small business from one part-time employee to two full-time employees with sub-contractors over ten years.
     - Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.
     - Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.
+    - Provide ad hoc desktop support to co-workers.
+    - Provide production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -92,6 +93,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH research community.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related equipment through complex government purchasing system.
+    - Provide production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,12 +106,13 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     - Managed and maintained computers, software and related equipment for scientific core facility to provide research services to NIH community.
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
-    - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
     - Installed, configured and maintained Apache web server, Plone content management system, FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
-    - Managed network and computer system security.
-    - Analyzed internal network performance during public access to internal resources.
-    - Provided ad hoc desktop support.
+    - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
+    - Analyzed network and computer system security.
+    - Analyzed network performance with MRTG software.
+    - Provided ad hoc desktop support to co-workers.
     - Provided Plone content management system instruction to content editors.
+    - Provided production operations support.
 
 Genuity
 ~~~~~~~
