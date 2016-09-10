@@ -71,6 +71,7 @@ ACLARK.NET, LLC
 
     http://aclark.net
 
+    - Provide Python-based web development services to global community with strong local presence.
     - Develop and deploy Python web applications with Django, Plone, Pyramid & Zope and related technologies e.g. HTML/CSS/JavaScript.
     - Manage and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Serve government, non-profit and private sector clients e.g. NASA, National Geographic Society and Socialcode (a Washington Post company.)

@@ -44,13 +44,13 @@ endobj
 << /A << /S /URI /Type /Action /URI (http://aclark.net) >> /Border [ 0 0 0 ] /Rect [ 82.69291 654.7736 151.0629 666.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 14 0 obj
-<< /A << /S /URI /Type /Action /URI (http://blog.aclark.net) >> /Border [ 0 0 0 ] /Rect [ 391.3629 543.0236 481.4129 555.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://blog.aclark.net) >> /Border [ 0 0 0 ] /Rect [ 391.3629 513.0236 481.4129 525.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 15 0 obj
 << /BaseFont /Symbol /Encoding /SymbolEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
 endobj
 16 0 obj
-<< /A << /S /URI /Type /Action /URI (http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml) >> /Border [ 0 0 0 ] /Rect [ 82.69291 324.0236 457.7929 336.0236 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml) >> /Border [ 0 0 0 ] /Rect [ 82.69291 294.0236 457.7929 306.0236 ] /Subtype /Link /Type /Annot >>
 endobj
 17 0 obj
 << /Annots [ 13 0 R 14 0 R 16 0 R ] /Contents 57 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 55 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -102,7 +102,7 @@ endobj
 << /Outlines 33 0 R /PageLabels 61 0 R /PageMode /UseNone /Pages 55 0 R /Type /Catalog >>
 endobj
 32 0 obj
-<< /Author () /CreationDate (D:20160910085158+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910085158+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910085350+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910085350+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 33 0 obj
@@ -136,7 +136,7 @@ endobj
 << /Dest [ 17 0 R /XYZ 62.69291 732.0236 0 ] /Next 42 0 R /Parent 40 0 R /Title (ACLARK.NET, LLC) >>
 endobj
 42 0 obj
-<< /Dest [ 17 0 R /XYZ 62.69291 438.0236 0 ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (\376\377\000N\000e\000u\000r\000o\000p\000h\000y\000s\000i\000o\000l\000o\000g\000y\000 \000I\000m\000a\000g\000i\000n\000g\000 \000F\000a\000c\000i\000l\000i\000t\000y\000 \000\(\000N\000I\000F\000\)\000 !\222\000 \000D\000i\000v\000i\000s\000i\000o\000n\000 \000o\000f\000 \000I\000n\000t\000r\000a\000m\000u\000r\000a\000l\000 \000R\000e\000s\000e\000a\000r\000c\000h\000 \000P\000r\000o\000g\000r\000a\000m\000s\000 \000\(\000D\000I\000R\000P\000\)\000 !\222\000 \000N\000a\000t\000i\000o\000n\000a\000l\000 \000I\000n\000s\000t\000i\000t\000u\000t\000e\000 \000o\000f\000 \000M\000e\000n\000t\000a\000l\000 \000H\000e\000a\000l\000t\000h\000 \000\(\000N\000I\000M\000H\000\)\000 !\222\000 \000N\000a\000t\000i\000o\000n\000a\000l\000 \000I\000n\000s\000t\000i\000t\000u\000t\000e\000s\000 \000o\000f\000 \000H\000e\000a\000l\000t\000h\000 \000\(\000N\000I\000H\000\)) >>
+<< /Dest [ 17 0 R /XYZ 62.69291 408.0236 0 ] /Next 43 0 R /Parent 40 0 R /Prev 41 0 R /Title (\376\377\000N\000e\000u\000r\000o\000p\000h\000y\000s\000i\000o\000l\000o\000g\000y\000 \000I\000m\000a\000g\000i\000n\000g\000 \000F\000a\000c\000i\000l\000i\000t\000y\000 \000\(\000N\000I\000F\000\)\000 !\222\000 \000D\000i\000v\000i\000s\000i\000o\000n\000 \000o\000f\000 \000I\000n\000t\000r\000a\000m\000u\000r\000a\000l\000 \000R\000e\000s\000e\000a\000r\000c\000h\000 \000P\000r\000o\000g\000r\000a\000m\000s\000 \000\(\000D\000I\000R\000P\000\)\000 !\222\000 \000N\000a\000t\000i\000o\000n\000a\000l\000 \000I\000n\000s\000t\000i\000t\000u\000t\000e\000 \000o\000f\000 \000M\000e\000n\000t\000a\000l\000 \000H\000e\000a\000l\000t\000h\000 \000\(\000N\000I\000M\000H\000\)\000 !\222\000 \000N\000a\000t\000i\000o\000n\000a\000l\000 \000I\000n\000s\000t\000i\000t\000u\000t\000e\000s\000 \000o\000f\000 \000H\000e\000a\000l\000t\000h\000 \000\(\000N\000I\000H\000\)) >>
 endobj
 43 0 obj
 << /Dest [ 20 0 R /XYZ 62.69291 765.0236 0 ] /Next 44 0 R /Parent 40 0 R /Prev 42 0 R /Title (\376\377\000S\000c\000i\000e\000n\000t\000i\000f\000i\000c\000 \000a\000n\000d\000 \000S\000t\000a\000t\000i\000s\000t\000i\000c\000a\000l\000 \000C\000o\000m\000p\000u\000t\000i\000n\000g\000 \000C\000o\000r\000e\000 \000\(\000S\000S\000C\000C\000\)\000 !\222\000 \000D\000i\000v\000i\000s\000i\000o\000n\000 \000o\000f\000 \000I\000n\000t\000r\000a\000m\000u\000r\000a\000l\000 \000R\000e\000s\000e\000a\000r\000c\000h\000 \000P\000r\000o\000g\000r\000a\000m\000s\000 \000\(\000D\000I\000R\000P\000\)\000 !\222\000 \000N\000a\000t\000i\000o\000n\000a\000l\000 \000I\000n\000s\000t\000i\000t\000u\000t\000e\000 \000o\000f\000 \000M\000e\000n\000t\000a\000l\000 \000H\000e\000a\000l\000t\000h\000 \000\(\000N\000I\000M\000H\000\)\000 !\222\000 \000N\000a\000t\000i\000o\000n\000a\000l\000 \000I\000n\000s\000t\000i\000t\000u\000t\000e\000s\000 \000o\000f\000 \000H\000e\000a\000l\000t\000h\000 \000\(\000N\000I\000H\000\)) >>
@@ -832,7 +832,7 @@ Q
 endstream
 endobj
 57 0 obj
-<< /Length 8144 >>
+<< /Length 8549 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -851,25 +851,25 @@ q
 1 0 0 1 62.69291 702.0236 cm
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 420.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 240 cm
+1 0 0 1 20 270 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Partner & Python Web Developer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 222 cm
+1 0 0 1 20 252 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2004 \227 Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 204 cm
+1 0 0 1 20 234 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -877,7 +877,31 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://aclark.net) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 198 cm
+1 0 0 1 20 228 cm
+Q
+q
+1 0 0 1 20 228 cm
+Q
+q
+1 0 0 1 20 204 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.173976 Tw (Provide Python-based web development services to global community with strong local) Tj T* 0 Tw (presence.) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 20 198 cm
@@ -1076,19 +1100,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 450.0236 cm
+1 0 0 1 62.69291 420.0236 cm
 Q
 q
-1 0 0 1 62.69291 384.0236 cm
+1 0 0 1 62.69291 354.0236 cm
 q
 BT 1 0 0 1 0 39 Tm 18 TL /F2 15 Tf 0 0 0 rg (Neurophysiology Imaging Facility \(NIF\) ) Tj /F3 15 Tf 18 TL (\256) Tj /F2 15 Tf 18 TL ( Division of Intramural) Tj T* (Research Programs \(DIRP\) ) Tj /F3 15 Tf 18 TL (\256) Tj /F2 15 Tf 18 TL ( National Institute of Mental Health) Tj T* (\(NIMH\) ) Tj /F3 15 Tf 18 TL (\256) Tj /F2 15 Tf 18 TL ( National Institutes of Health \(NIH\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 372.0236 cm
+1 0 0 1 62.69291 342.0236 cm
 Q
 q
-1 0 0 1 62.69291 138.0236 cm
+1 0 0 1 62.69291 108.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -1288,7 +1312,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 138.0236 cm
+1 0 0 1 62.69291 108.0236 cm
 Q
  
 endstream
@@ -2837,20 +2861,20 @@ xref
 0000016630 00000 n
 0000016722 00000 n
 0000026505 00000 n
-0000034706 00000 n
-0000043904 00000 n
-0000052491 00000 n
-0000058802 00000 n
-0000058882 00000 n
-0000058919 00000 n
-0000058956 00000 n
-0000058993 00000 n
-0000059030 00000 n
+0000035111 00000 n
+0000044309 00000 n
+0000052896 00000 n
+0000059207 00000 n
+0000059287 00000 n
+0000059324 00000 n
+0000059361 00000 n
+0000059398 00000 n
+0000059435 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\351\254\334\354\243\002\202\230r\204\000Oq8\200!) (\351\254\334\354\243\002\202\230r\204\000Oq8\200!)]
+ [(YB\2141\374\223a\200\340G\304Y.\006\273\354) (YB\2141\374\223a\200\340G\304Y.\006\273\354)]
  /Info 32 0 R /Root 31 0 R /Size 67 >>
 startxref
-59067
+59472
 %%EOF
