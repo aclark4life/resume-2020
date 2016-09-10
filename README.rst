@@ -106,13 +106,11 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
     - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
     - Installed, configured and maintained Apache web server, Plone content management system, FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
-    - Manage network and system security.
-    - Analyze network performance and public access to internal resources.
-    - Provide desktop support to SSCC members, resolved productivity issues.
-    - Provide liaison to NIH CIT on infrastructure and security related issues.
-    - Manage content management system, provide instruction to SSCC members on how to add and edit content.
-    - Design and implement new site technology.
-    - Respond to and resolve web site issues for the SSCC and AFNI community.
+    - Managed network and computer system security.
+    - Analyzed network performance and public access to internal resources.
+    - Provided ad hoc desktop support; resolved productivity issues.
+    - Provide liaison between core facility and NIH Central IT Department (CIT) regarding infrastructure and security related issues.
+    - Provide Plone CMS instruction; teach how to add and edit content, etc.
 
 Genuity
 ~~~~~~~
