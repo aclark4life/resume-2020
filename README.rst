@@ -101,6 +101,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
     - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH community.
+    - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
     - Research and recommend hardware for purchase.
     - Install, configure and maintain server and desktop hardware.
     - Troubleshoot and resolve hardware problems.
@@ -141,8 +142,8 @@ Charm Net
 
     http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net
 
-    - Managed 4 BSDI Unix servers for over 2,000 users.
-    - Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.
+    - Managed and maintained 4 BSDI Unix servers for over 2,000 internet service provider customers.
+    - Installed, configured and maintained DNS, NFS, Sendmail, Apache, INND and Dump/Restore software. 
     - Installed and configured computers and software for streaming FM radio to the internet.
     - Installed and configured BSDI Unix servers and Microsoft Windows workstations and servers.
     - Provided production operations support.
