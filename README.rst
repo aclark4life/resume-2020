@@ -89,7 +89,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
 
-    - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH research community.
+    - Manage and maintain computers, software and related equipment for scientific core facility, to provide research services to NIH research community.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related equipment through complex government purchasing system.
     - Provide desktop and mission-critical production operations support.
@@ -103,7 +103,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
-    - Managed and maintained computers, software and related equipment for scientific core facility to provide research services to NIH community.
+    - Managed and maintained computers, software and related equipment for scientific core facility, to provide research services to NIH community.
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
     - Installed, configured and maintained Apache web server, Plone content management system, FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
     - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
