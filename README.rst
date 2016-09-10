@@ -76,6 +76,9 @@ ACLARK.NET, LLC
     - Develop and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Provide production operations support.
     - Write articles on technical subjects, publish to professional blog: http://blog.aclark.net.
+    - Foster growth of small business from one part-time employee to two full time employees with sub-contractors over 10 years.
+    - Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.
+    - Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
