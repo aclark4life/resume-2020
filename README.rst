@@ -184,6 +184,21 @@ Pillow
     - Implement and manage quarterly release schedule.
     - Continuously oversee development to ensure best possible quality of releases.
 
+Parkwood Residents Association (PRA)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    **Webmaster & Executive Committee Member**
+
+    2014 — Present
+
+    http://parkwoodresidents.org
+
+    - Maintain website for PRA to serve residents of Parkwood community in Bethesda, MD.
+    - Attend committee and resident meetings to participate in discussions about community issues.
+    - Vote in quorum to affect decisions related to PRA actions.
+
+|
+
 DC Python
 ~~~~~~~~~
 
@@ -194,17 +209,7 @@ DC Python
     http://dcpython.org
 
     - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
-
-Parkwood Residents Association (PRA)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    **Webmaster & Executive Committee Member**
-
-    2014 — Present
-
-    http://parkwoodresidents.org
-
-|
+    - Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering of Plone CMS developers; first east coast USA location since inaugural event in 2003.
 
 Awards
 ------
