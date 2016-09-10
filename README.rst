@@ -110,7 +110,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Provided research services to NIH research community.
     - Managed and maintained computers, software and related equipment for scientific core facility.
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
-    - Installed, configured and maintained Apache web server, Plone content management system, FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
+    - Installed, configured and maintained Apache web server, Plone content management system, ProFTPD FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
     - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
     - Analyzed network and computer system security.
     - Analyzed network performance with MRTG software.
