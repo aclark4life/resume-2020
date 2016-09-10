@@ -117,7 +117,7 @@ Genuity
     - Configured Linux kernel to support myriad network interface cards.
     - Researched and resolved complex network connectivity issues.
     - Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.
-    - Performed maintenance on AOLNet and DialLinx dial-up networks.
+    - Performed maintenance on AOLnet and BBN Diallinx dial-up networks.
     - Provided production operations support.
 
 Charm Net
