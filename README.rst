@@ -75,6 +75,7 @@ ACLARK.NET, LLC
     - Serve government, non-profit and private sector clients e.g. NASA, National Geographic Society and Socialcode (a Washington Post company.)
     - Develop and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Provide production operations support.
+    - Write articles on technical subjects, publish to professional blog: http://blog.aclark.net.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
