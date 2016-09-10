@@ -88,7 +88,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     March, 2013 — Present
 
-    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
+    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
     - Provide research services to NIH research community.
     - Manage and maintain computers, software and related items for scientific core facility.
@@ -108,7 +108,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     **Systems Administrator**
 
-    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
+    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
 
     - Provided research services to NIH research community.
     - Managed and maintained computers, software and related items for scientific core facility.
