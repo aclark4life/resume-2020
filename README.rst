@@ -165,8 +165,8 @@ Bachelor of Science in Computer Science
 
 |
 
-Volunteer
----------
+Volunteer Work
+--------------
 
 Pillow
 ~~~~~~
