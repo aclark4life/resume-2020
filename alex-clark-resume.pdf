@@ -102,7 +102,7 @@ endobj
 << /Outlines 33 0 R /PageLabels 61 0 R /PageMode /UseNone /Pages 55 0 R /Type /Catalog >>
 endobj
 32 0 obj
-<< /Author () /CreationDate (D:20160910085815+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910085815+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910085915+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910085915+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 33 0 obj
@@ -832,7 +832,7 @@ Q
 endstream
 endobj
 57 0 obj
-<< /Length 8549 >>
+<< /Length 8541 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1181,7 +1181,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Manage and maintain computers, software and related equipment for scientific core facility.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Manage and maintain computers, software and related items for scientific core facility.) Tj T* ET
 Q
 Q
 q
@@ -1275,7 +1275,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 5.437752 Tw (Research and purchase computers, software and related equipment through complex) Tj T* 0 Tw (government purchasing system.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.615976 Tw (Research and purchase computers, software and related items through complex government) Tj T* 0 Tw (purchasing system.) Tj T* ET
 Q
 Q
 q
@@ -1318,7 +1318,7 @@ Q
 endstream
 endobj
 58 0 obj
-<< /Length 9149 >>
+<< /Length 9141 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1400,7 +1400,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Managed and maintained computers, software and related equipment for scientific core facility.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Managed and maintained computers, software and related items for scientific core facility.) Tj T* ET
 Q
 Q
 q
@@ -1471,7 +1471,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.708863 Tw (Researched and recommended computers, software and related equipment for purchase) Tj T* 0 Tw (through complex government purchasing system.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.948976 Tw (Researched and recommended computers, software and related items for purchase through) Tj T* 0 Tw (complex government purchasing system.) Tj T* ET
 Q
 Q
 q
@@ -2861,20 +2861,20 @@ xref
 0000016630 00000 n
 0000016722 00000 n
 0000026505 00000 n
-0000035111 00000 n
-0000044317 00000 n
-0000052904 00000 n
-0000059215 00000 n
-0000059295 00000 n
-0000059332 00000 n
-0000059369 00000 n
-0000059406 00000 n
-0000059443 00000 n
+0000035103 00000 n
+0000044301 00000 n
+0000052888 00000 n
+0000059199 00000 n
+0000059279 00000 n
+0000059316 00000 n
+0000059353 00000 n
+0000059390 00000 n
+0000059427 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(C\036H\316iZ\262\(\004Ymp\254\203\220+) (C\036H\316iZ\262\(\004Ymp\254\203\220+)]
+ [(\333\037]\017\203\246\374\315\221\231X\332Sz\3724) (\333\037]\017\203\246\374\315\221\231X\332Sz\3724)]
  /Info 32 0 R /Root 31 0 R /Size 67 >>
 startxref
-59480
+59464
 %%EOF

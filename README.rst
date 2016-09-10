@@ -91,11 +91,11 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
 
     - Provide research services to NIH research community.
-    - Manage and maintain computers, software and related equipment for scientific core facility.
+    - Manage and maintain computers, software and related items for scientific core facility.
     - Manage and maintain NetApp storage system featuring dual FAS-3240 and FAS-2240 controllers, SnapMirror and 200T data across 8 volumes, shared via NFS & CIFS, authenticated and authorized via NIH Windows domain controller.
     - Manage and maintain Dell VMWare server with 11 virtual machines, each with 32G RAM & 8G disk, primarily used by researchers to perform data analyses with MATLAB software.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
-    - Research and purchase computers, software and related equipment through complex government purchasing system.
+    - Research and purchase computers, software and related items through complex government purchasing system.
     - Provide desktop and mission-critical production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
@@ -108,10 +108,10 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
     - Provided research services to NIH research community.
-    - Managed and maintained computers, software and related equipment for scientific core facility.
+    - Managed and maintained computers, software and related items for scientific core facility.
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
     - Installed, configured and maintained Apache web server, Plone content management system, ProFTPD FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
-    - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
+    - Researched and recommended computers, software and related items for purchase through complex government purchasing system.
     - Analyzed network and computer system security.
     - Analyzed network performance with MRTG software.
     - Provided Plone content management system instruction to content editors.
