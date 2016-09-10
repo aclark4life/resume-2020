@@ -107,10 +107,9 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
     - Installed, configured and maintained Apache web server, Plone content management system, FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
     - Managed network and computer system security.
-    - Analyzed network performance and public access to internal resources.
-    - Provided ad hoc desktop support; resolved productivity issues.
-    - Provide liaison between core facility and NIH Central IT Department (CIT) regarding infrastructure and security related issues.
-    - Provide Plone CMS instruction; teach how to add and edit content, etc.
+    - Analyzed internal network performance during public access to internal resources.
+    - Provided ad hoc desktop support.
+    - Provided Plone content management system instruction to content editors.
 
 Genuity
 ~~~~~~~
