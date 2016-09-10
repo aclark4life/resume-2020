@@ -89,7 +89,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Evaluate and recommend hardware and software for purchase by NIF.
     - Install, configure and maintain hardware and software.
     - Troubleshoot and resolve hardware and software problems.
-    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups.
+    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, CVS version control system, and tape backups.
     - Manage network and system security.
     - Analyze network performance and access to public resources.
     - Provide desktop support to NIF staff, resolve productivity issues.
