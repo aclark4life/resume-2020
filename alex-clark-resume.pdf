@@ -102,7 +102,7 @@ endobj
 << /Outlines 33 0 R /PageLabels 61 0 R /PageMode /UseNone /Pages 55 0 R /Type /Catalog >>
 endobj
 32 0 obj
-<< /Author () /CreationDate (D:20160910090250+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910090250+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910090334+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910090334+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 33 0 obj
@@ -832,7 +832,7 @@ Q
 endstream
 endobj
 57 0 obj
-<< /Length 8973 >>
+<< /Length 8986 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1275,7 +1275,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.615976 Tw (Research and purchase computers, software and related items through complex government) Tj T* 0 Tw (purchasing system.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .113976 Tw (Produce and maintain professional documentation with Sphinx software containing facility usage) Tj T* 0 Tw (instructions and systems documentation.) Tj T* ET
 Q
 Q
 q
@@ -1299,7 +1299,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .868863 Tw (Produce professional documentation with Sphinx software containing facility usage instructions) Tj T* 0 Tw (and systems documentation.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.615976 Tw (Research and purchase computers, software and related items through complex government) Tj T* 0 Tw (purchasing system.) Tj T* ET
 Q
 Q
 q
@@ -2885,20 +2885,20 @@ xref
 0000016630 00000 n
 0000016722 00000 n
 0000026505 00000 n
-0000035535 00000 n
-0000044726 00000 n
-0000053313 00000 n
-0000059624 00000 n
-0000059704 00000 n
-0000059741 00000 n
-0000059778 00000 n
-0000059815 00000 n
-0000059852 00000 n
+0000035548 00000 n
+0000044739 00000 n
+0000053326 00000 n
+0000059637 00000 n
+0000059717 00000 n
+0000059754 00000 n
+0000059791 00000 n
+0000059828 00000 n
+0000059865 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\032\006\331\363\177\332\264D\004\334\356\277\222\202\015\367) (\032\006\331\363\177\332\264D\004\334\356\277\222\202\015\367)]
+ [(v\352R?p\260\321\204+\330\244\336\345PCJ) (v\352R?p\260\321\204+\330\244\336\345PCJ)]
  /Info 32 0 R /Root 31 0 R /Size 67 >>
 startxref
-59889
+59902
 %%EOF
