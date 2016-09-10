@@ -78,7 +78,7 @@ ACLARK.NET, LLC
     - Foster growth of small business from one part-time employee to two full-time employees with sub-contractors over ten years.
     - Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.
     - Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.
-    - Provide ad hoc desktop support. 
+    - Provide desktop support. 
     - Provide production operations support.
 
 Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
@@ -93,7 +93,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH research community.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related equipment through complex government purchasing system.
-    - Provide ad hoc desktop support. 
+    - Provide desktop support. 
     - Provide production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
@@ -111,7 +111,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
     - Analyzed network and computer system security.
     - Analyzed network performance with MRTG software.
-    - Provided ad hoc desktop support. 
+    - Provided desktop support. 
     - Provided Plone content management system instruction to content editors.
     - Provided production operations support.
 
