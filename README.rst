@@ -9,7 +9,7 @@ Alex Clark
 
 |
 
-Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Website: http://aclark.net | Weblog: http://blog.aclark.net
+Blog: http://blog.aclark.net | Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Website: http://aclark.net
 
 |
 
