@@ -112,7 +112,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
     - Installed, configured and maintained Apache web server, Plone content management system, ProFTPD FTP server, OpenLDAP directory services, CIFS & NFS file sharing services, CVS version control system, and Arkeia tape backups.
     - Researched and recommended computers, software and related items for purchase through complex government purchasing system.
-    - Analyzed network and computer system security.
+    - Analyzed network and computer security.
     - Analyzed network performance with MRTG software.
     - Provided Plone content management system instruction to content editors.
     - Provided desktop and mission-critical production operations support.
