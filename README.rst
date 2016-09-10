@@ -89,7 +89,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
 
-    - Manage and maintain hardware, software and infrastructure for scientific core facility to provide research services to NIH community.
+    - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH community.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,7 +100,8 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
-    - Research and recommend hardware for purchase. 
+    - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH community.
+    - Research and recommend hardware for purchase.
     - Install, configure and maintain server and desktop hardware.
     - Troubleshoot and resolve hardware problems.
     - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and tape backups.
