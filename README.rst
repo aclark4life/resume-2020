@@ -108,7 +108,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Troubleshoot and resolve hardware problems.
     - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and tape backups.
     - Manage network and system security.
-    - Analyze network performance and access to public resources.
+    - Analyze network performance and public access to internal resources.
     - Provide desktop support to SSCC members, resolved productivity issues.
     - Provide liaison to NIH CIT on infrastructure and security related issues.
     - Manage content management system, provide instruction to SSCC members on how to add and edit content.
