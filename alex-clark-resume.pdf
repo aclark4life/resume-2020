@@ -83,13 +83,13 @@ endobj
   /Trans <<  >> /Type /Page >>
 endobj
 26 0 obj
-<< /A << /S /URI /Type /Action /URI (http://pythonpackages.com) >> /Border [ 0 0 0 ] /Rect [ 82.69291 582.7736 202.2029 594.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://pythonpackages.com) >> /Border [ 0 0 0 ] /Rect [ 82.69291 546.7736 202.2029 558.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 27 0 obj
 << /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
 endobj
 28 0 obj
-<< /A << /S /URI /Type /Action /URI (https://www.packtpub.com/web-development/plone-33-site-administration) >> /Border [ 0 0 0 ] /Rect [ 82.69291 387.7736 407.2529 399.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (https://www.packtpub.com/web-development/plone-33-site-administration) >> /Border [ 0 0 0 ] /Rect [ 82.69291 351.7736 407.2529 363.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 29 0 obj
 << /Annots [ 26 0 R 28 0 R ] /Contents 59 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 54 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -99,7 +99,7 @@ endobj
 << /Outlines 32 0 R /PageLabels 60 0 R /PageMode /UseNone /Pages 54 0 R /Type /Catalog >>
 endobj
 31 0 obj
-<< /Author () /CreationDate (D:20160910060428+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910060428+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910060743+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910060743+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 32 0 obj
@@ -161,18 +161,18 @@ endobj
 << /Dest [ 25 0 R /XYZ 62.69291 162.0236 0 ] /Parent 46 0 R /Prev 48 0 R /Title (DC Python) >>
 endobj
 50 0 obj
-<< /Count 1 /Dest [ 29 0 R /XYZ 62.69291 693.0236 0 ] /First 51 0 R /Last 51 0 R /Next 52 0 R /Parent 32 0 R 
+<< /Count 1 /Dest [ 29 0 R /XYZ 62.69291 657.0236 0 ] /First 51 0 R /Last 51 0 R /Next 52 0 R /Parent 32 0 R 
   /Prev 46 0 R /Title (Awards) >>
 endobj
 51 0 obj
-<< /Dest [ 29 0 R /XYZ 62.69291 660.0236 0 ] /Parent 50 0 R /Title (Startup Row Winner PyCon 2012) >>
+<< /Dest [ 29 0 R /XYZ 62.69291 624.0236 0 ] /Parent 50 0 R /Title (Startup Row Winner PyCon 2012) >>
 endobj
 52 0 obj
-<< /Count 1 /Dest [ 29 0 R /XYZ 62.69291 498.0236 0 ] /First 53 0 R /Last 53 0 R /Parent 32 0 R /Prev 50 0 R 
+<< /Count 1 /Dest [ 29 0 R /XYZ 62.69291 462.0236 0 ] /First 53 0 R /Last 53 0 R /Parent 32 0 R /Prev 50 0 R 
   /Title (Publications) >>
 endobj
 53 0 obj
-<< /Dest [ 29 0 R /XYZ 62.69291 465.0236 0 ] /Parent 52 0 R /Title (Plone 3.3 Site Administration) >>
+<< /Dest [ 29 0 R /XYZ 62.69291 429.0236 0 ] /Parent 52 0 R /Title (Plone 3.3 Site Administration) >>
 endobj
 54 0 obj
 << /Count 5 /Kids [ 11 0 R 17 0 R 20 0 R 25 0 R 29 0 R ] /Type /Pages >>
@@ -2000,7 +2000,7 @@ Q
 endstream
 endobj
 58 0 obj
-<< /Length 7918 >>
+<< /Length 7911 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2436,7 +2436,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vote in quorum to affect decisions related to PRA actions.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vote in quorum to affect PRA decisions and actions.) Tj T* ET
 Q
 Q
 q
@@ -2512,16 +2512,16 @@ Q
 endstream
 endobj
 59 0 obj
-<< /Length 4041 >>
+<< /Length 4700 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 669.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 48 cm
+1 0 0 1 20 84 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2541,10 +2541,34 @@ q
 Q
 Q
 q
-1 0 0 1 20 42 cm
+1 0 0 1 20 78 cm
 Q
 q
-1 0 0 1 20 18 cm
+1 0 0 1 20 66 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (President of Board of Directors.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 60 cm
+Q
+q
+1 0 0 1 20 36 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2559,6 +2583,30 @@ q
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .305433 Tw (Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering) Tj T* 0 Tw (of Plone developers and community; first US/Eastern location since inaugural event in 2003.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Continuously oversee events to ensure best possible quality of service to community.) Tj T* ET
 Q
 Q
 q
@@ -2582,7 +2630,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Continuously oversee events to ensure best possible quality of service to community.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Vote in quorum to affect DC Python decisions and actions.) Tj T* ET
 Q
 Q
 q
@@ -2595,25 +2643,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 669.0236 cm
 Q
 q
-1 0 0 1 62.69291 672.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Awards) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 606.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Startup Row Winner PyCon 2012) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 630.0236 cm
+1 0 0 1 62.69291 594.0236 cm
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 492.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2650,38 +2698,38 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 528.0236 cm
+1 0 0 1 62.69291 492.0236 cm
 Q
 q
-1 0 0 1 62.69291 522.0236 cm
+1 0 0 1 62.69291 486.0236 cm
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 510.0236 cm
+1 0 0 1 62.69291 474.0236 cm
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 62.69291 441.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Publications) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 411.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Plone 3.3 Site Administration) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 435.0236 cm
+1 0 0 1 62.69291 399.0236 cm
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 333.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2718,27 +2766,27 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 333.0236 cm
 Q
 q
-1 0 0 1 62.69291 363.0236 cm
+1 0 0 1 62.69291 327.0236 cm
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 339.0236 cm
+1 0 0 1 62.69291 315.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 339.0236 cm
+1 0 0 1 62.69291 303.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 303.0236 cm
 Q
  
 endstream
@@ -2822,18 +2870,18 @@ xref
 0000026143 00000 n
 0000034752 00000 n
 0000045159 00000 n
-0000053134 00000 n
-0000057232 00000 n
-0000057312 00000 n
-0000057349 00000 n
-0000057386 00000 n
-0000057423 00000 n
-0000057460 00000 n
+0000053127 00000 n
+0000057884 00000 n
+0000057964 00000 n
+0000058001 00000 n
+0000058038 00000 n
+0000058075 00000 n
+0000058112 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\363z>\247+\372\017\246|\021\201\206\370\270c\301) (\363z>\247+\372\017\246|\021\201\206\370\270c\301)]
+ [(@F\206I9\342W\274\031\220>T\022\364s\345) (@F\206I9\342W\274\031\220>T\022\364s\345)]
  /Info 31 0 R /Root 30 0 R /Size 66 >>
 startxref
-57497
+58149
 %%EOF

@@ -195,7 +195,7 @@ Parkwood Residents Association (PRA)
 
     - Maintain website for PRA to serve residents of Parkwood community in Bethesda, MD.
     - Attend committee and resident meetings to participate in discussions about community issues.
-    - Vote in quorum to affect decisions related to PRA actions.
+    - Vote in quorum to affect PRA decisions and actions.
 
 |
 
@@ -209,8 +209,10 @@ DC Python
     http://dcpython.org
 
     - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
+    - President of Board of Directors.
     - Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering of Plone developers and community; first US/Eastern location since inaugural event in 2003.
     - Continuously oversee events to ensure best possible quality of service to community.
+    - Vote in quorum to affect DC Python decisions and actions.
 
 Awards
 ------
