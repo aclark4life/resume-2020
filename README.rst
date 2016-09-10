@@ -97,6 +97,8 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Produce and maintain professional documentation with Sphinx software containing facility usage instructions and systems documentation.
     - Research and purchase computers, software and related items through complex government purchasing system.
+    - Frequently surplus broken or underused computers and other items to effectively manage severe physical space limitations.
+    - Frequently update property manager with ownership and location status of accountable property for inclusion in institute-level property database.
     - Provide desktop and mission-critical production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
