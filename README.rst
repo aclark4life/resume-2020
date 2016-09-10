@@ -197,8 +197,6 @@ Parkwood Residents Association (PRA)
     - Attend committee and resident meetings to participate in discussions about community issues.
     - Vote in quorum to affect PRA decisions and actions.
 
-|
-
 DC Python
 ~~~~~~~~~
 
@@ -213,6 +211,8 @@ DC Python
     - Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering of Plone developers and community; first US/Eastern location since inaugural event in 2003.
     - Continuously oversee events to ensure best possible quality of service to community.
     - Vote in quorum to affect DC Python decisions and actions.
+
+|
 
 Awards
 ------
