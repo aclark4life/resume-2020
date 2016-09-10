@@ -91,7 +91,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     - Provide research services to NIH research community.
     - Manage and maintain computers, software and related equipment for scientific core facility.
-    - Manage and maintain NetApp storage system featuring dual FAS-3240 and FAS-2240 controllers, SnapMirror and 200T data across over a half dozen volumes.
+    - Manage and maintain NetApp storage system featuring dual FAS-3240 and FAS-2240 controllers, SnapMirror and 200T data across a half dozen volumes, shared via NFS & CIFS, authenticated via NIH Windows domain controller.
     - Manage and maintain Dell VMWare server with 11 virtual machines, each with 32G RAM & 8G disk, primarily used by researchers to perform data analyses with MATLAB software.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related equipment through complex government purchasing system.
