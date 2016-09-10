@@ -45,6 +45,20 @@ Profiles
 
 |
 
+Education
+---------
+
+Bachelor of Science in Computer Science
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    **Loyola University Maryland**
+
+    January, 1999
+
+    http://www.loyola.edu/academics/computer-science
+
+|
+
 Work Experience
 ---------------
 
@@ -148,20 +162,6 @@ Loyola University Maryland
     - Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.
     - Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
     - Provided production operations support.
-
-|
-
-Education
----------
-
-Bachelor of Science in Computer Science
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    **Loyola University Maryland**
-
-    January, 1999
-
-    http://www.loyola.edu/academics/computer-science
 
 |
 
