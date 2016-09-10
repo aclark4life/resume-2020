@@ -111,8 +111,8 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Researched and recommended computers, software and related equipment for purchase through complex government purchasing system.
     - Analyzed network and computer system security.
     - Analyzed network performance with MRTG software.
-    - Provided desktop support. 
     - Provided Plone content management system instruction to content editors.
+    - Provided desktop support. 
     - Provided production operations support.
 
 Genuity

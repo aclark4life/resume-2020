@@ -102,7 +102,7 @@ endobj
 << /Outlines 33 0 R /PageLabels 61 0 R /PageMode /UseNone /Pages 55 0 R /Type /Catalog >>
 endobj
 32 0 obj
-<< /Author () /CreationDate (D:20160910083158+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910083158+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910083223+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910083223+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 33 0 obj
@@ -1481,7 +1481,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided desktop support.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided Plone content management system instruction to content editors.) Tj T* ET
 Q
 Q
 q
@@ -1505,7 +1505,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided Plone content management system instruction to content editors.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Provided desktop support.) Tj T* ET
 Q
 Q
 q
@@ -2835,7 +2835,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\277Y\026\220\230\242=\306\223\232\201\011\\\352\323\363) (\277Y\026\220\230\242=\306\223\232\201\011\\\352\323\363)]
+ [(2\334\2440\3643K\257;\340\2666\356Z\277\220) (2\334\2440\3643K\257;\340\2666\356Z\277\220)]
  /Info 32 0 R /Root 31 0 R /Size 67 >>
 startxref
 58469
