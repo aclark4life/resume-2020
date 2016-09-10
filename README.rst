@@ -91,6 +91,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH research community.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
+    - Researched and purchased computers, software and related equipment via complex government purchasing system.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -101,11 +102,9 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
-    - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH community.
+    - Managed and maintained computers, software and related equipment for scientific core facility to provide research services to NIH community.
     - Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.
-    - Research and recommend hardware for purchase.
-    - Install, configure and maintain server and desktop hardware.
-    - Troubleshoot and resolve hardware problems.
+    - Researched and recommended computers, software and related equipment for purchase via complex government purchasing system.
     - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and tape backups.
     - Manage network and system security.
     - Analyze network performance and public access to internal resources.
