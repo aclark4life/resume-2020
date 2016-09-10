@@ -88,14 +88,16 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
-    - Evaluate and recommend hardware for purchase by SSCC
-    - Install, configure and maintain hardware. Troubleshoot and resolve hardware problems
-    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and tape backups Manage network and system security. Analyze network performance and access to public resources
-    - Provide desktop support to SSCC members, resolved productivity issues
-    - Provide liaison to NIH CIT on infrastructure and security related issues
-    - Manage content management system, provide instruction to SSCC members on how to add and edit content
-    - Design and implement new site technology
-    - Respond to and resolve web site issues for the SSCC and AFNI community
+    - Research and recommend hardware for purchase. 
+    - Install, configure and maintain server and desktop hardware.
+    - Troubleshoot and resolve hardware problems.
+    - Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and tape backups Manage network and system security.
+    - Analyze network performance and access to public resources.
+    - Provide desktop support to SSCC members, resolved productivity issues.
+    - Provide liaison to NIH CIT on infrastructure and security related issues.
+    - Manage content management system, provide instruction to SSCC members on how to add and edit content.
+    - Design and implement new site technology.
+    - Respond to and resolve web site issues for the SSCC and AFNI community.
 
 Genuity
 ~~~~~~~
