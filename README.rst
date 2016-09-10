@@ -211,7 +211,7 @@ Awards
 Startup Row Winner PyCon 2012 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    **pythonpackages.com**
+    **PythonPackages**
 
     March, 2012
 
