@@ -208,8 +208,8 @@ Parkwood Residents Association (PRA)
 Awards
 ------
 
-Startup Row Winners for PyCon 2012 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Startup Row Winner PyCon 2012 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     **pythonpackages.com**
 
@@ -217,7 +217,7 @@ Startup Row Winners for PyCon 2012
 
     http://pythonpackages.com
 
-    *pythonpackages.com began in October 2011 as a fun way to provide useful information to the Python community. Since then hundreds of folks have visited the site to feature their favorite Python packages, for a total of over 10K packages featured. New features have come regularly, and some new features are waiting in the wings, about to be launched.*
+    *"pythonpackages.com began in October 2011 as a fun way to provide useful information to the Python community. Since then hundreds of folks have visited the site to feature their favorite Python packages, for a total of over 10K packages featured. New features have come regularly, and some new features are waiting in the wings, about to be launched."*
 
 |
 
