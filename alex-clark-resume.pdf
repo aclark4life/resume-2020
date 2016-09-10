@@ -73,7 +73,7 @@ endobj
 << /A << /S /URI /Type /Action /URI (http://python-pillow.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 360.7736 183.2929 372.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 23 0 obj
-<< /A << /S /URI /Type /Action /URI (http://parkwoodresidents.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 156.7736 208.8629 168.7736 ] /Subtype /Link /Type /Annot >>
+<< /A << /S /URI /Type /Action /URI (http://parkwoodresidents.org) >> /Border [ 0 0 0 ] /Rect [ 82.69291 144.7736 208.8629 156.7736 ] /Subtype /Link /Type /Annot >>
 endobj
 24 0 obj
 << /Annots [ 21 0 R 22 0 R 23 0 R ] /Contents 58 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 54 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
@@ -99,7 +99,7 @@ endobj
 << /Outlines 32 0 R /PageLabels 60 0 R /PageMode /UseNone /Pages 54 0 R /Type /Catalog >>
 endobj
 31 0 obj
-<< /Author () /CreationDate (D:20160910071652+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910071652+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910072011+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910072011+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 32 0 obj
@@ -155,7 +155,7 @@ endobj
 << /Dest [ 24 0 R /XYZ 62.69291 438.0236 0 ] /Next 48 0 R /Parent 46 0 R /Title (Pillow) >>
 endobj
 48 0 obj
-<< /Dest [ 24 0 R /XYZ 62.69291 234.0236 0 ] /Next 49 0 R /Parent 46 0 R /Prev 47 0 R /Title (Parkwood Residents Association \(PRA\)) >>
+<< /Dest [ 24 0 R /XYZ 62.69291 222.0236 0 ] /Next 49 0 R /Parent 46 0 R /Prev 47 0 R /Title (Parkwood Residents Association \(PRA\)) >>
 endobj
 49 0 obj
 << /Dest [ 29 0 R /XYZ 62.69291 765.0236 0 ] /Parent 46 0 R /Prev 48 0 R /Title (DC Python) >>
@@ -829,7 +829,7 @@ Q
 endstream
 endobj
 56 0 obj
-<< /Length 8619 >>
+<< /Length 8620 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -1012,7 +1012,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.236412 Tw (Foster growth of small business from one part-time employee to two full time employees with) Tj T* 0 Tw (sub-contractors over 10 years.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.289213 Tw (Foster growth of small business from one part-time employee to two full-time employees with) Tj T* 0 Tw (sub-contractors over ten years.) Tj T* ET
 Q
 Q
 q
@@ -1935,7 +1935,7 @@ Q
 endstream
 endobj
 58 0 obj
-<< /Length 9057 >>
+<< /Length 9102 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -2247,25 +2247,25 @@ q
 1 0 0 1 62.69291 408.0236 cm
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 150 cm
+1 0 0 1 20 162 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Fork Author & Project Leader) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 132 cm
+1 0 0 1 20 144 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (July, 2010 \227 Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 114 cm
+1 0 0 1 20 126 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -2273,13 +2273,13 @@ BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (http://python-pillow.org) Tj T* ET
 Q
 Q
 q
-1 0 0 1 20 108 cm
+1 0 0 1 20 120 cm
 Q
 q
-1 0 0 1 20 108 cm
+1 0 0 1 20 120 cm
 Q
 q
-1 0 0 1 20 84 cm
+1 0 0 1 20 96 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2300,14 +2300,14 @@ q
 Q
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 90 cm
 Q
 q
 1 0 0 1 20 66 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 -3 cm
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -2317,7 +2317,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Foster growth of core development team from single member to five members over five years.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.246647 Tw (Foster growth of core development team from single volunteer member to five volunteer) Tj T* 0 Tw (members over five years.) Tj T* ET
 Q
 Q
 q
@@ -2402,19 +2402,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 246.0236 cm
+1 0 0 1 62.69291 234.0236 cm
 Q
 q
-1 0 0 1 62.69291 216.0236 cm
+1 0 0 1 62.69291 204.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Parkwood Residents Association \(PRA\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 204.0236 cm
+1 0 0 1 62.69291 192.0236 cm
 Q
 q
-1 0 0 1 62.69291 102.0236 cm
+1 0 0 1 62.69291 90.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 BT 1 0 0 1 0 2 Tm  T* ET
@@ -2521,7 +2521,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 102.0236 cm
+1 0 0 1 62.69291 90.02362 cm
 Q
  
 endstream
@@ -2932,20 +2932,20 @@ xref
 0000016371 00000 n
 0000016463 00000 n
 0000026129 00000 n
-0000034805 00000 n
-0000044487 00000 n
-0000053601 00000 n
-0000059064 00000 n
-0000059144 00000 n
-0000059181 00000 n
-0000059218 00000 n
-0000059255 00000 n
-0000059292 00000 n
+0000034806 00000 n
+0000044488 00000 n
+0000053647 00000 n
+0000059110 00000 n
+0000059190 00000 n
+0000059227 00000 n
+0000059264 00000 n
+0000059301 00000 n
+0000059338 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\265\015\0238\020\337G\332z\273\270\036]\336\237?) (\265\015\0238\020\337G\332z\273\270\036]\336\237?)]
+ [(^\366\374{\013\251\305\263a\322\230{\272\220P\234) (^\366\374{\013\251\305\263a\322\230{\272\220P\234)]
  /Info 31 0 R /Root 30 0 R /Size 66 >>
 startxref
-59329
+59375
 %%EOF

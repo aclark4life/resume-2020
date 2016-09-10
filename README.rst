@@ -76,7 +76,7 @@ ACLARK.NET, LLC
     - Develop and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Provide production operations support.
     - Write articles on technical subjects, publish to professional blog: http://blog.aclark.net.
-    - Foster growth of small business from one part-time employee to two full time employees with sub-contractors over 10 years.
+    - Foster growth of small business from one part-time employee to two full-time employees with sub-contractors over ten years.
     - Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.
     - Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.
 
@@ -182,7 +182,7 @@ Pillow
     http://python-pillow.org
 
     - Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.
-    - Foster growth of core development team from single member to five members over five years.
+    - Foster growth of core development team from single volunteer member to five volunteer members over five years.
     - Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.
     - Implement and manage quarterly release schedule.
     - Continuously oversee development to ensure best possible quality of releases.
