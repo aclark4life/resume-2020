@@ -84,7 +84,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     March, 2013 — Present
 
-    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
+    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
 
     - Evaluate and recommend hardware and software for purchase by NIF.
     - Install, configure and maintain hardware and software.
