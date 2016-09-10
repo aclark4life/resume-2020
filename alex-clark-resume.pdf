@@ -102,7 +102,7 @@ endobj
 << /Outlines 33 0 R /PageLabels 61 0 R /PageMode /UseNone /Pages 55 0 R /Type /Catalog >>
 endobj
 32 0 obj
-<< /Author () /CreationDate (D:20160910080334+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910080334+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+<< /Author () /CreationDate (D:20160910080412+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160910080412+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False >>
 endobj
 33 0 obj
@@ -832,7 +832,7 @@ Q
 endstream
 endobj
 57 0 obj
-<< /Length 7947 >>
+<< /Length 7944 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -896,7 +896,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 14 Tm .258443 Tw 12 TL /F1 10 Tf 0 0 0 rg (Develop and maintain Python web applications with Django, Plone, Pyramid & Zope and related) Tj T* 0 Tw (technologies e.g. HTML/CSS/JavaScript.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .899213 Tw 12 TL /F1 10 Tf 0 0 0 rg (Develop and deploy Python web applications with Django, Plone, Pyramid & Zope and related) Tj T* 0 Tw (technologies e.g. HTML/CSS/JavaScript.) Tj T* ET
 Q
 Q
 q
@@ -920,7 +920,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .311797 Tw (Develop and maintain complex IT infrastructure with Amazon Web Services \(AWS\), CloudFlare,) Tj T* 0 Tw (Rackspace Cloud, etc.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .361797 Tw (Manage and maintain complex IT infrastructure with Amazon Web Services \(AWS\), CloudFlare,) Tj T* 0 Tw (Rackspace Cloud, etc.) Tj T* ET
 Q
 Q
 q
@@ -2864,20 +2864,20 @@ xref
 0000016630 00000 n
 0000016722 00000 n
 0000026505 00000 n
-0000034509 00000 n
-0000045410 00000 n
-0000053542 00000 n
-0000058648 00000 n
-0000058728 00000 n
-0000058765 00000 n
-0000058802 00000 n
-0000058839 00000 n
-0000058876 00000 n
+0000034506 00000 n
+0000045407 00000 n
+0000053539 00000 n
+0000058645 00000 n
+0000058725 00000 n
+0000058762 00000 n
+0000058799 00000 n
+0000058836 00000 n
+0000058873 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(\266\260\336\260\\BrF\006?Eo0\036\257\034) (\266\260\336\260\\BrF\006?Eo0\036\257\034)]
+ [(@i@\002b\322\351\015\222\255i\255-3g\034) (@i@\002b\322\351\015\222\255i\255-3g\034)]
  /Info 32 0 R /Root 31 0 R /Size 67 >>
 startxref
-58913
+58910
 %%EOF
