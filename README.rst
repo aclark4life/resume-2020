@@ -93,6 +93,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
     - Manage and maintain computers, software and related equipment for scientific core facility to provide research services to NIH research community.
     - Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.
     - Research and purchase computers, software and related equipment through complex government purchasing system.
+    - Provide ad hoc desktop support. 
     - Provide production operations support.
 
 Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)
@@ -157,10 +158,9 @@ Loyola University Maryland
 
     http://www.loyola.edu/department/technology-services
 
-    - Provided telephone and in-person technical support to students, faculty, and administrators.
-    - Performed installation and maintenance of computers and software in labs, offices, and dormitories.
     - Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
-    - Provided production operations support.
+    - Performed installation and maintenance of computers and software in labs, offices, and dormitories.
+    - Provided technical support to students, faculty, and administrators via telephone and on site.
 
 |
 
