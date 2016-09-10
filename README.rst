@@ -209,7 +209,7 @@ DC Python
     http://dcpython.org
 
     - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
-    - Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering of Plone developers; first US Eastern region location since inaugural event in 2003.
+    - Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering of Plone developers and community; first US/Eastern location since inaugural event in 2003.
 
 Awards
 ------
