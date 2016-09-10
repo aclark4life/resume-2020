@@ -113,7 +113,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
     - Analyzed network performance with MRTG software.
     - Provided Plone content management system instruction to content editors.
     - Provided desktop support. 
-    - Provide mission-critical production operations support.
+    - Provided mission-critical production operations support.
 
 Genuity
 ~~~~~~~
