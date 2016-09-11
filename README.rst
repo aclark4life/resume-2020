@@ -133,7 +133,7 @@ Genuity
     - Developed Perl CGI software to support remote configuration of access servers with over 4 ingress T1 data lines via SNMP e.g. Cisco 5400, Lucent APX 8000, Nortel CVX 1800.
     - Configured over 2,000 Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.
     - Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and Microsoft Windows workstations and servers.
-    - Configured Linux kernel to support myriad network interface cards.
+    - Configured Linux kernel modules to support myriad network interface cards.
     - Researched and resolved complex network connectivity issues.
     - Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.
     - Performed maintenance on AOLnet and BBN Dialinx dial-up networks.
