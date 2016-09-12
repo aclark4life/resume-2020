@@ -9,12 +9,15 @@
 h='&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#46;&#110;&#x65;&#116;';a='&#64;';n='&#x2f;&#x2f;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#32;&#116;&#x79;&#112;&#x65;&#x3d;&#34;&#116;&#x65;&#120;&#116;&#x2f;&#106;&#x61;&#118;&#x61;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#34;&#62;&#10;&#60;&#x21;&#x2d;&#x2d;&#10;&#104;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#46;&#110;&#x65;&#116;&#x27;&#x3b;&#x61;&#x3d;&#x27;&#64;&#x27;&#x3b;&#110;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#x27;&#x3b;&#x65;&#x3d;&#110;&#x2b;&#x61;&#x2b;&#104;&#x3b;&#10;&#100;&#x6f;&#x63;&#x75;&#x6d;&#x65;&#110;&#116;&#46;&#x77;&#114;&#x69;&#116;&#x65;&#40;&#x27;&#60;&#x61;&#32;&#104;&#x27;&#x2b;&#x27;&#114;&#x65;&#102;&#x27;&#x2b;&#x27;&#x3d;&#34;&#x6d;&#x61;&#x27;&#x2b;&#x27;&#x69;&#108;&#116;&#x6f;&#x27;&#x2b;&#x27;&#58;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#34;&#32;&#x63;&#108;&#x61;&#x73;&#x27;&#x2b;&#x27;&#x73;&#x3d;&#34;&#x65;&#x6d;&#x27;&#32;&#x2b;&#32;&#x27;&#x61;&#x69;&#108;&#34;&#62;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#60;&#92;&#x2f;&#x27;&#x2b;&#x27;&#x61;&#x27;&#x2b;&#x27;&#62;&#x27;&#x29;&#x3b;&#10;&#x2f;&#x2f;&#32;&#x2d;&#x2d;&#62;&#10;&#60;&#x2f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#60;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#60;&#x2f;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;'+'<\/'+'a'+'>');
 // -->
-</script><noscript>&#60;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#32;&#116;&#x79;&#112;&#x65;&#x3d;&#34;&#116;&#x65;&#120;&#116;&#x2f;&#106;&#x61;&#118;&#x61;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#34;&#62;&#10;&#60;&#x21;&#x2d;&#x2d;&#10;&#104;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#46;&#110;&#x65;&#116;&#x27;&#x3b;&#x61;&#x3d;&#x27;&#64;&#x27;&#x3b;&#110;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#x27;&#x3b;&#x65;&#x3d;&#110;&#x2b;&#x61;&#x2b;&#104;&#x3b;&#10;&#100;&#x6f;&#x63;&#x75;&#x6d;&#x65;&#110;&#116;&#46;&#x77;&#114;&#x69;&#116;&#x65;&#40;&#x27;&#60;&#x61;&#32;&#104;&#x27;&#x2b;&#x27;&#114;&#x65;&#102;&#x27;&#x2b;&#x27;&#x3d;&#34;&#x6d;&#x61;&#x27;&#x2b;&#x27;&#x69;&#108;&#116;&#x6f;&#x27;&#x2b;&#x27;&#58;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#34;&#32;&#x63;&#108;&#x61;&#x73;&#x27;&#x2b;&#x27;&#x73;&#x3d;&#34;&#x65;&#x6d;&#x27;&#32;&#x2b;&#32;&#x27;&#x61;&#x69;&#108;&#34;&#62;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#60;&#92;&#x2f;&#x27;&#x2b;&#x27;&#x61;&#x27;&#x2b;&#x27;&#62;&#x27;&#x29;&#x3b;&#10;&#x2f;&#x2f;&#32;&#x2d;&#x2d;&#62;&#10;&#60;&#x2f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#60;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#60;&#x2f;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#32;&#40;&#x2f;&#x2f;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#x29;</noscript> | Website: <a href="http://aclark.net" class="uri">http://aclark.net</a></p>
+</script><noscript>&#60;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#32;&#116;&#x79;&#112;&#x65;&#x3d;&#34;&#116;&#x65;&#120;&#116;&#x2f;&#106;&#x61;&#118;&#x61;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#34;&#62;&#10;&#60;&#x21;&#x2d;&#x2d;&#10;&#104;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#46;&#110;&#x65;&#116;&#x27;&#x3b;&#x61;&#x3d;&#x27;&#64;&#x27;&#x3b;&#110;&#x3d;&#x27;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#x27;&#x3b;&#x65;&#x3d;&#110;&#x2b;&#x61;&#x2b;&#104;&#x3b;&#10;&#100;&#x6f;&#x63;&#x75;&#x6d;&#x65;&#110;&#116;&#46;&#x77;&#114;&#x69;&#116;&#x65;&#40;&#x27;&#60;&#x61;&#32;&#104;&#x27;&#x2b;&#x27;&#114;&#x65;&#102;&#x27;&#x2b;&#x27;&#x3d;&#34;&#x6d;&#x61;&#x27;&#x2b;&#x27;&#x69;&#108;&#116;&#x6f;&#x27;&#x2b;&#x27;&#58;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#34;&#32;&#x63;&#108;&#x61;&#x73;&#x27;&#x2b;&#x27;&#x73;&#x3d;&#34;&#x65;&#x6d;&#x27;&#32;&#x2b;&#32;&#x27;&#x61;&#x69;&#108;&#34;&#62;&#x27;&#x2b;&#x65;&#x2b;&#x27;&#60;&#92;&#x2f;&#x27;&#x2b;&#x27;&#x61;&#x27;&#x2b;&#x27;&#62;&#x27;&#x29;&#x3b;&#10;&#x2f;&#x2f;&#32;&#x2d;&#x2d;&#62;&#10;&#60;&#x2f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#60;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#60;&#x2f;&#110;&#x6f;&#x73;&#x63;&#114;&#x69;&#112;&#116;&#62;&#32;&#40;&#x2f;&#x2f;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#x61;&#116;&#32;&#x61;&#x63;&#108;&#x61;&#114;&#x6b;&#32;&#100;&#x6f;&#116;&#32;&#110;&#x65;&#116;&#x29;</noscript> | Twitter: <a href="https://twitter.com/aclark4life" class="uri">https://twitter.com/aclark4life</a> | Website: <a href="http://aclark.net" class="uri">http://aclark.net</a></p>
 <p>|</p>
 <h2 id="about">About</h2>
 <blockquote>
 <p>Alex Clark is a <strong>Python Web Developer</strong> from Baltimore, Maryland, USA living in Bethesda, Maryland. He has a <strong>Bachelor of Science in Computer Science</strong> from Loyola University in Maryland and has worked as a <strong>Network Engineer, Software Engineer, Systems Administrator</strong> and <strong>Technical Team Leader</strong> since May, 1998. He is also the <strong>President of DC Python</strong>, a non-profit organization he co-founded to promote and support the use of Python software in DC.</p>
 </blockquote>
+<p>|</p>
+<h2 id="profiles">Profiles</h2>
+<h3 id="github-httpsgithub.comaclark4life-linkedin-httpslinkedin.cominaclark4life"><a href="https://github.com/aclark4life">GitHub (<a href="https://github.com/aclark4life" class="uri">https://github.com/aclark4life</a>)</a> | <a href="https://linkedin.com/in/aclark4life">LinkedIn (<a href="https://linkedin.com/in/aclark4life" class="uri">https://linkedin.com/in/aclark4life</a>)</a></h3>
 <p>|</p>
 <h2 id="skills">Skills</h2>
 <table>
@@ -61,8 +64,13 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 </tbody>
 </table>
 <p>|</p>
-<h2 id="profiles">Profiles</h2>
-<h3 id="github-linkedin-twitter"><a href="https://github.com/aclark4life">GitHub</a> | <a href="https://www.linkedin.com/in/aclark4life">LinkedIn</a> | <a href="https://twitter.com/aclark4life">Twitter</a></h3>
+<h2 id="education">Education</h2>
+<h3 id="bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</h3>
+<blockquote>
+<p><strong>Loyola University Maryland</strong></p>
+<p>January, 1999</p>
+<p><a href="http://www.loyola.edu/academics/computer-science" class="uri">http://www.loyola.edu/academics/computer-science</a></p>
+</blockquote>
 <p>|</p>
 <h2 id="work-experience">Work Experience</h2>
 <h3 id="aclark.net-llc">ACLARK.NET, LLC</h3>
@@ -71,9 +79,15 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <p>2004 — Present</p>
 <p><a href="http://aclark.net" class="uri">http://aclark.net</a></p>
 <ul>
-<li>Develop and deploy, support and maintain Python web applications with Django, Plone, Pyramid &amp; Zope and related technologies e.g. HTML/CSS/JavaScript.</li>
-<li>Develop and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.</li>
-<li>Provide production operations support.</li>
+<li>Provide Python-based web development services to global community with strong local presence.</li>
+<li>Develop and deploy Python web applications with Django, Plone, Pyramid &amp; Zope and related technologies e.g. HTML/CSS/JavaScript.</li>
+<li>Manage and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.</li>
+<li>Serve government, non-profit and private sector clients e.g. NASA, National Geographic Society and Socialcode (a Washington Post company.)</li>
+<li>Write articles on technical subjects, publish to professional blog: <a href="http://blog.aclark.net" class="uri">http://blog.aclark.net</a>.</li>
+<li>Foster growth of small business from one part-time employee to two full-time employees with sub-contractors over ten years.</li>
+<li>Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.</li>
+<li>Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.</li>
+<li>Provide mission-critical production operations support.</li>
 </ul>
 </blockquote>
 <h3 id="neurophysiology-imaging-facility-nif-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h3>
@@ -82,27 +96,33 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <p>March, 2013 — Present</p>
 <p><a href="http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner"><a href="http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services" class="uri">http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services</a></a></p>
 <ul>
-<li>Evaluate and recommend hardware and software for purchase by NIF</li>
-<li>Install, configure and maintain hardware and software. Troubleshoot and resolve hardware and software problems</li>
-<li>Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and backups Manage network and system security. Analyze network performance and access to public resources</li>
-<li>Provide desktop support to NIF staff, resolve productivity issues</li>
-<li>Provide liaison to NIH CIT on infrastructure and security related issues</li>
+<li>Provide research services to NIH research community.</li>
+<li>Manage and maintain computers, software and related items for scientific core facility.</li>
+<li>Manage and maintain NetApp storage system featuring dual FAS-3240 and FAS-2240 controllers, SnapMirror and 200T data across 8 volumes, shared via NFS &amp; CIFS, authenticated and authorized via NIH Windows domain controller.</li>
+<li>Manage and maintain Dell VMWare server with 11 virtual machines, each with 32G RAM &amp; 8G disk, primarily used by researchers to perform data analyses with MATLAB software.</li>
+<li>Install and configure Ubuntu Linux, CentOS Linux, Apple macOS Unix and Microsoft Windows workstations and servers.</li>
+<li>Produce and maintain professional documentation with Sphinx software containing facility usage instructions and systems documentation.</li>
+<li>Research and purchase computers, software and related items through complex government purchasing system.</li>
+<li>Frequently surplus broken or unused computers and other items to effectively manage severe physical space limitations.</li>
+<li>Frequently update property manager with ownership and location status of accountable property for entry in NIMH property database.</li>
+<li>Provide desktop and mission-critical production operations support.</li>
 </ul>
 </blockquote>
 <h3 id="scientific-and-statistical-computing-core-sscc-division-of-intramural-research-programs-dirp-national-institute-of-mental-health-nimh-national-institutes-of-health-nih">Scientific and Statistical Computing Core (SSCC) → Division of Intramural Research Programs (DIRP) → National Institute of Mental Health (NIMH) → National Institutes of Health (NIH)</h3>
 <blockquote>
 <p>May, 2002 — October, 2005</p>
 <p><strong>Systems Administrator</strong></p>
-<p><a href="http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner"><a href="http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services" class="uri">http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services</a></a></p>
+<p><a href="http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml"><a href="http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc" class="uri">http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc</a></a></p>
 <ul>
-<li>Evaluate and recommend hardware for purchase by SSCC</li>
-<li>Install, configure and maintain hardware. Troubleshoot and resolve hardware problems</li>
-<li>Install, configure and maintain operating systems, web server, content management system, FTP server, directory services, file sharing services, revision control system, and tape backups Manage network and system security. Analyze network performance and access to public resources</li>
-<li>Provide desktop support to SSCC members, resolved productivity issues</li>
-<li>Provide liaison to NIH CIT on infrastructure and security related issues</li>
-<li>Manage content management system, provide instruction to SSCC members on how to add and edit content</li>
-<li>Design and implement new site technology</li>
-<li>Respond to and resolve web site issues for the SSCC and AFNI community</li>
+<li>Provided research services to NIH research community.</li>
+<li>Managed and maintained computers, software and related items for scientific core facility.</li>
+<li>Installed and configured Debian Linux, Fedora Core Linux, Redhat Linux, Apple OS X Unix and Microsoft Windows workstations and servers.</li>
+<li>Installed, configured and maintained Apache web server, Plone content management system, ProFTPD FTP server, OpenLDAP directory services, CIFS &amp; NFS file sharing services, CVS version control system, and Arkeia tape backups.</li>
+<li>Researched and recommended computers, software and related items for purchase through complex government purchasing system.</li>
+<li>Analyzed network and computer security.</li>
+<li>Analyzed network performance with MRTG software.</li>
+<li>Provided Plone content management system instruction to content editors.</li>
+<li>Provided desktop and mission-critical production operations support.</li>
 </ul>
 </blockquote>
 <h3 id="genuity">Genuity</h3>
@@ -115,11 +135,11 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <li>Developed Perl CGI software to support remote configuration of access servers with over 4 ingress T1 data lines via SNMP e.g. Cisco 5400, Lucent APX 8000, Nortel CVX 1800.</li>
 <li>Configured over 2,000 Cisco Access Servers, Equinox Terminal Servers and Cisco Catalyst Ethernet Switches.</li>
 <li>Installed and configured Debian Linux, Redhat Linux, Sun Microsystems Solaris Unix and Microsoft Windows workstations and servers.</li>
-<li>Configured Linux kernel to support myriad network interface cards.</li>
+<li>Configured Linux kernel modules to support myriad network interface cards.</li>
 <li>Researched and resolved complex network connectivity issues.</li>
 <li>Verified successful negotiation of TCP, PPP and L2TP protocols through dial-up connections between client programs and remote access servers.</li>
-<li>Performed maintenance on AOLNet and DialLinx dial-up networks.</li>
-<li>Provided production operations support.</li>
+<li>Performed maintenance on AOLnet and BBN Dialinx dial-up networks.</li>
+<li>Provided mission-critical production operations support.</li>
 </ul>
 </blockquote>
 <h3 id="charm-net">Charm Net</h3>
@@ -128,11 +148,11 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <p>January, 1998 — August, 1998</p>
 <p><a href="http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net" class="uri">http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net</a></p>
 <ul>
-<li>Managed 4 BSDI Unix servers for over 2,000 users.</li>
-<li>Installed and configured DNS, NFS, Sendmail, Apache, INND and Dump/Restore.</li>
-<li>Installed and configured hardware and software for streaming FM radio to the internet.</li>
+<li>Managed and maintained 4 BSDI Unix servers for over 2,000 internet service provider customers.</li>
+<li>Installed, configured and maintained DNS, NFS, Sendmail, Apache, INND and Dump/Restore software.</li>
+<li>Installed and configured computers and software for streaming FM radio to the internet.</li>
 <li>Installed and configured BSDI Unix servers and Microsoft Windows workstations and servers.</li>
-<li>Provided production operations support.</li>
+<li>Provided mission-critical production operations support.</li>
 </ul>
 </blockquote>
 <h3 id="loyola-university-maryland">Loyola University Maryland</h3>
@@ -141,22 +161,13 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <p>August, 1996 — November, 1997</p>
 <p><a href="http://www.loyola.edu/department/technology-services" class="uri">http://www.loyola.edu/department/technology-services</a></p>
 <ul>
-<li>Provided telephone and in-person technical support to students, faculty, and administrators.</li>
-<li>Performed installation, maintenance, and trouble-shooting of hardware and software in labs, offices, and dormitories.</li>
 <li>Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.</li>
-<li>Provided production operations support.</li>
+<li>Performed installation and maintenance of computers and software in labs, offices, and dormitories.</li>
+<li>Provided technical support to students, faculty, and administrators via telephone and on site.</li>
 </ul>
 </blockquote>
 <p>|</p>
-<h2 id="education">Education</h2>
-<h3 id="bachelor-of-science-in-computer-science">Bachelor of Science in Computer Science</h3>
-<blockquote>
-<p><strong>Loyola University Maryland</strong></p>
-<p>January, 1999</p>
-<p><a href="http://www.loyola.edu/academics/computer-science" class="uri">http://www.loyola.edu/academics/computer-science</a></p>
-</blockquote>
-<p>|</p>
-<h2 id="volunteer">Volunteer</h2>
+<h2 id="volunteer-work">Volunteer Work</h2>
 <h3 id="pillow">Pillow</h3>
 <blockquote>
 <p><strong>Fork Author &amp; Project Leader</strong></p>
@@ -164,10 +175,21 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <p><a href="http://python-pillow.org" class="uri">http://python-pillow.org</a></p>
 <ul>
 <li>Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.</li>
-<li>Foster growth of core development team from single member to five members over five years.</li>
+<li>Foster growth of core development team from single volunteer member to five volunteer members over five years.</li>
 <li>Write and submit grant proposal to fund Python 3 compatible version of Pillow; sent to Python Software Foundation February 28, 2013; passed unanimously on March 4, 2013.</li>
 <li>Implement and manage quarterly release schedule.</li>
 <li>Continuously oversee development to ensure best possible quality of releases.</li>
+</ul>
+</blockquote>
+<h3 id="parkwood-residents-association-pra">Parkwood Residents Association (PRA)</h3>
+<blockquote>
+<p><strong>Webmaster &amp; Executive Committee Member</strong></p>
+<p>2014 — Present</p>
+<p><a href="http://parkwoodresidents.org" class="uri">http://parkwoodresidents.org</a></p>
+<ul>
+<li>Maintain website for PRA to serve residents of Parkwood community in Bethesda, MD.</li>
+<li>Attend committee and resident meetings to participate in discussions about community issues.</li>
+<li>Vote in quorum to affect PRA decisions and actions.</li>
 </ul>
 </blockquote>
 <h3 id="dc-python">DC Python</h3>
@@ -177,13 +199,20 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+'&#60
 <p><a href="http://dcpython.org" class="uri">http://dcpython.org</a></p>
 <ul>
 <li>Co-founded 501(c)(3) non-profit organization to promote &amp; support Python software in DC.</li>
+<li>President of Board of Directors.</li>
+<li>Envisioned, co-organized and co-hosted Plone Conference 2008 in DC; largest yearly gathering of Plone developers and community; first US/Eastern location since inaugural event in 2003.</li>
+<li>Continuously oversee events to ensure best possible quality of service to community.</li>
+<li>Vote in quorum to affect DC Python decisions and actions.</li>
 </ul>
 </blockquote>
-<h3 id="parkwood-residents-association-pra">Parkwood Residents Association (PRA)</h3>
+<p>|</p>
+<h2 id="awards">Awards</h2>
+<h3 id="startup-row-winner-pycon-2012">Startup Row Winner PyCon 2012</h3>
 <blockquote>
-<p><strong>Webmaster &amp; Executive Committee Member</strong></p>
-<p>2014 — Present</p>
-<p><a href="http://parkwoodresidents.org" class="uri">http://parkwoodresidents.org</a></p>
+<p><strong>PythonPackages</strong></p>
+<p>March, 2012</p>
+<p><a href="http://pythonpackages.com" class="uri">http://pythonpackages.com</a></p>
+<p><em>&quot;PythonPackages began in October 2011 as a fun way to provide useful information to the Python community. Since then hundreds of folks have visited the site to feature their favorite Python packages, for a total of over 10K packages featured. New features have come regularly, and some new features are waiting in the wings, about to be launched.&quot;</em></p>
 </blockquote>
 <p>|</p>
 <h2 id="publications">Publications</h2>
