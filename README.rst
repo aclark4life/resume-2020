@@ -23,6 +23,10 @@ About
 Profiles
 --------
 
+.. raw:: html
+
+    <i class="fa fa-github"></i>
+
 `GitHub (https://github.com/aclark4life) <https://github.com/aclark4life>`_ | `LinkedIn (https://linkedin.com/in/aclark4life) <https://linkedin.com/in/aclark4life>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

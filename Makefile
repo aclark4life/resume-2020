@@ -237,7 +237,7 @@ vagrant-up:
 resume: resume-build git-commit-auto-push
 resume-build: resume-html resume-pdf
 resume-html:
-	rst2html.py --stylesheet=bootstrap.min.css,styles.css README.rst > alex-clark-resume.html
+	rst2html.py --stylesheet=bootstrap.min.css,styles.css,font-awesome.min.css README.rst > alex-clark-resume.html
 resume-pdf:
 	rst2pdf README.rst -o alex-clark-resume.pdf
 resume-doc:
