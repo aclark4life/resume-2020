@@ -241,4 +241,4 @@ resume-html:
 resume-pdf:
 	rst2pdf README.rst -o alex-clark-resume.pdf
 resume-doc:
-	pandoc README.rst -o alex-clark-resume.doc
+	rst2odt.py README.rst > alex-clark-resume.odt
