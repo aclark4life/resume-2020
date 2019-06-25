@@ -402,6 +402,6 @@ pack: webpack  # Alias
 .DEFAULT_GOAL=resume
 
 resume:
-	rst2html.py --stylesheet=https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css alex-clark-resume.rst > alex-clark-resume.html
+	rst2html.py --stylesheet=bootstrap.min.css alex-clark-resume.rst > alex-clark-resume.html
 	rst2pdf alex-clark-resume.rst > alex-clark-resume.pdf
 	$(MAKE) git-commit-auto-push
