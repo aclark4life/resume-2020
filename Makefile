@@ -402,5 +402,6 @@ pack: webpack  # Alias
 .DEFAULT_GOAL=resume
 
 resume:
+	rst2html.py alex-clark-resume.rst > alex-clark-resume.html
 	rst2pdf alex-clark-resume.rst > alex-clark-resume.pdf
 	$(MAKE) git-commit-auto-push

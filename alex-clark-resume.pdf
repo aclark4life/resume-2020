@@ -235,7 +235,7 @@ endobj
 endobj
 33 0 obj
 <<
-/Author () /CreationDate (D:20190625162911+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190625162911+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190625170207+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190625170207+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False
 >>
 endobj
@@ -362,7 +362,7 @@ endobj
 endobj
 57 0 obj
 <<
-/Length 9075
+/Length 9083
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -442,7 +442,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 50 Tm 2.567126 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alex Clark is ) Tj /F2 10 Tf (President of ACLARK.NET, LLC) Tj /F1 10 Tf (. He is from Baltimore, Maryland, USA living in) Tj T* 0 Tw .179269 Tw (Bethesda, Maryland. He has a ) Tj /F2 10 Tf (Bachelor of Science in Computer Science) Tj /F1 10 Tf ( from Loyola University in) Tj T* 0 Tw 1.593615 Tw (Maryland and has worked as a ) Tj /F2 10 Tf (Network Engineer, Software Engineer, Systems Administrator) Tj /F1 10 Tf  T* 0 Tw .468735 Tw (and ) Tj /F2 10 Tf (Technical Team Leader) Tj /F1 10 Tf ( since May, 1998. He is also the ) Tj /F2 10 Tf (President of DC Python) Tj /F1 10 Tf (, a non-profit) Tj T* 0 Tw (organization he co-founded to promote and support the use of Python software in DC.) Tj T* ET
+BT 1 0 0 1 0 50 Tm -0.116265 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alex Clark is ) Tj /F2 10 Tf (President of ACLARK.NET, LLC) Tj /F1 10 Tf (. He is from Baltimore, Maryland, USA and now lives in) Tj T* 0 Tw .179269 Tw (Bethesda, Maryland. He has a ) Tj /F2 10 Tf (Bachelor of Science in Computer Science) Tj /F1 10 Tf ( from Loyola University in) Tj T* 0 Tw 1.593615 Tw (Maryland and has worked as a ) Tj /F2 10 Tf (Network Engineer, Software Engineer, Systems Administrator) Tj /F1 10 Tf  T* 0 Tw .468735 Tw (and ) Tj /F2 10 Tf (Technical Team Leader) Tj /F1 10 Tf ( since May, 1998. He is also the ) Tj /F2 10 Tf (President of DC Python) Tj /F1 10 Tf (, a non-profit) Tj T* 0 Tw (organization he co-founded to promote and support the use of Python software in DC.) Tj T* ET
 Q
 Q
 q
@@ -3150,22 +3150,22 @@ xref
 0000016526 00000 n 
 0000016644 00000 n 
 0000016740 00000 n 
-0000025867 00000 n 
-0000034017 00000 n 
-0000039843 00000 n 
-0000048324 00000 n 
-0000055698 00000 n 
-0000057893 00000 n 
-0000057982 00000 n 
-0000058016 00000 n 
-0000058050 00000 n 
-0000058084 00000 n 
-0000058118 00000 n 
-0000058152 00000 n 
+0000025875 00000 n 
+0000034025 00000 n 
+0000039851 00000 n 
+0000048332 00000 n 
+0000055706 00000 n 
+0000057901 00000 n 
+0000057990 00000 n 
+0000058024 00000 n 
+0000058058 00000 n 
+0000058092 00000 n 
+0000058126 00000 n 
+0000058160 00000 n 
 trailer
 <<
 /ID 
-[<0ab4532048db3a010d9e6960a566ebfa><0ab4532048db3a010d9e6960a566ebfa>]
+[<7f360e0f7bac324fab253c14444f427d><7f360e0f7bac324fab253c14444f427d>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 33 0 R
@@ -3173,5 +3173,5 @@ trailer
 /Size 70
 >>
 startxref
-58186
+58194
 %%EOF
