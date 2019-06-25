@@ -9,7 +9,7 @@ Alex Clark
 
 |
 
-Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Twitter: https://twitter.com/aclark4life | Website: http://aclark.net
+Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Twitter: https://twitter.com/aclark4life | Website: https://aclark.net
 
 |
 
