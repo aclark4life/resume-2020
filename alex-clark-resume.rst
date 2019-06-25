@@ -16,7 +16,7 @@ Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Twitter: https://twit
 About
 -----
 
-    Alex Clark is **President of ACLARK.NET, LLC**. He is from Baltimore, Maryland, USA and now lives in Bethesda, Maryland. He has a **Bachelor of Science in Computer Science** from Loyola University in Maryland and has worked as a **Network Engineer, Software Engineer, Systems Administrator** and **Technical Team Leader** since May, 1998. He is also the **President of DC Python**, a non-profit organization he co-founded to promote and support the use of Python software in DC.
+    Alex Clark is **President of ACLARK.NET, LLC**. He is from Baltimore, Maryland, USA and lives in Bethesda, Maryland, USA. He has a **Bachelor of Science in Computer Science** from Loyola University in Maryland and has worked as a **Network Engineer, Software Engineer, Systems Administrator** and **Technical Team Leader** since May, 1998. He is also the **President of DC Python**, a non-profit organization he co-founded to promote and support the use of Python software in DC.
 
 |
 
