@@ -30,7 +30,7 @@ Skills
 +---------------------+---------------------+----------------------+---------------------+
 | **Networking**      | **Python**          | **Systems**          | **Web Development** |
 +---------------------+---------------------+----------------------+---------------------+
-| - TCP/IP            | - Django            | - Apple macOS (Unix) |   - HTML            |
+| - TCP/IP            | - Django            | - Apple macOS (Unix®)|   - HTML            |
 | - CIFS              | - Pillow            | - CentOS Linux       |   - CSS             |
 | - NFS               |                     | - Ubuntu Linux       |   - JavaScript      |
 | - DNS               |                     | - Microsoft Windows  |                     |
@@ -61,11 +61,11 @@ Work Experience
 ACLARK.NET, LLC
 ~~~~~~~~~~~~~~~
 
-    **Partner & Python Web Developer**
+    **President & Co-Founder**
 
     2004 — Present
 
-    http://aclark.net
+    https://aclark.net
 
     - Provide Python-based web development services to global community with strong local presence.
     - Develop and deploy Python web applications with Django, Plone, Pyramid & Zope and related technologies e.g. HTML/CSS/JavaScript.
