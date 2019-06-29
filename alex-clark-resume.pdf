@@ -228,7 +228,7 @@ endobj
 endobj
 32 0 obj
 <<
-/Author () /CreationDate (D:20190628203154+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190628203154+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20190628203313+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190628203313+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Alex Clark) /Trapped /False
 >>
 endobj
@@ -355,7 +355,7 @@ endobj
 endobj
 56 0 obj
 <<
-/Length 8208
+/Length 8206
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -416,7 +416,7 @@ BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 0 cm
 q
-BT 1 0 0 1 0 62 Tm -0.122682 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alex Clark is ) Tj /F2 10 Tf (President & Co-Founder of ACLARK.NET) Tj /F1 10 Tf (. He is from Baltimore, Maryland, USA and is) Tj T* 0 Tw .814269 Tw (currently living in Bethesda, Maryland, USA. He has a ) Tj /F2 10 Tf (Bachelor of Science in Computer Science) Tj /F1 10 Tf  T* 0 Tw 1.689982 Tw (from Loyola University in Maryland and has worked as a ) Tj /F2 10 Tf (DevOps Engineer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Network Engineer,) Tj T* 0 Tw .682706 Tw (Software Engineer, Systems Administrator) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Technical Team Leader) Tj /F1 10 Tf ( and more since May, 1998.) Tj T* 0 Tw 2.600697 Tw (He is also the ) Tj /F2 10 Tf (President and Executive Director of DC Python) Tj /F1 10 Tf (, a non-profit organization he) Tj T* 0 Tw (co-founded to promote and support the use of Python software in DC.) Tj T* ET
+BT 1 0 0 1 0 62 Tm -0.122682 Tw 12 TL /F1 10 Tf 0 0 0 rg (Alex Clark is ) Tj /F2 10 Tf (President & Co-Founder of ACLARK.NET) Tj /F1 10 Tf (. He is from Baltimore, Maryland, USA and is) Tj T* 0 Tw .814269 Tw (currently living in Bethesda, Maryland, USA. He has a ) Tj /F2 10 Tf (Bachelor of Science in Computer Science) Tj /F1 10 Tf  T* 0 Tw 1.689982 Tw (from Loyola University in Maryland and has worked as a ) Tj /F2 10 Tf (DevOps Engineer) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Network Engineer,) Tj T* 0 Tw .682706 Tw (Software Engineer, Systems Administrator) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (Technical Team Leader) Tj /F1 10 Tf ( and more since May, 1998.) Tj T* 0 Tw 3.354983 Tw (He is also the ) Tj /F2 10 Tf (President & Executive Director of DC Python) Tj /F1 10 Tf (, a non-profit organization he) Tj T* 0 Tw (co-founded to promote and support the use of Python software in DC.) Tj T* ET
 Q
 Q
 q
@@ -3075,22 +3075,22 @@ xref
 0000016390 00000 n 
 0000016508 00000 n 
 0000016604 00000 n 
-0000024864 00000 n 
-0000032741 00000 n 
-0000041807 00000 n 
-0000050154 00000 n 
-0000056690 00000 n 
-0000057002 00000 n 
-0000057091 00000 n 
-0000057125 00000 n 
-0000057159 00000 n 
-0000057193 00000 n 
-0000057227 00000 n 
-0000057261 00000 n 
+0000024862 00000 n 
+0000032739 00000 n 
+0000041805 00000 n 
+0000050152 00000 n 
+0000056688 00000 n 
+0000057000 00000 n 
+0000057089 00000 n 
+0000057123 00000 n 
+0000057157 00000 n 
+0000057191 00000 n 
+0000057225 00000 n 
+0000057259 00000 n 
 trailer
 <<
 /ID 
-[<1a92075711c8eeef0af9e2dc08c77909><1a92075711c8eeef0af9e2dc08c77909>]
+[<26fda5000d84a5301aa8cf8fad4d7092><26fda5000d84a5301aa8cf8fad4d7092>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 32 0 R
@@ -3098,5 +3098,5 @@ trailer
 /Size 69
 >>
 startxref
-57295
+57293
 %%EOF
