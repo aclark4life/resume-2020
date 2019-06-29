@@ -28,12 +28,12 @@ Skills
 ------
 
 +---------------------+---------------------+----------------------+---------------------+
-| **Web Development** | **Python**          | **Systems**          | **Networking**      |
+| **Networking**      | **Python**          | **Systems**          | **Web Development** |
 +---------------------+---------------------+----------------------+---------------------+
-|   - HTML            | - Django            | - Apple macOS Unix   | - TCP/IP            |
-|   - CSS             | - Pyramid           | - Ubuntu Linux       | - CIFS              |
-|   - JavaScript      | - Plone             | - CentOS Linux       | - NFS               |
-|                     | - Zope              | - Microsoft Windows  | - DNS               |
+| - TCP/IP            | - Django            | - Apple macOS (Unix) |   - HTML            |
+| - CIFS              | - Pillow            | - CentOS Linux       |   - CSS             |
+| - NFS               |                     | - Ubuntu Linux       |   - JavaScript      |
+| - DNS               |                     | - Microsoft Windows  |                     |
 |                     |                     |                      |                     |
 |                     |                     |                      |                     |
 |                     |                     |                      |                     |
