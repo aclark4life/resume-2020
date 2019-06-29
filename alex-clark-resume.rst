@@ -12,7 +12,7 @@ Alex Clark
 About
 -----
 
-    Alex Clark is **President & Co-Founder of ACLARK.NET**. He is from Baltimore, Maryland, USA and is currently living in Bethesda, Maryland, USA. He has a **Bachelor of Science in Computer Science** from Loyola University in Maryland and has worked as a **Network Engineer, Software Engineer, Systems Administrator** and **Technical Team Leader** since May, 1998. He is also the **President and Executive Director of DC Python**, a non-profit organization he co-founded to promote and support the use of Python software in DC.
+    Alex Clark is **President & Co-Founder of ACLARK.NET**. He is from Baltimore, Maryland, USA and is currently living in Bethesda, Maryland, USA. He has a **Bachelor of Science in Computer Science** from Loyola University in Maryland and has worked as a **DevOps Engineer**, **Network Engineer, Software Engineer, Systems Administrator**, **Technical Team Leader** and more since May, 1998. He is also the **President and Executive Director of DC Python**, a non-profit organization he co-founded to promote and support the use of Python software in DC.
 
 |
 
