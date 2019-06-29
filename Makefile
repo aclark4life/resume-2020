@@ -399,9 +399,13 @@ pack: webpack  # Alias
 
 # Resume
 
-.DEFAULT_GOAL=resume
+.DEFAULT_GOAL=d
 
-resume:
+html:
 	rst2html.py --stylesheet=bootstrap.min.css alex-clark-resume.rst > alex-clark-resume.html
+pdf:
 	rst2pdf alex-clark-resume.rst > alex-clark-resume.pdf
+
+all: html pdf d
+d:
 	$(MAKE) git-commit-auto-push
