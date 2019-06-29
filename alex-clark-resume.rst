@@ -85,7 +85,7 @@ Neurophysiology Imaging Facility (NIF) → Division of Intramural Research Progr
 
     March, 2013 — Present
 
-    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
+    `https://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services <https://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/index.shtml#main_content_inner>`_
 
     - Provide research services to NIH research community.
     - Manage and maintain computers, software and related items for scientific core facility.
@@ -105,7 +105,7 @@ Scientific and Statistical Computing Core (SSCC) → Division of Intramural Rese
 
     **Systems Administrator**
 
-    `http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <http://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
+    `https://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc <https://www.nimh.nih.gov/labs-at-nimh/research-areas/research-support-services/sscc/index.shtml>`_
 
     - Provided research services to NIH research community.
     - Managed and maintained computers, software and related items for scientific core facility.
@@ -143,7 +143,7 @@ Charm Net
 
     January, 1998 — August, 1998
 
-    http://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net
+    https://www.businesswire.com/news/home/20070125005632/en/DataPoint-Acquires-Award-Winning-Charm-Net
 
     - Managed and maintained 4 BSDI Unix servers for over 2,000 internet service provider customers.
     - Installed, configured and maintained DNS, NFS, Sendmail, Apache, INND and Dump/Restore software. 
@@ -158,7 +158,7 @@ Loyola University Maryland
 
     August, 1996 — November, 1997
 
-    http://www.loyola.edu/department/technology-services
+    https://www.loyola.edu/department/technology-services
 
     - Installed and configured Sun Microsystems Solaris Unix, Slackware Linux, Redhat Linux and Microsoft Windows workstations and servers.
     - Performed installation and maintenance of computers and software in labs, offices, and dormitories.
@@ -176,7 +176,7 @@ Pillow
 
     July, 2010 — Present
 
-    http://python-pillow.org
+    https://python-pillow.org
 
     - Forked popular Python Imaging Library (PIL) software to create frequently-updated and well-maintained version.
     - Foster growth of core development team from single volunteer member to five volunteer members over five years.
@@ -204,7 +204,7 @@ DC Python
 
     2008 — Present
 
-    http://dcpython.org
+    https://dcpython.org
 
     - Co-founded 501(c)(3) non-profit organization to promote & support Python software in DC.
     - President of Board of Directors.
