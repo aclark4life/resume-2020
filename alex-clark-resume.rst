@@ -72,7 +72,7 @@ ACLARK.NET, LLC
     - Develop and deploy Python web applications with Django, Plone, Pyramid & Zope and related technologies e.g. HTML/CSS/JavaScript.
     - Manage and maintain complex IT infrastructure with Amazon Web Services (AWS), CloudFlare, Rackspace Cloud, etc.
     - Serve government, non-profit and private sector clients e.g. NASA, National Geographic Society and Socialcode (a Washington Post company.)
-    - Write articles on technical subjects, publish to professional blog: https://blog.aclark.net.
+    - Write articles on technical subjects.
     - Foster growth of small business from one part-time employee to two full-time employees with sub-contractors over ten years.
     - Assist with creation of limited liability corporation (LLC) in 2005 to facilitate business partnership.
     - Register trade name in 2004 with State of Maryland for sole proprietorship doing business as aclark.net.
