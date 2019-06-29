@@ -6,6 +6,7 @@ Alex Clark
 |
 
 .. image:: aclark-jobs.jpg
+    :align: center
 
 |
 
