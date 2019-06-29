@@ -9,10 +9,6 @@ Alex Clark
 
 |
 
-Email: `aclark@aclark.net <mailto://aclark@aclark.net>`_ | Twitter: https://twitter.com/aclark4life | Website: https://aclark.net
-
-|
-
 About
 -----
 
@@ -23,8 +19,8 @@ About
 Profiles
 --------
 
-`GitHub (https://github.com/aclark4life) <https://github.com/aclark4life>`_ | `LinkedIn (https://linkedin.com/in/aclark4life) <https://linkedin.com/in/aclark4life>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`GitHub (https://github.com/aclark4life) <https://github.com/aclark4life>`_ | `LinkedIn (https://linkedin.com/in/aclark4life) <https://linkedin.com/in/aclark4life>`_ |`Twitter (https://twitter.com/aclark4life) <https://twitter.com/aclark4life>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |
 
