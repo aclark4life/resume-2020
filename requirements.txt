@@ -1,5 +1,0 @@
-Sphinx==1.4.9
-sphinx-bootstrap-theme
-rst2pdf
-Pillow==2.9.0
-reportlab==2.7
